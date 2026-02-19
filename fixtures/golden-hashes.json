@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "UAE Law MCP",
+  "jurisdiction": "AE",
+  "provisions": [
+    {
+      "id": "ae-hash-001",
+      "description": "Constitution of the UAE (1971, as amended), Article 1 — the UAE is a federation of the emirates",
+      "upstream_url": "https://moj.gov.ae/en/legislation",
+      "selector_hint": "Article 1 - The Federation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "The United Arab Emirates is a federal"
+    },
+    {
+      "id": "ae-hash-002",
+      "description": "Federal Decree-Law No. 45/2021 on Personal Data Protection (PDPL), Article 1 — definitions and key terms",
+      "upstream_url": "https://moj.gov.ae/en/legislation",
+      "selector_hint": "Article 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal data"
+    },
+    {
+      "id": "ae-hash-003",
+      "description": "Federal Decree-Law No. 34/2021 on Combatting Rumours and Cybercrimes, Article 1 — definitions",
+      "upstream_url": "https://moj.gov.ae/en/legislation",
+      "selector_hint": "Article 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "information system"
+    },
+    {
+      "id": "ae-hash-004",
+      "description": "Federal Decree-Law No. 46/2021 on Electronic Transactions and Trust Services, Article 1 — definitions",
+      "upstream_url": "https://moj.gov.ae/en/legislation",
+      "selector_hint": "Article 1 - Definitions",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "electronic"
+    },
+    {
+      "id": "ae-hash-005",
+      "description": "DIFC Data Protection Law (Law No. 5/2020), Article 1 — application and scope",
+      "upstream_url": "https://difclaws.com/laws-and-regulations/data-protection",
+      "selector_hint": "Article 1 - Application",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal data"
+    },
+    {
+      "id": "ae-hash-006",
+      "description": "Federal Law No. 2/2015 on Commercial Companies, Article 1 — scope and application of the companies law",
+      "upstream_url": "https://moj.gov.ae/en/legislation",
+      "selector_hint": "Article 1 - Scope",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "compan"
+    }
+  ]
+}

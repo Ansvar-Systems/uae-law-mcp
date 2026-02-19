@@ -1,0 +1,180 @@
+{
+  "$schema": "./golden-tests.schema.json",
+  "version": "1.0",
+  "mcp_name": "UAE Law MCP",
+  "description": "Golden contract tests for the UAE Law MCP covering federal data protection (PDPL), cybercrimes, electronic transactions, commercial companies, and DIFC/ADGM free zone data protection legislation",
+  "tests": [
+    {
+      "id": "ae-001",
+      "category": "article_retrieval",
+      "description": "Retrieve Article 2 of the Personal Data Protection Law (Federal Decree-Law No. 45/2021) — definitions including personal data, data controller, data processor",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 45/2021 on Personal Data Protection",
+        "article": "2"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "text_contains": ["personal data"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ae-002",
+      "category": "article_retrieval",
+      "description": "Retrieve Article 1 of the Cybercrimes Law (Federal Decree-Law No. 34/2021) — definitions and scope",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 34/2021 on Combatting Rumours and Cybercrimes",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["cybercrime", "information system", "electronic"],
+        "fields_present": ["text", "article_number"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ae-003",
+      "category": "article_retrieval",
+      "description": "Retrieve Article 1 of the DIFC Data Protection Law (Law No. 5/2020) — application and scope",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "DIFC Data Protection Law No. 5/2020",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["personal data", "data protection", "DIFC"],
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ae-004",
+      "category": "search",
+      "description": "Full-text search for 'personal data' returns PDPL and data protection provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "personal data"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Personal Data Protection", "personal data", "data controller"]
+      }
+    },
+    {
+      "id": "ae-005",
+      "category": "search",
+      "description": "Full-text search for 'cybercrime' returns Cybercrimes Law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "cybercrime"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Combatting Rumours and Cybercrimes", "cybercrime", "information system"]
+      }
+    },
+    {
+      "id": "ae-006",
+      "category": "search",
+      "description": "Full-text search for 'electronic transaction' returns Electronic Transactions Law provisions",
+      "tool": "search_legislation",
+      "input": {
+        "query": "electronic transaction"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "min_results": 1,
+        "any_result_contains": ["Electronic Transactions", "electronic", "trust services"]
+      }
+    },
+    {
+      "id": "ae-007",
+      "category": "citation_roundtrip",
+      "description": "Citation for PDPL Article 3 includes moj.gov.ae or difclaws.com URL pattern",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 45/2021 on Personal Data Protection",
+        "article": "3"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "citation_url_pattern": "(moj\\.gov\\.ae|difclaws\\.com|adgm\\.com)",
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ae-008",
+      "category": "citation_roundtrip",
+      "description": "Citation for Commercial Companies Law Article 1 includes official source reference",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Law No. 2/2015 on Commercial Companies",
+        "article": "1"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "fields_present": ["text"],
+        "text_not_empty": true
+      }
+    },
+    {
+      "id": "ae-009",
+      "category": "eu_cross_reference",
+      "description": "PDPL cross-reference to GDPR — the UAE PDPL was influenced by GDPR principles",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 45/2021 on Personal Data Protection"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "data protection"]
+      }
+    },
+    {
+      "id": "ae-010",
+      "category": "eu_cross_reference",
+      "description": "DIFC Data Protection Law cross-reference to GDPR — DIFC DPL is closely modeled on GDPR",
+      "tool": "get_provision_eu_basis",
+      "input": {
+        "law_identifier": "DIFC Data Protection Law No. 5/2020"
+      },
+      "assertions": {
+        "result_not_empty": true,
+        "any_result_contains": ["GDPR", "General Data Protection Regulation", "2016/679", "EU"]
+      }
+    },
+    {
+      "id": "ae-011",
+      "category": "negative_test",
+      "description": "Non-existent UAE law returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 9999/2099 on Fictional Matters",
+        "article": "1"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    },
+    {
+      "id": "ae-012",
+      "category": "negative_test",
+      "description": "Malformed article number returns graceful error or empty result",
+      "tool": "get_provision",
+      "input": {
+        "law_identifier": "Federal Decree-Law No. 45/2021 on Personal Data Protection",
+        "article": "999ZZZ-INVALID"
+      },
+      "assertions": {
+        "handles_gracefully": true
+      }
+    }
+  ]
+}
