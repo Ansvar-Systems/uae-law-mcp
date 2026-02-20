@@ -9,7 +9,7 @@
  * - ETA -> eIDAS (Regulation 910/2014)
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
 export interface GetUAEImplementationsInput {
