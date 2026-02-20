@@ -9,7 +9,7 @@ import {
   ListToolsRequestSchema,
   Tool,
 } from '@modelcontextprotocol/sdk/types.js';
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 
 import { searchLegislation, type SearchLegislationInput } from './search-legislation.js';
 import { getProvision, type GetProvisionInput } from './get-provision.js';
