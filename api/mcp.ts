@@ -1,7 +1,7 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
 import { Server } from '@modelcontextprotocol/sdk/server/index.js';
 import { StreamableHTTPServerTransport } from '@modelcontextprotocol/sdk/server/streamableHttp.js';
-import Database from 'node-sqlite3-wasm';
+import Database from '@ansvar/mcp-sqlite';
 import { join } from 'path';
 import { copyFileSync, existsSync, readFileSync, rmSync, statSync, writeFileSync } from 'fs';
 import { createHash } from 'crypto';
