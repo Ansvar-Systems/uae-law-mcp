@@ -3,7 +3,7 @@
  * Detects which database tables are available to enable/disable features.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 
 export type Capability =
   | 'core_legislation'
