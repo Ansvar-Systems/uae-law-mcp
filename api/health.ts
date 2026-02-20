@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import Database from 'node-sqlite3-wasm';
+import Database from '@ansvar/mcp-sqlite';
 import { existsSync, copyFileSync, rmSync, statSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 import {
