@@ -2,7 +2,7 @@
  * about — Server metadata, dataset statistics, and provenance.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { detectCapabilities, readDbMetadata } from '../capabilities.js';
 import { SERVER_NAME, SERVER_VERSION, REPOSITORY_URL } from '../constants.js';
 
