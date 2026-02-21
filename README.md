@@ -143,7 +143,7 @@ Once connected, just ask naturally:
 | Tool | Description |
 |------|-------------|
 | `get_eu_basis` | Get EU directives/regulations for UAE statute |
-| `get_uae_law_implementations` | Find UAE laws implementing EU act |
+| `get_uae_implementations` | Find UAE laws implementing EU act |
 | `search_eu_implementations` | Search EU documents with UAE implementation counts |
 | `get_provision_eu_basis` | Get EU law references for specific provision |
 | `validate_eu_compliance` | Check implementation status of EU directives |
