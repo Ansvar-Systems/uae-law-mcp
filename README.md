@@ -1,67 +1,86 @@
-# UAE Law MCP
+# UAE Law MCP Server
 
-[![npm](https://img.shields.io/npm/v/@ansvar/uae-law-mcp)](https://www.npmjs.com/package/@ansvar/uae-law-mcp)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
-[![CI](https://github.com/Ansvar-Systems/uae-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/uae-law-mcp/actions/workflows/ci.yml)
-[![MCP Registry](https://img.shields.io/badge/MCP-Registry-green)](https://registry.modelcontextprotocol.io/)
-[![OpenSSF Scorecard](https://img.shields.io/ossf-scorecard/github.com/Ansvar-Systems/uae-law-mcp)](https://securityscorecards.dev/viewer/?uri=github.com/Ansvar-Systems/uae-law-mcp)
+**The MOJ alternative for the AI age.**
 
-A Model Context Protocol (MCP) server providing comprehensive access to United Arab Emirates legislation, including federal data protection (PDPL), cybercrimes, electronic transactions, commercial companies law, and DIFC/ADGM free zone data protection frameworks with full-text search.
+[![npm version](https://badge.fury.io/js/%40ansvar/uae-law-mcp.svg)](https://www.npmjs.com/package/@ansvar/uae-law-mcp)
+[![MCP Registry](https://img.shields.io/badge/MCP-Registry-blue)](https://registry.modelcontextprotocol.io)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/UAE-law-mcp?style=social)](https://github.com/Ansvar-Systems/UAE-law-mcp)
+[![CI](https://github.com/Ansvar-Systems/UAE-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/UAE-law-mcp/actions/workflows/ci.yml)
 
-## Deployment Tier
+Query **UAE legislation** -- covering data protection, cybersecurity, corporate law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
-**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+If you're building legal tech, compliance tools, or doing UAE legal research, this is your verified reference database.
 
-**Estimated database size:** ~80-150 MB (full corpus of UAE federal legislation plus DIFC and ADGM free zone laws)
+Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
-## Key Legislation Covered
+---
 
-| Law | Year | Significance |
-|-----|------|-------------|
-| **Federal Decree-Law No. 45/2021 (PDPL)** | 2021 | Comprehensive Personal Data Protection Law; overarching federal framework; UAE Data Office supervises implementation |
-| **Federal Decree-Law No. 34/2021** | 2021 | Combatting Rumours and Cybercrimes; replaced the 2012 cybercrimes law with expanded digital offences |
-| **Federal Decree-Law No. 46/2021** | 2021 | Electronic Transactions and Trust Services; governs e-signatures, e-commerce, and digital trust services |
-| **Federal Law No. 2/2015** | 2015 | Commercial Companies Law; primary corporate governance framework |
-| **DIFC Data Protection Law (Law No. 5/2020)** | 2020 | DIFC-specific data protection regime; common-law framework closely modeled on GDPR |
-| **ADGM Data Protection Regulations 2021** | 2021 | ADGM-specific data protection regime; common-law framework aligned with international standards |
-| **UAE Constitution** | 1971 (amended) | Foundational law establishing the federation of the emirates |
+## Why This Exists
 
-## Regulatory Context
+UAE legal research is scattered across official government databases, commercial legal platforms, and institutional archives. Whether you're:
+- A **lawyer** validating citations in a brief or contract
+- A **compliance officer** checking if a statute is still in force
+- A **legal tech developer** building tools on UAE law
+- A **researcher** tracing legislative history
 
-- **Federal Data Protection:** UAE Data Office oversees PDPL (Federal Decree-Law No. 45/2021), effective January 2, 2022
-- **DIFC:** Independent common-law jurisdiction in Dubai with its own courts, regulator (Commissioner of Data Protection), and data protection law
-- **ADGM:** Independent common-law jurisdiction in Abu Dhabi with its own courts, regulator, and data protection regulations
-- **Multi-layered system:** Federal law applies across all emirates; DIFC and ADGM have separate legal frameworks within their free zones
-- **Language:** Arabic is the official legal language for federal law; DIFC and ADGM laws are drafted natively in English
-- **TDRA (Telecommunications and Digital Government Regulatory Authority):** Regulates ICT sector
-- **Critical for Middle East market expansion** and cross-border data transfer compliance
+...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
-## Data Sources
+This MCP server makes UAE law **searchable, cross-referenceable, and AI-readable**.
 
-| Source | Authority | Method | Update Frequency | License | Coverage |
-|--------|-----------|--------|-----------------|---------|----------|
-| [UAE Ministry of Justice](https://moj.gov.ae) | Ministry of Justice, UAE | HTML Scrape | Monthly | Government Open Data | Federal Decree-Laws, Federal Laws, Cabinet Decisions, implementing regulations |
-| [DIFC Laws](https://difclaws.com) | Dubai International Financial Centre | HTML Scrape | On Change | Government Open Data | DIFC Data Protection Law, DIFC Companies Law, all DIFC regulations |
-| [ADGM Legal Framework](https://adgm.com/legal-framework) | Abu Dhabi Global Market | HTML Scrape | On Change | Government Open Data | ADGM Data Protection Regulations, ADGM Companies Regulations, all ADGM rules |
-| [WAM (Emirates News Agency)](https://www.wam.ae) | Emirates News Agency | HTML Scrape | Weekly | Government Publication | Gazette notices, legislative announcements |
+---
 
-> Full provenance metadata: [`sources.yml`](./sources.yml)
+## Quick Start
 
-## Installation
+### Use Remotely (No Install Needed)
 
-```bash
-npm install -g @ansvar/uae-law-mcp
+> Connect directly to the hosted version -- zero dependencies, nothing to install.
+
+**Endpoint:** `https://uae-law-mcp.vercel.app/mcp`
+
+| Client | How to Connect |
+|--------|---------------|
+| **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
+| **Claude Code** | `claude mcp add uae-law --transport http https://uae-law-mcp.vercel.app/mcp` |
+| **Claude Desktop** | Add to config (see below) |
+| **GitHub Copilot** | Add to VS Code settings (see below) |
+
+**Claude Desktop** -- add to `claude_desktop_config.json`:
+
+```json
+{
+  "mcpServers": {
+    "uae-law": {
+      "type": "url",
+      "url": "https://uae-law-mcp.vercel.app/mcp"
+    }
+  }
+}
 ```
 
-## Usage
+**GitHub Copilot** -- add to VS Code `settings.json`:
 
-### As stdio MCP server
-
-```bash
-uae-law-mcp
+```json
+{
+  "github.copilot.chat.mcp.servers": {
+    "uae-law": {
+      "type": "http",
+      "url": "https://uae-law-mcp.vercel.app/mcp"
+    }
+  }
+}
 ```
 
-### In Claude Desktop / MCP client configuration
+### Use Locally (npm)
+
+```bash
+npx @ansvar/uae-law-mcp
+```
+
+**Claude Desktop** -- add to `claude_desktop_config.json`:
+
+**macOS:** `~/Library/Application Support/Claude/claude_desktop_config.json`
+**Windows:** `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json
 {
@@ -74,60 +93,245 @@ uae-law-mcp
 }
 ```
 
-## Available Tools
+**Cursor / VS Code:**
 
-| Tool | Description |
-|------|-------------|
-| `get_provision` | Retrieve a specific article from a UAE federal law, DIFC law, or ADGM regulation |
-| `search_legislation` | Full-text search across all UAE, DIFC, and ADGM legislation |
-| `get_provision_eu_basis` | Cross-reference lookup for international framework relationships (GDPR, eIDAS, etc.) |
-
-## Development
-
-```bash
-# Install dependencies
-npm install
-
-# Build
-npm run build
-
-# Run tests
-npm test
-
-# Run contract tests
-npm run test:contract
-
-# Run all validation
-npm run validate
-
-# Build database from sources
-npm run build:db
-
-# Start server
-npm start
+```json
+{
+  "mcp.servers": {
+    "uae-law": {
+      "command": "npx",
+      "args": ["-y", "@ansvar/uae-law-mcp"]
+    }
+  }
+}
 ```
-
-## Contract Tests
-
-This MCP includes 12 golden contract tests covering:
-- 3 article retrieval tests (PDPL, Cybercrimes Law, DIFC Data Protection Law)
-- 3 search tests (personal data, cybercrime, electronic transaction)
-- 2 citation roundtrip tests (moj.gov.ae and difclaws.com URL patterns)
-- 2 cross-reference tests (PDPL to GDPR, DIFC DPL to GDPR)
-- 2 negative tests (non-existent law, malformed article)
-
-Run with: `npm run test:contract`
-
-## Security
-
-See [SECURITY.md](./SECURITY.md) for vulnerability disclosure policy.
-
-Report data errors: [Open an issue](https://github.com/Ansvar-Systems/uae-law-mcp/issues/new?template=data-error.md)
-
-## License
-
-Apache-2.0 -- see [LICENSE](./LICENSE)
 
 ---
 
-Built by [Ansvar Systems](https://ansvar.eu) -- Cybersecurity compliance through AI-powered analysis.
+## Example Queries
+
+Once connected, just ask naturally:
+
+- *"What does the UAE data protection law say about consent?"*
+- *"Search for cybersecurity requirements in UAE legislation"*
+- *"Is this statute still in force?"*
+- *"Find provisions about personal data in UAE law"*
+- *"What EU directives does this UAE law implement?"*
+- *"Which UAE laws implement the GDPR?"*
+- *"Validate this legal citation"*
+- *"Build a legal stance on data breach notification requirements"*
+
+---
+
+## Available Tools (13)
+
+### Core Legal Research Tools (8)
+
+| Tool | Description |
+|------|-------------|
+| `search_legislation` | FTS5 full-text search across all provisions with BM25 ranking |
+| `get_provision` | Retrieve specific provision by statute + chapter/section |
+| `check_currency` | Check if statute is in force, amended, or repealed |
+| `validate_citation` | Validate citation against database (zero-hallucination check) |
+| `build_legal_stance` | Aggregate citations from statutes for a legal topic |
+| `format_citation` | Format citations per UAE conventions (full/short/pinpoint) |
+| `list_sources` | List all available statutes with metadata |
+| `about` | Server info, capabilities, and coverage summary |
+
+### EU/International Law Integration Tools (5)
+
+| Tool | Description |
+|------|-------------|
+| `get_eu_basis` | Get EU directives/regulations for UAE statute |
+| `get_uae_law_implementations` | Find UAE laws implementing EU act |
+| `search_eu_implementations` | Search EU documents with UAE implementation counts |
+| `get_provision_eu_basis` | Get EU law references for specific provision |
+| `validate_eu_compliance` | Check implementation status of EU directives |
+
+---
+
+## Why This Works
+
+**Verbatim Source Text (No LLM Processing):**
+- All statute text is ingested from official UAE government sources
+- Provisions are returned **unchanged** from SQLite FTS5 database rows
+- Zero LLM summarization or paraphrasing -- the database contains regulation text, not AI interpretations
+
+**Smart Context Management:**
+- Search returns ranked provisions with BM25 scoring (safe for context)
+- Provision retrieval gives exact text by statute identifier + chapter/section
+- Cross-references help navigate without loading everything at once
+
+**Technical Architecture:**
+```
+Official Sources --> Parse --> SQLite --> FTS5 snippet() --> MCP response
+                     ^                       ^
+              Provision parser         Verbatim database query
+```
+
+### Traditional Research vs. This MCP
+
+| Traditional Approach | This MCP Server |
+|---------------------|-----------------|
+| Search official databases by statute number | Search by plain language |
+| Navigate multi-chapter statutes manually | Get the exact provision with context |
+| Manual cross-referencing between laws | `build_legal_stance` aggregates across sources |
+| "Is this statute still in force?" --> check manually | `check_currency` tool --> answer in seconds |
+| Find EU basis --> dig through EUR-Lex | `get_eu_basis` --> linked EU directives instantly |
+| No API, no integration | MCP protocol --> AI-native |
+
+---
+
+## Data Sources & Freshness
+
+All content is sourced from authoritative UAE legal databases:
+
+- **[Ministry of Justice](https://www.moj.gov.ae)** -- Official UAE government legal database
+
+**Verified data only** -- every citation is validated against official sources. Zero LLM-generated content.
+
+---
+
+## Security
+
+This project uses multiple layers of automated security scanning:
+
+| Scanner | What It Does | Schedule |
+|---------|-------------|----------|
+| **CodeQL** | Static analysis for security vulnerabilities | Weekly + PRs |
+| **Semgrep** | SAST scanning (OWASP top 10, secrets, TypeScript) | Every push |
+| **Gitleaks** | Secret detection across git history | Every push |
+| **Trivy** | CVE scanning on filesystem and npm dependencies | Daily |
+| **Socket.dev** | Supply chain attack detection | PRs |
+| **Dependabot** | Automated dependency updates | Weekly |
+
+See [SECURITY.md](SECURITY.md) for the full policy and vulnerability reporting.
+
+---
+
+## Important Disclaimers
+
+### Legal Advice
+
+> **THIS TOOL IS NOT LEGAL ADVICE**
+>
+> Statute text is sourced from official UAE government publications. However:
+> - This is a **research tool**, not a substitute for professional legal counsel
+> - **Court case coverage is limited** -- do not rely solely on this for case law research
+> - **Verify critical citations** against primary sources for court filings
+> - **EU cross-references** are extracted from statute text, not EUR-Lex full text
+
+**Before using professionally, read:** [DISCLAIMER.md](DISCLAIMER.md) | [SECURITY.md](SECURITY.md)
+
+### Client Confidentiality
+
+Queries go through the Claude API. For privileged or confidential matters, use on-premise deployment.
+
+---
+
+## Development
+
+### Setup
+
+```bash
+git clone https://github.com/Ansvar-Systems/UAE-law-mcp
+cd UAE-law-mcp
+npm install
+npm run build
+npm test
+```
+
+### Running Locally
+
+```bash
+npm run dev                                       # Start MCP server
+npx @anthropic/mcp-inspector node dist/index.js   # Test with MCP Inspector
+```
+
+---
+
+## Related Projects: Complete Compliance Suite
+
+This server is part of **Ansvar's Compliance Suite** -- MCP servers that work together for end-to-end compliance coverage:
+
+### [@ansvar/eu-regulations-mcp](https://github.com/Ansvar-Systems/EU_compliance_MCP)
+**Query 49 EU regulations directly from Claude** -- GDPR, AI Act, DORA, NIS2, MiFID II, eIDAS, and more. Full regulatory text with article-level search. `npx @ansvar/eu-regulations-mcp`
+
+### [@ansvar/us-regulations-mcp](https://github.com/Ansvar-Systems/US_Compliance_MCP)
+**Query US federal and state compliance laws** -- HIPAA, CCPA, SOX, GLBA, FERPA, and more. `npx @ansvar/us-regulations-mcp`
+
+### [@ansvar/security-controls-mcp](https://github.com/Ansvar-Systems/security-controls-mcp)
+**Query 261 security frameworks** -- ISO 27001, NIST CSF, SOC 2, CIS Controls, SCF, and more. `npx @ansvar/security-controls-mcp`
+
+### [@ansvar/automotive-cybersecurity-mcp](https://github.com/Ansvar-Systems/Automotive-MCP)
+**Query UNECE R155/R156 and ISO 21434** -- Automotive cybersecurity compliance. `npx @ansvar/automotive-cybersecurity-mcp`
+
+**30+ national law MCPs** covering Australia, Brazil, Canada, China, Denmark, Finland, France, Germany, Ghana, Iceland, India, Ireland, Israel, Italy, Japan, Kenya, Netherlands, Nigeria, Norway, Singapore, Slovenia, South Korea, Sweden, Switzerland, Thailand, UAE, UK, and more.
+
+---
+
+## Contributing
+
+Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+Priority areas:
+- Court case law expansion
+- EU cross-reference improvements
+- Historical statute versions and amendment tracking
+- Additional statutory instruments and regulations
+
+---
+
+## Roadmap
+
+- [x] Core statute database with FTS5 search
+- [x] EU/international law cross-references
+- [x] Vercel Streamable HTTP deployment
+- [x] npm package publication
+- [ ] Court case law expansion
+- [ ] Historical statute versions (amendment tracking)
+- [ ] Preparatory works / explanatory memoranda
+- [ ] Lower court and tribunal decisions
+
+---
+
+## Citation
+
+If you use this MCP server in academic research:
+
+```bibtex
+@software{uae_law_mcp_2025,
+  author = {Ansvar Systems AB},
+  title = {UAE Law MCP Server: AI-Powered Legal Research Tool},
+  year = {2025},
+  url = {https://github.com/Ansvar-Systems/UAE-law-mcp},
+  note = {UAE legal database with full-text search and EU cross-references}
+}
+```
+
+---
+
+## License
+
+Apache License 2.0. See [LICENSE](./LICENSE) for details.
+
+### Data Licenses
+
+- **Statutes & Legislation:** UAE Government (public domain)
+- **EU Metadata:** EUR-Lex (EU public domain)
+
+---
+
+## About Ansvar Systems
+
+We build AI-accelerated compliance and legal research tools for the global market. This MCP server started as our internal reference tool -- turns out everyone building compliance tools has the same research frustrations.
+
+So we're open-sourcing it.
+
+**[ansvar.eu](https://ansvar.eu)** -- Stockholm, Sweden
+
+---
+
+<p align="center">
+  <sub>Built with care in Stockholm, Sweden</sub>
+</p>
