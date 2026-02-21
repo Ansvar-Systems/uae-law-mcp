@@ -123,6 +123,28 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Law | Year | Significance |
+|-----|------|-------------|
+| **Federal Decree-Law No. 45/2021 (PDPL)** | 2021 | Comprehensive Personal Data Protection Law; overarching federal framework; UAE Data Office supervises implementation |
+| **Federal Decree-Law No. 34/2021** | 2021 | Combatting Rumours and Cybercrimes; replaced the 2012 cybercrimes law with expanded digital offences |
+| **Federal Decree-Law No. 46/2021** | 2021 | Electronic Transactions and Trust Services; governs e-signatures, e-commerce, and digital trust services |
+| **Federal Law No. 2/2015** | 2015 | Commercial Companies Law; primary corporate governance framework |
+| **DIFC Data Protection Law (Law No. 5/2020)** | 2020 | DIFC-specific data protection regime; common-law framework closely modeled on GDPR |
+| **ADGM Data Protection Regulations 2021** | 2021 | ADGM-specific data protection regime; common-law framework aligned with international standards |
+| **UAE Constitution** | 1971 (amended) | Foundational law establishing the federation of the emirates |
+
+---
+
+## Deployment Tier
+
+**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+
+**Estimated database size:** ~80-150 MB (full corpus of UAE federal legislation plus DIFC and ADGM free zone laws)
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
