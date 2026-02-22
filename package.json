@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/uae-law-mcp",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "mcpName": "eu.ansvar/uae-law-mcp",
   "description": "UAE law database covering federal data protection (PDPL), cybercrimes, electronic transactions, commercial companies, and DIFC/ADGM free zone data protection law with full-text search",
   "author": "Ansvar Systems <hello@ansvar.eu>",
