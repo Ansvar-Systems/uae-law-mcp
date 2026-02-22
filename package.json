@@ -54,7 +54,8 @@
     "ingest": "tsx scripts/ingest.ts",
     "drift:detect": "tsx scripts/drift-detect.ts",
     "check:freshness": "tsx scripts/check-freshness.ts",
-    "validate": "npm run lint && npm run test && npm run test:contract"
+    "validate": "npm run lint && npm run test && npm run test:contract",
+    "check-updates": "node --import tsx scripts/check-updates.ts"
   },
   "dependencies": {
     "@ansvar/mcp-sqlite": "^1.0.0",
