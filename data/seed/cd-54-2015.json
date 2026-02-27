@@ -1,0 +1,688 @@
+{
+  "id": "cd-54-2015",
+  "type": "statute",
+  "title": "قرار رئيس مجلس الادارة رقم 54 لسنة 2015: بشأن اعتماد مواصفات قياسية إماراتية خاصة بمعدات الحماية الشخصية والمهنية",
+  "title_en": "Decision No. 54 of 2015",
+  "short_name": "قرار رئيس مجلس الادارة 54/2015",
+  "status": "in_force",
+  "issued_date": "2015-08-01",
+  "in_force_date": "2015-08-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54515",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قراررئيس مجلسالادارة رقم54 لسنة 2015",
+      "content": "قراررئيس مجلسالادارة رقم54 لسنة 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ03/08/2015م. لسنة",
+      "content": "صادربتاريخ03/08/2015م. لسنة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "الموافقفيه 18 شوال 1436ه.",
+      "content": "الموافقفيه 18 شوال 1436ه.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "بشأناعتمادمواصفاتقياسيةإماراتيةخاصةبمعداتالحمايةالشخصيةوالمهنية",
+      "content": "بشأناعتمادمواصفاتقياسيةإماراتيةخاصةبمعداتالحمايةالشخصيةوالمهنية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "-بعد الاطلاععلى القانونالاتحادي رقم(28)لسنة 2001 بإنشاءهيئةالإماراتللمواصفاتالمق",
+      "content": "-بعد الاطلاععلى القانونالاتحادي رقم(28)لسنة 2001 بإنشاءهيئةالإماراتللمواصفاتالمقاييسوتعديلاته،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "-وبناء علىقرار مجلسالإدارة فياجتماعه رقم (2)لسنة 2015 بتاريخ 9يوليو 2015باعتمادم",
+      "content": "-وبناء علىقرار مجلسالإدارة فياجتماعه رقم (2)لسنة 2015 بتاريخ 9يوليو 2015باعتمادمجموعةمنالمواصفاتالقياسيةالامارتية،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "تعتمدالمواصفاتالقياسيةالإماراتيةالمبينةعناوينهاوأرقامها فيالقائمةالمرفقةوالخاصةب",
+      "content": "تعتمدالمواصفاتالقياسيةالإماراتيةالمبينةعناوينهاوأرقامها فيالقائمةالمرفقةوالخاصةبمعداتالحمايةالشخصيةوالمهنية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "ينشرهذا القرار فيالجريدةالرسمية معقائمةالمواصفاتالقياسيةالمشار إليهافي المادةالا",
+      "content": "ينشرهذا القرار فيالجريدةالرسمية معقائمةالمواصفاتالقياسيةالمشار إليهافي المادةالاولى من هذاالقرار ويعملبه اعتباراًمن اليومالتاليلتاريخالنشر.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "التاريخ3/8/2015م.\nالموافقفيه 18 شوال1436ه.",
+      "content": "التاريخ3/8/2015م.\nالموافقفيه 18 شوال1436ه.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "الدكتور/راشدأحمد بن فهد",
+      "content": "الدكتور/راشدأحمد بن فهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "رئيسمجلس إدارةهيئةالإمارات",
+      "content": "رئيسمجلس إدارةهيئةالإمارات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "نشرهذا القرار فيعدد الجريدةالرسمية رقم 586تاريخ 30/09/2015م.ص77.",
+      "content": "نشرهذا القرار فيعدد الجريدةالرسمية رقم 586تاريخ 30/09/2015م.ص77.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "قائمةالمواصفاتالقياسيةالمرفقةبالقرار رقم54لسنة2015معداتالحمايةالشخصيةوالمهنية",
+      "content": "قائمةالمواصفاتالقياسيةالمرفقةبالقرار رقم54لسنة2015معداتالحمايةالشخصيةوالمهنية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "EnglishStandard title",
+      "content": "EnglishStandard title",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "protectiveclothing for protection against chemicals – Classification, labeling a",
+      "content": "protectiveclothing for protection against chemicals – Classification, labeling andperformance requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "ملابسالوقايةللحماية منالموادالكيميائية –التصنيفبطاقة البيانومتطلباتالأداء",
+      "content": "ملابسالوقايةللحماية منالموادالكيميائية –التصنيفبطاقة البيانومتطلباتالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "UAE.SISO 17420-3: 2015",
+      "content": "UAE.SISO 17420-3: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Respiratoryprotective devices – performance requirements – Part 3: Threadconnect",
+      "content": "Respiratoryprotective devices – performance requirements – Part 3: Threadconnection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "اجهزةالواقيةلتنفسية –متطلباتالأداء –الجزء 3:الوصلاتالملولبة",
+      "content": "اجهزةالواقيةلتنفسية –متطلباتالأداء –الجزء 3:الوصلاتالملولبة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Personalprotective equipment for protection against falls from a height – Flexib",
+      "content": "Personalprotective equipment for protection against falls from a height – Flexiblehorizontal lifeline systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "معداتالحمايةالشخصيةللحماية منالسقوط منالارتفاعات –انظمة حبالالانقاذالأفقيةالمرنة",
+      "content": "معداتالحمايةالشخصيةللحماية منالسقوط منالارتفاعات –انظمة حبالالانقاذالأفقيةالمرنة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "UAE.SISO 10333-4: 2015",
+      "content": "UAE.SISO 10333-4: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Personalfall – arrest systems – part 4: Vertical rails and verticallifelines inc",
+      "content": "Personalfall – arrest systems – part 4: Vertical rails and verticallifelines incorporating a sliding a sliding – type fallarrester",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "انظمةكبح السقوطالشخصية –الجزء 4:القضبانالعموديةوحبالالانقاذالعموديةالمدمجة معكاب",
+      "content": "انظمةكبح السقوطالشخصية –الجزء 4:القضبانالعموديةوحبالالانقاذالعموديةالمدمجة معكابحات سقوطمن النوعالمنزلق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Wildland firefighting personal protective equipment – Requirements and testmetho",
+      "content": "Wildland firefighting personal protective equipment – Requirements and testmethods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "معداتالوقايةالشخصيةلمكافحةحرائقالبراري –المتطلباتوطرقالاختبار",
+      "content": "معداتالوقايةالشخصيةلمكافحةحرائقالبراري –المتطلباتوطرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Personalprotective equipment for protection against falls form a height – Single",
+      "content": "Personalprotective equipment for protection against falls form a height – Single– point anchor devices",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "معداتالحمايةالشخصيةللحماية منالسقوط منالارتفاعاتاجهزةالتعليقبنقطةواحدة",
+      "content": "معداتالحمايةالشخصيةللحماية منالسقوط منالارتفاعاتاجهزةالتعليقبنقطةواحدة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "UAE.SISO 22846-1: 2015",
+      "content": "UAE.SISO 22846-1: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Personalequipment for protection against falls – Rope access systems – Part1: Fu",
+      "content": "Personalequipment for protection against falls – Rope access systems – Part1: Fundamental principles for a system of work",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "المعداتالشخصيةللحماية منالسقوط – نظمالوصولبالحبال –الجزء 1:المبادئالأساسيةلنظاما",
+      "content": "المعداتالشخصيةللحماية منالسقوط – نظمالوصولبالحبال –الجزء 1:المبادئالأساسيةلنظامالعمل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "UAE.SISO 16900-11: 2015",
+      "content": "UAE.SISO 16900-11: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "Respiratoryprotective devices – Methods of test and test equipment – part 11:Det",
+      "content": "Respiratoryprotective devices – Methods of test and test equipment – part 11:Determination of field of vision",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "الأجهزةالتنفسيةالواقية – طرقالاختبارومعداتالاختبار –الجزء 11: تحديدمجالالرؤية",
+      "content": "الأجهزةالتنفسيةالواقية – طرقالاختبارومعداتالاختبار –الجزء 11: تحديدمجالالرؤية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Protectiveclothing – protection against heat and flame – Limited flame spreadmat",
+      "content": "Protectiveclothing – protection against heat and flame – Limited flame spreadmaterials, material assemblies and clothing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "الملابسالواقية –الحماية ضدالحرارةواللهب –المواد التيتحد من انتشاراللهب،الموادالم",
+      "content": "الملابسالواقية –الحماية ضدالحرارةواللهب –المواد التيتحد من انتشاراللهب،الموادالمجمعةوالملابس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Shipsand marine technology – Shipboard fire – fighters' outfits(protective cloth",
+      "content": "Shipsand marine technology – Shipboard fire – fighters' outfits(protective clothing, gloves, boots and helmet)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "السفنوالتكنولوجياالبحرية –ملابس رجالالإطفاء علىظهر السفن(الملابسالواقية،والقفزات",
+      "content": "السفنوالتكنولوجياالبحرية –ملابس رجالالإطفاء علىظهر السفن(الملابسالواقية،والقفزات،والأحذية،الخوذ)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "Protectiveclothing – performance requirements for protective clothing worn byope",
+      "content": "Protectiveclothing – performance requirements for protective clothing worn byoperators applying liquid pesticides",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "الملابسالواقية –متطلباتالأداءللملابسالواقية التييرتديهامشغليالمبيداتالسائلة",
+      "content": "الملابسالواقية –متطلباتالأداءللملابسالواقية التييرتديهامشغليالمبيداتالسائلة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "UAE.SISO 12312-1: 2015",
+      "content": "UAE.SISO 12312-1: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Eyeand face protection – Sunglasses and related eyewear – part1:Sunglasses for g",
+      "content": "Eyeand face protection – Sunglasses and related eyewear – part1:Sunglasses for general use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "وقاياتالعين والوجه– النظاراتالشمسيةوالنظاراتذات الصلة –الجزء 1:النظاراتالشمسيةلل",
+      "content": "وقاياتالعين والوجه– النظاراتالشمسيةوالنظاراتذات الصلة –الجزء 1:النظاراتالشمسيةللاستخدامالعام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "UAE.SISO 15027-1:2015",
+      "content": "UAE.SISO 15027-1:2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Immersionsuits – part 1: Constant wear suits, requirements includingsafety",
+      "content": "Immersionsuits – part 1: Constant wear suits, requirements includingsafety",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "بدلاتالغطس – الجزء1: بدلاتللارتداءالمستمر، بمافي ذلكمتطلباتالسلامة",
+      "content": "بدلاتالغطس – الجزء1: بدلاتللارتداءالمستمر، بمافي ذلكمتطلباتالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Respiratoryprotective devices – Terms, definitions, graphical symbols and units ",
+      "content": "Respiratoryprotective devices – Terms, definitions, graphical symbols and units ofmeasurement",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "اجهزةالواقيةالتنفسية –المصطلحاتوالتعاريفوالرموزالرسوميةوحداتالقياس",
+      "content": "اجهزةالواقيةالتنفسية –المصطلحاتوالتعاريفوالرموزالرسوميةوحداتالقياس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "UAE.SISO 16900-2: 2015",
+      "content": "UAE.SISO 16900-2: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Respiratoryprotective devices – Methods of test and test equipment – part 2:Dete",
+      "content": "Respiratoryprotective devices – Methods of test and test equipment – part 2:Determination of breathing resistance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "اجهزةالواقيةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 2: تحديدمقاومةالتنفس",
+      "content": "اجهزةالواقيةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 2: تحديدمقاومةالتنفس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "UAE.SISO 16900-3: 2015",
+      "content": "UAE.SISO 16900-3: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Respiratoryprotective devices – Methods of test and test equipment – part 3:Dete",
+      "content": "Respiratoryprotective devices – Methods of test and test equipment – part 3:Determination of particle filter penetration",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 3: تحديداختراقالجسيماتلل",
+      "content": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 3: تحديداختراقالجسيماتللمشرح",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "UAE.SISO 16900-1: 2015",
+      "content": "UAE.SISO 16900-1: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Respiratoryprotective devices – Methods of test and test equipment – part 1:Dete",
+      "content": "Respiratoryprotective devices – Methods of test and test equipment – part 1:Determination of inward leakage",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 1: تحديدالتسربللداخل",
+      "content": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 1: تحديدالتسربللداخل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "UAE.SISO 16900-4: 2015",
+      "content": "UAE.SISO 16900-4: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Respiratoryprotective devices – Methods of test and test equipment – part 4:Dete",
+      "content": "Respiratoryprotective devices – Methods of test and test equipment – part 4:Determination of gas filter capacity and migration, desorption and carbonmonoxide dynamic testing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 4:الاختباراتالديناميكيةل",
+      "content": "اجهزةالوقايةالتنفسية –طرق الاختبارومعداتالاختبار –الجزء 4:الاختباراتالديناميكيةلتحديد قدرةتصفية الغازوارتحالالمواد، واولأكسيدالكربون",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Protectiveclothing – Protection against liquid chemicals – test method forresist",
+      "content": "Protectiveclothing – Protection against liquid chemicals – test method forresistance of materials to penetration by liquids",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "الملابسالواقية –الحماية منالموادالكيميائيةالسائلة –طريقة اختبارمقاومةالموادللاخت",
+      "content": "الملابسالواقية –الحماية منالموادالكيميائيةالسائلة –طريقة اختبارمقاومةالموادللاختراق منقبلالسوائل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Radiationprotection – clothing for protection against radioactive contamination–",
+      "content": "Radiationprotection – clothing for protection against radioactive contamination– Design, selection, testing and use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "الحمايةمن الإشعاع –ملابسللحماية منالتلوثالإشعاعي –التصميموالاختياروالاستخدام",
+      "content": "الحمايةمن الإشعاع –ملابسللحماية منالتلوثالإشعاعي –التصميموالاختياروالاستخدام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Highvisibility clothing – Test methods and requirements",
+      "content": "Highvisibility clothing – Test methods and requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "الملابسذات الوضوحالعالي –المتطلباتوطرقالاختبار",
+      "content": "الملابسذات الوضوحالعالي –المتطلباتوطرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "UAE.SISO 17491-2: 2015",
+      "content": "UAE.SISO 17491-2: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "Protectiveclothing – Test methods for clothing providing protection againstchemi",
+      "content": "Protectiveclothing – Test methods for clothing providing protection againstchemicals – Park 2: Determination of resistance to inward leakage ofaerosols and gases (inward leakage test)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 2: ",
+      "content": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 2: تعيينالمقاومةللتسرب إلىالداخلللهباء الجويوالغازات(اختبارالتسرب إلىالداخل)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "UAE.SISO 17491-5: 2015",
+      "content": "UAE.SISO 17491-5: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Protectiveclothing – Test methods for clothing providing protection againstchemi",
+      "content": "Protectiveclothing – Test methods for clothing providing protection againstchemicals – part 5: Determination of resistance to penetration by a sprayof liquid (manikin spray test)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 5: ",
+      "content": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 5: تحديدمقاومةالاختراق عنطريق رشالسائل(اختبار رشمانكين)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Footwear– Test methods for whole shoe – Thermal insulation",
+      "content": "Footwear– Test methods for whole shoe – Thermal insulation",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "الأحذية– طرق اختبارالحذاء –العزلالحراري",
+      "content": "الأحذية– طرق اختبارالحذاء –العزلالحراري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Personalprotective equipment – Test methods for sunglasses and relatedeyewear",
+      "content": "Personalprotective equipment – Test methods for sunglasses and relatedeyewear",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "معداتالوقايةالشخصية – طرقالاختبارللنظاراتالشمسيةوالنظاراتذات الصلة",
+      "content": "معداتالوقايةالشخصية – طرقالاختبارللنظاراتالشمسيةوالنظاراتذات الصلة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Personalprotective equipment – Eye and face protection –Vocabulary",
+      "content": "Personalprotective equipment – Eye and face protection –Vocabulary",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "معداتالحمايةالشخصية –حماية العينوالوجه –المفردات",
+      "content": "معداتالحمايةالشخصية –حماية العينوالوجه –المفردات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Referenceradiation fields for radiation protection – Definitions and fundamental",
+      "content": "Referenceradiation fields for radiation protection – Definitions and fundamentalconcepts",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "مجالاتالإشعاعالمرجعيللحماية منالإشعاع –التعاريفوالمفاهيمالأساسية",
+      "content": "مجالاتالإشعاعالمرجعيللحماية منالإشعاع –التعاريفوالمفاهيمالأساسية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "Mechanicalvibration and shock – Hand – arm vibration – Measurement andevaluation",
+      "content": "Mechanicalvibration and shock – Hand – arm vibration – Measurement andevaluation of the vibration transmissibility of globes at the palm of thehand",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "الاهتزازوالصدمةالميكانيكية– اهتزاز اليدالذراع – قياسوتقييمقابليةانتقالالاهتزازان",
+      "content": "الاهتزازوالصدمةالميكانيكية– اهتزاز اليدالذراع – قياسوتقييمقابليةانتقالالاهتزازانتقالالاهتزاز منالقفازات إلىكف اليد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Sleevesof insulating material for live working",
+      "content": "Sleevesof insulating material for live working",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "الموادالعازلةللأكمامالمستخدمة فياماكن العملالحية (التيارالمباشر)",
+      "content": "الموادالعازلةللأكمامالمستخدمة فياماكن العملالحية (التيارالمباشر)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Liveworking – terminology for tools, equipment and devices",
+      "content": "Liveworking – terminology for tools, equipment and devices",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "اماكنالعمل الحية(التيارالمباشر)المصطلحاتالأدواتوالمعداتوالأجهزة",
+      "content": "اماكنالعمل الحية(التيارالمباشر)المصطلحاتالأدواتوالمعداتوالأجهزة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "UAE.SISO 17491-1: 2015",
+      "content": "UAE.SISO 17491-1: 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "Protectiveclothing – Test methods for clothing providing protection againstchemi",
+      "content": "Protectiveclothing – Test methods for clothing providing protection againstchemicals – part 1: Determination of resistance to outward leakage ofgases (internal pressure test)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 1: ",
+      "content": "الملابسالواقية – طرقاختبارالملابس التيتوفر الحمايةضد الموادالكيميائية –الجزء 1: تعيينالمقاومةلتسربالغازات إلىالخارج(اختبار الضغطالداخلي)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "Protectiveclothing – Protection against chemicals – Determination ofresistance o",
+      "content": "Protectiveclothing – Protection against chemicals – Determination ofresistance of protective clothing materials to permeation by liquids andgases",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "الملابسالواقية –الحماية منالموادالكيميائية –تعيين مقاومةمواد الملابسالواقيةللنفا",
+      "content": "الملابسالواقية –الحماية منالموادالكيميائية –تعيين مقاومةمواد الملابسالواقيةللنفاذبواسطةالسوائلوالغازات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "Protectiveclothing – General requirements",
+      "content": "Protectiveclothing – General requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "الملابسالواقية –المتطلباتالعامة",
+      "content": "الملابسالواقية –المتطلباتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "Personalprotective equipment – Protective footwear",
+      "content": "Personalprotective equipment – Protective footwear",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "معداتالوقايةالشخصية –الأحذيةالوافية",
+      "content": "معداتالوقايةالشخصية –الأحذيةالوافية",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cd-13-2017",
+  "type": "statute",
+  "title": "قرار رقم 13 لسنة 2017: بشأن رسوم وصلات الربط البيني الممتدة إلى موقع الجهة المربوطة وخدمات الخطوط المُؤجّرة بالجملة",
+  "title_en": "Decision No. 13 of 2017",
+  "short_name": "قرار 13/2017",
+  "status": "in_force",
+  "issued_date": "2017-03-01",
+  "in_force_date": "2017-03-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_56264",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art12",
+      "section": "12",
+      "title": "",
+      "content": "of Federal Law by Decree No. (3) of 2003 regarding the organizationof the Telecommunications Sector, as amended (the“ Telecommunications Law ”)established the TRA as the, “...competent body to oversee thetelecommunications sector in the State and all Licensees...”1.2",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "of the Law stipulates that the TRA shall have the competence to issueregulations, instructions, decisions and rules “...regulating and ensuringcompetition in the telecommunications sector...”.1.3 InDetermination No (1) of 2012, Competition Assessment, dated 29 March 2012, theTRA determined that Etisalat and du have respective unilateral Market Power inthe Relevant Markets WM8A and WM8B for wholesale terminating segments of fixedconnectively services in their respective areas of the UAE where they providedirect fixed network connections to Customers. The TRA also determined thatEtisalat has unilateral Market Power in the Relevant Market WM8C for wholesaletrunk segments of fixed connectivity services.1.4",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": ".1 of the ex ante Competition Safeguards states that “AnyEntities designated as having Market Power in a Relevant Market may be subjectto ex ante obligations additional to those in place under the RegulatoryFramework at the time of designation”.1.5 Thecapitalised terms, words and phrases used in this determination (the“Determination”) shall have the same meaning as is ascribed to themin the Telecommunications Law, the ex ante Competition Safeguards and theGuidelines on Market Definition and Competition Assessment, Version 1.0 issued30 September 2010 unless this Determination expressly provides for otherwise, orthe context in which those terms, words and phrases are used in thisDetermination or Annexure requires otherwise.2-History2.1 On 29March 2012, for the purpose of imposing remedies, the TRA issued the CompetitionAssessment Determination which assessed the Market Power of Licensees inRelevantMarketsfor Telecommunication Services and products in the UAE.2.2 Basedon the finding of Market Power in a number of Relevant Markets, the TRApublished a consultation on remedies to be imposed on legacy Wholesale LeasedLine (WLL) services composed of trunk (part of Market WM8C) and terminating(part of Markets WM8A and WM8B) segments and Customer Sited Interconnection(CSI) Link services on 14 June 2016 to provide stakeholders with an opportunityto comment on the remedies it proposes in order to mitigate the Market Powertherein. On 27 October 2016 the TRA published a second consultation about theimplementation of those remedies.2.3Following the closures of these consultations, the TRA received comments fromthe following parties:•Emirates Telecommunications Corporation(“ Etisalat ”), and•Emirates Integrated Telecommunications Company(“ du ”).3-The Determination3.1Having reviewed and, where appropriate, taken into account relevant commentsreceived during the consultation phases, the TRA hereby issues thisDetermination. In this Determination the TRA sets out the prices for CSI Linkand WLL services and related provisions.3.2 Forthe purpose of this Determination, the CSI Link and WLL services are defined asfollows:•CSI Link services are those provided in accordance with Schedule 3 of theInterconnection Agreement (ICA); a transmission service for conveying voicetraffic between Etisalat’s and du’s networks with link capacitiesequal to those set out in Table 1 below.•WLL services are those provided in accordance with Schedule 5 of the ICA, aservice for the provision of dedicated leased lines/circuits, which are providedfrom any point “A” to any point “B” within the UAE withlink capacities equal to those set out in Table 2 below.3.3 Thefollowing tables set out the TRA’s Determination of regulatedprices:•Table 1: Regulated prices for CSI Link services; and•Table 2: Regulated prices for WLL services.Table 1:Regulated charges for CSI Link services (AED per month)Chargeper linkChargeper kmCSI LinkservicesE11,870,6420,89STM114,847,76165,83STM429,695,52331,65Table 2:Regulated charges for WLL services (AED per month)Chargeper link endChargeper kmTerminatingsegmentShared fibre*356,30Dedicated fibre1,788,79Trunk segment**64 Kbps7,47128 Kbps10,57256 Kbps14,95512 Kbps21,141 Mbps29,552 Mbps41,7834 Mbps172,2845 Mbps198,20155 Mbps331,65* A shared fibre based onGPON capable of delivering symmetric capacity of up to 100Mbps or equivalenttechnology.\n** Capacities differentfrom those shown above shall be provided, if requested, at terms consistent withthose set out above.3.4Distances to which distance dependent charges are applied shall be measured anddocumented transparently on the basis of the underlying road network using themost direct route between two points. For the purpose of measuring the lengthfor the CSI Link services, the points from which the measurements are taken arethe locations of the respective POIs and fixed/mobile switches inEtisalat’s network. For WLL services, these points are the locations ofthe access nodes (e.g. OLT) to which the terminating segments are connected (orPOI in the case that a WLL service is used to establish a retail leased linebetween the Licensees’ respective networks).3.5 Forany CSI Link or WLL service with lineardistancebelow or equal to 40km the leased line distance shall not exceed a lengthof 1.35 × the linear distance. In the interest of ensuring that access isprovided as quickly as possible, access seekers shall be able to opt for havingthe distance measured using this factor or the actual road length.4-Effective Date4.1 ThisDetermination shall become effective upon issuance.5-Acknowledgement5.1 EachLicensee shall notify the TRA in writing of receipt of this Determination withinone (1) business day of the date it is received.[1]Based on Determination No (1) of 2011, Relevant Markets for TelecommunicationServices and Related Products in the UAE, dated 23 January 2011.[2]I.e the direct distance between two points, measured using their geographiccoordinates irrespective of the road network.",
+      "language": "en"
+    }
+  ],
+  "definitions": []
+}

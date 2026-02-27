@@ -1,0 +1,1801 @@
+{
+  "id": "cd-31-2012",
+  "type": "statute",
+  "title": "قرار رئيس مجلس الادارة رقم 31 لسنة 2012: باعتماد مواصفات قياسية اماراتية",
+  "title_en": "Decision No. 31 of 2012",
+  "short_name": "قرار رئيس مجلس الادارة 31/2012",
+  "status": "in_force",
+  "issued_date": "2012-12-01",
+  "in_force_date": "2012-12-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54470",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قراررئيسمجلس الادارةرقم31 لسنة 2012",
+      "content": "قراررئيسمجلس الادارةرقم31 لسنة 2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ20/12/2012م.",
+      "content": "صادربتاريخ20/12/2012م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "باعتمادمواصفاتقياسيةاماراتية",
+      "content": "باعتمادمواصفاتقياسيةاماراتية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "-بعدالإطلاععلىالقانونالاتحادي رقم28لسنة2001بانشاء هيئةالاماراتللمواصفاتوالمقاييس",
+      "content": "-بعدالإطلاععلىالقانونالاتحادي رقم28لسنة2001بانشاء هيئةالاماراتللمواصفاتوالمقاييس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "-وعلى قرارالمجلسالوزاريللخدمات رقم 53/4لسنة2009بشأن تشكيلمجلس ادارةهيئةالاماراتل",
+      "content": "-وعلى قرارالمجلسالوزاريللخدمات رقم 53/4لسنة2009بشأن تشكيلمجلس ادارةهيئةالاماراتللمواصفاتوالمقاييس،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "-واستناداًالى ما قررهمجلس ادارةهيئةالاماراتللمواصفاتوالمقاييس فياجتماعه رقم 4لسن",
+      "content": "-واستناداًالى ما قررهمجلس ادارةهيئةالاماراتللمواصفاتوالمقاييس فياجتماعه رقم 4لسنة 2012 بتاريخ28/11/2012 باعتمادمجموعة منالمواصفاتالقياسيةالاماراتية،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "تعتمدالمواصفاتالقياسيةوالمبينةأرقامهاوعناوينها فيالجدولالمرفق بهذاالقراروإجماليع",
+      "content": "تعتمدالمواصفاتالقياسيةوالمبينةأرقامهاوعناوينها فيالجدولالمرفق بهذاالقراروإجماليعددها 79مواصفة في عددمن القطاعات،وتصدركمواصفاتقياسيةإماراتية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "ينشرهذا القراروجدولالمواصفاتالقياسيةالمعتمدة فيالجريدةالرسميةويعمل بهااعتباراً م",
+      "content": "ينشرهذا القراروجدولالمواصفاتالقياسيةالمعتمدة فيالجريدةالرسميةويعمل بهااعتباراً منتاريخالنشر.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "الدكتورراشد أحمد بنفهد",
+      "content": "الدكتورراشد أحمد بنفهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "رئيسمجلسادارةهيئةالامارات",
+      "content": "رئيسمجلسادارةهيئةالامارات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "نشرهذاالقرارفيعدد الجريدةالرسميةرقم545 ص409.",
+      "content": "نشرهذاالقرارفيعدد الجريدةالرسميةرقم545 ص409.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "جدولالمواصفاتالقياسيةالاماراتية",
+      "content": "جدولالمواصفاتالقياسيةالاماراتية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "أولاً:قطاعالمواصفاتالكهربائيةوالالكترونية",
+      "content": "أولاً:قطاعالمواصفاتالكهربائيةوالالكترونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "عددالمواصفات: 4مواصفة",
+      "content": "عددالمواصفات: 4مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Clotheswashing machine for household use – Methods for measuring theperformance",
+      "content": "Clotheswashing machine for household use – Methods for measuring theperformance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "غسالاتالملابسللإستخدامالمنزلي–طرق قياسالأداء",
+      "content": "غسالاتالملابسللإستخدامالمنزلي–طرق قياسالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Electricaltumble dryers for household use Methods for measuring theperformance",
+      "content": "Electricaltumble dryers for household use Methods for measuring theperformance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "مجففاتالملابسالكهربائيةللاستخدامالمنزلي–طرق قياسالأداء",
+      "content": "مجففاتالملابسالكهربائيةللاستخدامالمنزلي–طرق قياسالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Electricalclothes washer – dryer for house hold use – Method for measuring thepe",
+      "content": "Electricalclothes washer – dryer for house hold use – Method for measuring theperformance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "غسالاتالملابسالكهربائيةالمدمجة معمجففاتللاستخدامالمنزلي–طرق قياسالأداء",
+      "content": "غسالاتالملابسالكهربائيةالمدمجة معمجففاتللاستخدامالمنزلي–طرق قياسالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "UAE. SGSO IEC 60728-11:2012",
+      "content": "UAE. SGSO IEC 60728-11:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Cablenetworks for television signals, sound signals and interactive services –Pa",
+      "content": "Cablenetworks for television signals, sound signals and interactive services –Part 11: Safety",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "شبكاتالكابلللإشاراتالتلفزيونية،والاشاراتالصوتيةوالخدماتالتفاعلية–الجزء 11:السلام",
+      "content": "شبكاتالكابلللإشاراتالتلفزيونية،والاشاراتالصوتيةوالخدماتالتفاعلية–الجزء 11:السلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "عددالمواصفات: 23مواصفة",
+      "content": "عددالمواصفات: 23مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "UAE. SGSO OIML D 13:2012",
+      "content": "UAE. SGSO OIML D 13:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "arrangementson the recognition of: Tests results – Pattern approvals –Verificati",
+      "content": "arrangementson the recognition of: Tests results – Pattern approvals –Verifications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "المبادئالتوجيهيةلترتيباتالثنائية أومتعددةالأطراف علىالاعتراف:\nنتائجالاختبار–المن",
+      "content": "المبادئالتوجيهيةلترتيباتالثنائية أومتعددةالأطراف علىالاعتراف:\nنتائجالاختبار–المنوافقةعلى النمط–التحقق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "UAE. SGSO OIML D 9:2012",
+      "content": "UAE. SGSO OIML D 9:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "PRINCIPLESOF METROLOGICAL SUPERVISION",
+      "content": "PRINCIPLESOF METROLOGICAL SUPERVISION",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "مبادئالاشرافالمترولوجي",
+      "content": "مبادئالاشرافالمترولوجي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "UAE. SGSO ISO 2425:2012",
+      "content": "UAE. SGSO ISO 2425:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Measurementof liquid flow in open channels under tidal conditions",
+      "content": "Measurementof liquid flow in open channels under tidal conditions",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "قياستدفق السائلفي القنواتالمفتوحة تحتالظروفالمدية(المتعلقةبالمدوالجزر)",
+      "content": "قياستدفق السائلفي القنواتالمفتوحة تحتالظروفالمدية(المتعلقةبالمدوالجزر)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "UAE. SGSO IEC 61326-3-2:2012",
+      "content": "UAE. SGSO IEC 61326-3-2:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Electricalequipment for measurement, control and laboratory use – EMC requiremen",
+      "content": "Electricalequipment for measurement, control and laboratory use – EMC requirements- Part 3-2: lmmunity requirements for safety – related systems and forequipment intended to perform safety – related functions (functionalsafety) Industrial applications with specified electromagneticenvironment",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "المعداتالكهربائيةالمستخدمة فيالقياسوالتحكموالمختبرات–متطلباتالتوافقالكهرومغناطيس",
+      "content": "المعداتالكهربائيةالمستخدمة فيالقياسوالتحكموالمختبرات–متطلباتالتوافقالكهرومغناطيسي–الجزء 3-2:متطلباتالحصانةللسلامةالمتعلقةبالأنظمةوالمعداتالمزودةلمتطلباتأداء السلامةالمتعلقةبالأعمال(الأشغال)(سلامةالتشغيل)–التطبيقاتالصناعيةبالظواهرالكهرومغناطيسيةالمحددة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "UAE. SGSO IEC 62058-11:2012",
+      "content": "UAE. SGSO IEC 62058-11:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "Electricitymetering equipment (AC) – Acceptance inspection – Part 11: Generalacc",
+      "content": "Electricitymetering equipment (AC) – Acceptance inspection – Part 11: Generalacceptance inspection methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "معداتالقياسالكهربائية(للتيارالمتناوب)–معاينةالقبول–الجزء 11: الطرقالعامةلمعاينةا",
+      "content": "معداتالقياسالكهربائية(للتيارالمتناوب)–معاينةالقبول–الجزء 11: الطرقالعامةلمعاينةالقبول",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "UAE. SGSO IEC 62056-52:2012",
+      "content": "UAE. SGSO IEC 62056-52:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "“ELECTRICITYMETERING – DATA EXCHANGE FOR METER READING, TARIFF AND LOAD CONTROL–",
+      "content": "“ELECTRICITYMETERING – DATA EXCHANGE FOR METER READING, TARIFF AND LOAD CONTROL– Part 52: communication protocols management distribution line messagespecification (DLMS) server",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "القياساتالكهربائية–تبادلالبياناتللتحكمبقراءةالعدادوالتعرفةوالحمل–الجزء 52: ادارة",
+      "content": "القياساتالكهربائية–تبادلالبياناتللتحكمبقراءةالعدادوالتعرفةوالحمل–الجزء 52: ادارةاتفاقياتالاتصالاتلمخدمالمواصفاتالفنيةلرسالة خطالتوزيع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "UAE. SGSO IEC 61869-1:2012",
+      "content": "UAE. SGSO IEC 61869-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "Instrumenttransformers – Part 1: General requirements",
+      "content": "Instrumenttransformers – Part 1: General requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "محولاتالأجهزة–الجزء 1:المتطلباتالعامة",
+      "content": "محولاتالأجهزة–الجزء 1:المتطلباتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "UAE. SGSO OIML R50-2:2012",
+      "content": "UAE. SGSO OIML R50-2:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "Continuoustotalizing automatic weighing instruments (belt weighers). Part 2: Tes",
+      "content": "Continuoustotalizing automatic weighing instruments (belt weighers). Part 2: Test reportformat",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "أجهزةالوزنالتلقائيةالإجماليةالمستمرة(موازين السير)–الجزء 2–شكل تقريرالاختبار",
+      "content": "أجهزةالوزنالتلقائيةالإجماليةالمستمرة(موازين السير)–الجزء 2–شكل تقريرالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "UAE. SGSO IEC 61554:2012",
+      "content": "UAE. SGSO IEC 61554:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "“PANELMOUNTED EQUIPMENT – ELECTRICAL MEASURING INSTRUMENTS – DIMENSIONSFOR PANEL",
+      "content": "“PANELMOUNTED EQUIPMENT – ELECTRICAL MEASURING INSTRUMENTS – DIMENSIONSFOR PANEL MOUNTING",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "المعداتالمركبة علىلوحة–اجهزة القياسالكهربائية–ابعادالتركيب علىلوحة",
+      "content": "المعداتالمركبة علىلوحة–اجهزة القياسالكهربائية–ابعادالتركيب علىلوحة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "UAE. SGSO IEC 62053-61:2012",
+      "content": "UAE. SGSO IEC 62053-61:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "Electricitymetering equipment (a.c.) – Particular requirements – Part 61: Powerc",
+      "content": "Electricitymetering equipment (a.c.) – Particular requirements – Part 61: Powerconsumption and voltage requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "معداتالقياسالكهربائيةللتيارالمتناوب–المتطلباتالخاصة–الجزء 61:استهلاكالقدرةومتطلب",
+      "content": "معداتالقياسالكهربائيةللتيارالمتناوب–المتطلباتالخاصة–الجزء 61:استهلاكالقدرةومتطلباتالجهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "UAE. SGSO IEC 61557-1:2012",
+      "content": "UAE. SGSO IEC 61557-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 ",
+      "content": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c.– Equipment for testing, measuring or monitoring of protective measures–Part 1: General requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000فولت (تيارمتناوب) و1500فولت ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000فولت (تيارمتناوب) و1500فولت (تيارمستمر)–معدةالاختبار أوالقياس أومراقبةقياساتالوقاية–الجزء 1–متطلباتعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "UAE. SGSO IEC 61557-7:2012",
+      "content": "UAE. SGSO IEC 61557-7:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "ELECTRICALSAFTY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 V",
+      "content": "ELECTRICALSAFTY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 V d.c.– EQUIPMENT FOR TESTING, MEASURING OR MONITORING of protective measures– Part 7:Phase",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار مستمر)–معدات اختبارأو قياس أومراقبةتدابيرالوقاية–الجزء 7: تسلسلالطور",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "UAE. SGSO IEC 61557-6:2012",
+      "content": "UAE. SGSO IEC 61557-6:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "ELECTRICALSAFTY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 V",
+      "content": "ELECTRICALSAFTY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 V d.c.– EQUIPMENT FOR TESTING, MEASURING OR MONITORING of protective measures– Part 6: Residual current devices (RCD) in TT and TN",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار مستمر)–معدات اختبارأو قياس أومراقبةتدابيرالوقاية–الجزء 6: وسائلتيار المتبقي(في أنظمة الـT.Tو T.N )",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "UAE. SGSO IEC 61557-9:2012",
+      "content": "UAE. SGSO IEC 61557-9:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 ",
+      "content": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c.– Equipment for testing, measuring or monitoring of protective measures–Part 9: Equipment for insulation fault location in ITsystems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار مستمر)–معدات اختبارأو قياس أومراقبةتدابيرالوقاية–الجزء 9: معدةموضع عطلالعازل لأنظةIT",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "UAE. SGSO IEC 61557-5:2012",
+      "content": "UAE. SGSO IEC 61557-5:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 ",
+      "content": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c.– Equipment for testing, measuring or monitoring of protective measures–Part 5: Resistance to earth",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار مستمر)–معدات اختبارأو قياس أومراقبةتدابيرالوقاية–الجزء 5:مقاومةالتأريض",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "UAE. SGSO ISO 3917:2012",
+      "content": "UAE. SGSO ISO 3917:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "RoadVehicles – Safety glazing materials – Test method for resistance toradiation",
+      "content": "RoadVehicles – Safety glazing materials – Test method for resistance toradiation, humidity, fire and simulated wathering. م",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "مركباتالطرق–زجاج الأمان–طرق اختبارمقاومةالأشعة ودرجةالحرارةالعاليةوالرطوبةوالحري",
+      "content": "مركباتالطرق–زجاج الأمان–طرق اختبارمقاومةالأشعة ودرجةالحرارةالعاليةوالرطوبةوالحريقوالظروفالجوية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "UAE. SGSO ISO 9835:2012",
+      "content": "UAE. SGSO ISO 9835:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "AMBIENTAIR – DETERMINATION OF BLACK SMOKE INDEX",
+      "content": "AMBIENTAIR – DETERMINATION OF BLACK SMOKE INDEX",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "الهواءالمحيط–تعيين مؤشرالدخانالأسود",
+      "content": "الهواءالمحيط–تعيين مؤشرالدخانالأسود",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "UAE. SGSO IEC 62059-41:2012",
+      "content": "UAE. SGSO IEC 62059-41:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "Electricitymetering equipment Dependability – Part 41: Reliabilityprediction",
+      "content": "Electricitymetering equipment Dependability – Part 41: Reliabilityprediction",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "معداتالقياسالكهربائية–الاعتمادية–الجزء 41:التنبؤبالوثوقية",
+      "content": "معداتالقياسالكهربائية–الاعتمادية–الجزء 41:التنبؤبالوثوقية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "UAE. SGSO IEC 61326-3-1:2012",
+      "content": "UAE. SGSO IEC 61326-3-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "Electricalequipment for measurement, control and laboratory use – EMC requiremen",
+      "content": "Electricalequipment for measurement, control and laboratory use – EMC requirements– Part 3-1: Immunity requirements for safety – related systems andfor equipment intended to perform safety – related functions (functionalsafety) – General Industrial applications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "المعدلاتالكهربائيةالمستخدمة فيالقياسوالتحكموالمختبرات–متطلباتالتوافقالكهرومغناطي",
+      "content": "المعدلاتالكهربائيةالمستخدمة فيالقياسوالتحكموالمختبرات–متطلباتالتوافقالكهرومغناطيسي–الجزء 3-1:متطلباتالحصانةللسلامةالمتعلقةبالأنظمةوالمعداتالمزودةلمتطلباتاداء السلامةالمتعلقةبالأعمال(الأشغال)(سلامةالتشغيل)–التطبيقاتالصناعيةالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "UAE. SGSO IEC 61557-10:2012",
+      "content": "UAE. SGSO IEC 61557-10:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 ",
+      "content": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c.– Equipment for testing, measuring or monitoring of protective measures–Part 10 Combinet measuring equipment for testing, measuring or monitoringof protective measures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000فولت (تيارمتناوب) و1500فولت ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000فولت (تيارمتناوب) و1500فولت (تيارمستمر)–معدةالاختبارأو القياس أومراقبةقياساتالوقاية–الجزء 10 معدةالقياسالمركبةلاختبار أوقياس أومراقبةقياساتالوقاية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "UAE. SGSO IEC 61557-11:2012",
+      "content": "UAE. SGSO IEC 61557-11:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 ",
+      "content": "Electricalsafety in low voltage distribution systems up to 1000 V a.c. and 1500 V d.c.– Equipment for testing, measuring or monitoring of protective measures–Part 11: Effectiveness of residual current monitors (RCMs) type A andtype B in TT, TN and IT systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار ",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى 1000ف (تيارمتناوب) و1500 ف(تيار مستمر)–معدات اختبارأو قياس أومراقبةتدابيرالوقاية–الجزء 11:فعاليةمراقباتالتيارالمتبقي(RCMs)من النوع (أ) و(ب)في أنظمةTTوTNو IT",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "ثالثاً:قطاعالمنتجاتالغذائيةوالزراعية",
+      "content": "ثالثاً:قطاعالمنتجاتالغذائيةوالزراعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "عددالمواصفات: 5مواصفة",
+      "content": "عددالمواصفات: 5مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "GoodAgricultural Practices – Part 2: Farm",
+      "content": "GoodAgricultural Practices – Part 2: Farm",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "الممارساتالزراعيةالجيدة–الجزء الثاني:المزرعة",
+      "content": "الممارساتالزراعيةالجيدة–الجزء الثاني:المزرعة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "GoodAgricultural Practices – Part 1: Fruit & vegetables",
+      "content": "GoodAgricultural Practices – Part 1: Fruit & vegetables",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "الممارساتالزراعيةالجيدة–الجزءالأول :الخضرواتوالفاكهة",
+      "content": "الممارساتالزراعيةالجيدة–الجزءالأول :الخضرواتوالفاكهة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "UAE. SGSO ISO 27205:2012",
+      "content": "UAE. SGSO ISO 27205:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "Fermentedmilk products – Bacterial starter cultures – Standard ofidentity",
+      "content": "Fermentedmilk products – Bacterial starter cultures – Standard ofidentity",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "منتجاتالحليبالمتخمرة–مزارعالإستنباتالبكتيرية–مواصفةالمطابقة",
+      "content": "منتجاتالحليبالمتخمرة–مزارعالإستنباتالبكتيرية–مواصفةالمطابقة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "UAE. SGSO CAC RCP 69:2012",
+      "content": "UAE. SGSO CAC RCP 69:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "Code ofpractice for the prevention and reduction of Ochratoxin A contamination i",
+      "content": "Code ofpractice for the prevention and reduction of Ochratoxin A contamination incoffee",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "دليلالممارسةللوقايةوالتقليل منالتلوثبالأوكراتوكسينفي القهوة",
+      "content": "دليلالممارسةللوقايةوالتقليل منالتلوثبالأوكراتوكسينفي القهوة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "رابعاً:مواصفات قطاعالتشييدوموادالبناء",
+      "content": "رابعاً:مواصفات قطاعالتشييدوموادالبناء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "عددالمواصفات: 5مواصفة",
+      "content": "عددالمواصفات: 5مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "UAE. SGSO ASTM C 617:2012",
+      "content": "UAE. SGSO ASTM C 617:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "StandardPractice for Capping Cylindrical Concrete Specimens",
+      "content": "StandardPractice for Capping Cylindrical Concrete Specimens",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "الممارسةالقياسية لسدالعيناتالخرسائيةالأسطوانية",
+      "content": "الممارسةالقياسية لسدالعيناتالخرسائيةالأسطوانية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "UAE. SGSO ASTM C 318:2012",
+      "content": "UAE. SGSO ASTM C 318:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "StandardSpecification for Gypsum Formboard",
+      "content": "StandardSpecification for Gypsum Formboard",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s107",
+      "section": "107",
+      "title": "المواصفةالقياسيةللوح تشكيلالجبس",
+      "content": "المواصفةالقياسيةللوح تشكيلالجبس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s108",
+      "section": "108",
+      "title": "UAE. SGSO ASTM C 28:2012",
+      "content": "UAE. SGSO ASTM C 28:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "StandardSpecification for Gypsum Plasters",
+      "content": "StandardSpecification for Gypsum Plasters",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s110",
+      "section": "110",
+      "title": "المواصفةالقياسيةلتكسياتالجبس",
+      "content": "المواصفةالقياسيةلتكسياتالجبس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "UAE. SGSO ASTM C 35:2012",
+      "content": "UAE. SGSO ASTM C 35:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s112",
+      "section": "112",
+      "title": "StandardSpecification for Inorganic Aggregates for Use in Gypsum Plaster",
+      "content": "StandardSpecification for Inorganic Aggregates for Use in Gypsum Plaster",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "المواصفةالقياسيةللركام غيرالعضويللاستخدام فيتكسياتالجبس",
+      "content": "المواصفةالقياسيةللركام غيرالعضويللاستخدام فيتكسياتالجبس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "UAE. SGSO EN 10244-1:2012",
+      "content": "UAE. SGSO EN 10244-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "Steelwire and wire Products – Non ferrous Metallic Coating on Steel Wire - Part1",
+      "content": "Steelwire and wire Products – Non ferrous Metallic Coating on Steel Wire - Part1: General Principles",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "سلكالصلبومنتجاتالأسلاكالطلاءالمعدني غيرالحديديللأسلاكالمعدنية–الجزء الأول:المباد",
+      "content": "سلكالصلبومنتجاتالأسلاكالطلاءالمعدني غيرالحديديللأسلاكالمعدنية–الجزء الأول:المبادئالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s117",
+      "section": "117",
+      "title": "خامساً:مواصفات قطاعصناعة النفطوالغاز",
+      "content": "خامساً:مواصفات قطاعصناعة النفطوالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "عددالمواصفات: 21مواصفة",
+      "content": "عددالمواصفات: 21مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s119",
+      "section": "119",
+      "title": "UAE. SGSO ISO 19901-1:2012",
+      "content": "UAE. SGSO ISO 19901-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "Petroleumand natural gas industries – Specific requirements for offshore structu",
+      "content": "Petroleumand natural gas industries – Specific requirements for offshore structures– Part 1: Metocean design and operating considerations",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "صناعةالنفط والغاز–المتطلباتالخاصةبالمنصاتالبحرية–الجزء الأول:اعتباراتالتصميموالت",
+      "content": "صناعةالنفط والغاز–المتطلباتالخاصةبالمنصاتالبحرية–الجزء الأول:اعتباراتالتصميموالتشغيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s122",
+      "section": "122",
+      "title": "Evaluationby Comparision of Oxidation Sability for Base oil and Lubricating Oil ",
+      "content": "Evaluationby Comparision of Oxidation Sability for Base oil and Lubricating Oil byOxidation Glass Cell",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "التقييمالمقارنلثباتالأكسدة لزيتالأساس وزيوتالتزليقبواسطة خليةالأكسدةالزجاجية",
+      "content": "التقييمالمقارنلثباتالأكسدة لزيتالأساس وزيوتالتزليقبواسطة خليةالأكسدةالزجاجية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "OffshorePlatforms Design – Structural Plates, Rolled Shapes and TubularsSpecific",
+      "content": "OffshorePlatforms Design – Structural Plates, Rolled Shapes and TubularsSpecification for Fixed Offshore Platforms",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s125",
+      "section": "125",
+      "title": "تصميمالمنصاتالبحريةلانتاج النفطوالغاز–الالواحالهيكليةوالاشكالالمبرومةوالخواصالان",
+      "content": "تصميمالمنصاتالبحريةلانتاج النفطوالغاز–الالواحالهيكليةوالاشكالالمبرومةوالخواصالانبوبيةللمنصاتالبحريةالثابتة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s126",
+      "section": "126",
+      "title": "Oil &Gas Pressure Vessels Specifications – Manufacture of Small PressureVessels",
+      "content": "Oil &Gas Pressure Vessels Specifications – Manufacture of Small PressureVessels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s127",
+      "section": "127",
+      "title": "مواصفاتأوعية الضغطللغاز والنفط–تصنيع أوعيةالضغطالصغيرة",
+      "content": "مواصفاتأوعية الضغطللغاز والنفط–تصنيع أوعيةالضغطالصغيرة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s128",
+      "section": "128",
+      "title": "Oil &Gas Clad Pressure Vessels and Heat Exchangers Specifications – Manufactureo",
+      "content": "Oil &Gas Clad Pressure Vessels and Heat Exchangers Specifications – Manufactureof Clad Pressure Vessels and Heat Exchangers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s129",
+      "section": "129",
+      "title": "مواصفاتأوعية الضغطوالمبادلاتالحراريةالمبطنةمعدنيا للغازوالنفط–تصنيع أوعيةالضغطوا",
+      "content": "مواصفاتأوعية الضغطوالمبادلاتالحراريةالمبطنةمعدنيا للغازوالنفط–تصنيع أوعيةالضغطوالمبادلاتالحراريةالمبطنةمعدنيا",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s130",
+      "section": "130",
+      "title": "Oil &Gas water Heaters Specifications – Automatic Electric WaterHeaters",
+      "content": "Oil &Gas water Heaters Specifications – Automatic Electric WaterHeaters",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s131",
+      "section": "131",
+      "title": "مواصفاتالسخاناتالمائيةللغاز والنفط–السخاناتالمائيةالكهربائيةالاتوماتيكية",
+      "content": "مواصفاتالسخاناتالمائيةللغاز والنفط–السخاناتالمائيةالكهربائيةالاتوماتيكية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s132",
+      "section": "132",
+      "title": "Oil &Gas Pressure Vessels Specifications – Manufacture of PressuresVessels",
+      "content": "Oil &Gas Pressure Vessels Specifications – Manufacture of PressuresVessels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s133",
+      "section": "133",
+      "title": "مواصفاتأوعية الضغطللغاز والنفط–تصنيع أوعيةالضغط",
+      "content": "مواصفاتأوعية الضغطللغاز والنفط–تصنيع أوعيةالضغط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s134",
+      "section": "134",
+      "title": "Fireproofingof Structural Steel Work",
+      "content": "Fireproofingof Structural Steel Work",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s135",
+      "section": "135",
+      "title": "حمايةالانشاءاتالحديدية ضدالحريق",
+      "content": "حمايةالانشاءاتالحديدية ضدالحريق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s136",
+      "section": "136",
+      "title": "FireProtection system and safety equipment",
+      "content": "FireProtection system and safety equipment",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s137",
+      "section": "137",
+      "title": "معداتنظام الحمايةعن الحريقوالسلامة",
+      "content": "معداتنظام الحمايةعن الحريقوالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s138",
+      "section": "138",
+      "title": "CORROSIONINHIBITORS AND THEIR INJECTION PACKAGE FOR OIL AND GAS PROCUCTIONFACILI",
+      "content": "CORROSIONINHIBITORS AND THEIR INJECTION PACKAGE FOR OIL AND GAS PROCUCTIONFACILITIES",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s139",
+      "section": "139",
+      "title": "مثبطاتالتأكلوتجهيزاتحقنها فيمعدات ومنشآتانتاج النفطوالغاز",
+      "content": "مثبطاتالتأكلوتجهيزاتحقنها فيمعدات ومنشآتانتاج النفطوالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s140",
+      "section": "140",
+      "title": "UAE. SGSO ISO 21809-1:2012",
+      "content": "UAE. SGSO ISO 21809-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s141",
+      "section": "141",
+      "title": "Petroleumand natural gas industries – External coating for buried and submergedp",
+      "content": "Petroleumand natural gas industries – External coating for buried and submergedpipelines used in pipeline transportation systems – part 1: polyolefincoatings (3-layer pe and 3-layer pp)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s142",
+      "section": "142",
+      "title": "صناعةالنفط والغازالطبيعي–الطلاءالخارجيللانابيبالمدفونةوالمغمورةالمستخدمة فيأنظمة",
+      "content": "صناعةالنفط والغازالطبيعي–الطلاءالخارجيللانابيبالمدفونةوالمغمورةالمستخدمة فيأنظمة خطوطأنابيب النقل–الجزء الأول:طلاء عديدالاوليفين (3–طلاءالاثيلينو3-طلاء عديدالبروبيلين)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s143",
+      "section": "143",
+      "title": "UAE. SGSO ISO 10426-1:2012",
+      "content": "UAE. SGSO ISO 10426-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "Petroleumand natural gas industries – Cements and materials for well cementing– ",
+      "content": "Petroleumand natural gas industries – Cements and materials for well cementing– Part 1: Specification",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s145",
+      "section": "145",
+      "title": "صناعاتالبترولوالغازالطبيعي–الخرساناتوالموادلتدعييمالأبار–الجزء الأول:المواصفات",
+      "content": "صناعاتالبترولوالغازالطبيعي–الخرساناتوالموادلتدعييمالأبار–الجزء الأول:المواصفات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s146",
+      "section": "146",
+      "title": "UAE. SGSO ISO 17078-4:2012",
+      "content": "UAE. SGSO ISO 17078-4:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s147",
+      "section": "147",
+      "title": "Petroleumand natural gas industries – Drilling and production equipment –Part 4:",
+      "content": "Petroleumand natural gas industries – Drilling and production equipment –Part 4: Practices for side – pocket mandrels and relatedequipment",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s148",
+      "section": "148",
+      "title": "صناعاتالبترولوالغازالطبيعي–معدات الحفروالانتاج–الجزء 4:الممارساتلأدوات الجيب–الج",
+      "content": "صناعاتالبترولوالغازالطبيعي–معدات الحفروالانتاج–الجزء 4:الممارساتلأدوات الجيب–الجانبيوالمعدات ذاتالصلة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s149",
+      "section": "149",
+      "title": "UAE. SGSO ISO 8216-1:2012",
+      "content": "UAE. SGSO ISO 8216-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s150",
+      "section": "150",
+      "title": "Petroleumproducts – Fuels (class F) classification – Part 1: Categories ofmarine",
+      "content": "Petroleumproducts – Fuels (class F) classification – Part 1: Categories ofmarine fuels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s151",
+      "section": "151",
+      "title": "المنتجاتالبترولية–تصنيف الوقود(مستوى إف)–الجزء الأول–قسم الوقودالبحري",
+      "content": "المنتجاتالبترولية–تصنيف الوقود(مستوى إف)–الجزء الأول–قسم الوقودالبحري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "UAE. SGSO ISO/TS/27469:2012",
+      "content": "UAE. SGSO ISO/TS/27469:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s153",
+      "section": "153",
+      "title": "Petroleum– petrochemical and natural gas industries – Method of test for firedam",
+      "content": "Petroleum– petrochemical and natural gas industries – Method of test for firedampers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s154",
+      "section": "154",
+      "title": "صناعةالبترولوالبتروكيماوياتوالغازالطبيعي–طريقة فحصمعداتالاطفاء",
+      "content": "صناعةالبترولوالبتروكيماوياتوالغازالطبيعي–طريقة فحصمعداتالاطفاء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s155",
+      "section": "155",
+      "title": "UAE. SGSO ASTM D 3230:2012",
+      "content": "UAE. SGSO ASTM D 3230:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s156",
+      "section": "156",
+      "title": "Salts inCrude Oil (Electrometric Method)",
+      "content": "Salts inCrude Oil (Electrometric Method)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s157",
+      "section": "157",
+      "title": "فحصالملح فيالنفطالخام",
+      "content": "فحصالملح فيالنفطالخام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s158",
+      "section": "158",
+      "title": "UAE. SGSO ISO 29945:2012",
+      "content": "UAE. SGSO ISO 29945:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s159",
+      "section": "159",
+      "title": "Refrigeratednon-petroleum – based liquefied gaseous fuels – Dimethylether (DME)–",
+      "content": "Refrigeratednon-petroleum – based liquefied gaseous fuels – Dimethylether (DME)– Methode of manual sampling onshore teminals",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s160",
+      "section": "160",
+      "title": "تبريدالمنتجات غيرالبتروليةللوقود الغازالمسال–طرق فحص محطاتالخط البري",
+      "content": "تبريدالمنتجات غيرالبتروليةللوقود الغازالمسال–طرق فحص محطاتالخط البري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s161",
+      "section": "161",
+      "title": "UAE. SGSO ASTM D 156:2012",
+      "content": "UAE. SGSO ASTM D 156:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s162",
+      "section": "162",
+      "title": "SayboltColor of Petroleum Products (Saybolt Chromometer Method)",
+      "content": "SayboltColor of Petroleum Products (Saybolt Chromometer Method)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s163",
+      "section": "163",
+      "title": "فحصدرجة اللونللمنتجاتالبتروليةبمعيارسيبولت",
+      "content": "فحصدرجة اللونللمنتجاتالبتروليةبمعيارسيبولت",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s164",
+      "section": "164",
+      "title": "UAE. SGSO ISO 8217:2012",
+      "content": "UAE. SGSO ISO 8217:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s165",
+      "section": "165",
+      "title": "Petroleumproducts – Fuels (class F) – Specifications of marinefuels",
+      "content": "Petroleumproducts – Fuels (class F) – Specifications of marinefuels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s166",
+      "section": "166",
+      "title": "المنتجاتالبترولية–الوقود (مستوىإف)–مواصفاتالوقودالملاحي",
+      "content": "المنتجاتالبترولية–الوقود (مستوىإف)–مواصفاتالوقودالملاحي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s167",
+      "section": "167",
+      "title": "UAE. SGSO ISO 19903:2012",
+      "content": "UAE. SGSO ISO 19903:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s168",
+      "section": "168",
+      "title": "Petroleumand natural gas industries – Fixed concrete offshorestructures",
+      "content": "Petroleumand natural gas industries – Fixed concrete offshorestructures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s169",
+      "section": "169",
+      "title": "صناعةالنفط والغاز–المنصاتالخرسانيةالبحريةالثابتة",
+      "content": "صناعةالنفط والغاز–المنصاتالخرسانيةالبحريةالثابتة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s170",
+      "section": "170",
+      "title": "سادساً:قطاع مواصفاتالمعلوماتوتقنيةالمعلوما",
+      "content": "سادساً:قطاع مواصفاتالمعلوماتوتقنيةالمعلوما",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s171",
+      "section": "171",
+      "title": "عددالمواصفات: 7مواصفات",
+      "content": "عددالمواصفات: 7مواصفات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s172",
+      "section": "172",
+      "title": "UAE. SGSO ISO /IEC 15457-2:2012",
+      "content": "UAE. SGSO ISO /IEC 15457-2:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s173",
+      "section": "173",
+      "title": "Identificationcards – Thin flexible cards – Part 2: Magnetic recordingtechnique",
+      "content": "Identificationcards – Thin flexible cards – Part 2: Magnetic recordingtechnique",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s174",
+      "section": "174",
+      "title": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 1: تقنيةالتسجيلالمغناطيسي",
+      "content": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 1: تقنيةالتسجيلالمغناطيسي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s175",
+      "section": "175",
+      "title": "UAE. SGSO ISO /IEC TR 90005:2012",
+      "content": "UAE. SGSO ISO /IEC TR 90005:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s176",
+      "section": "176",
+      "title": "Systemsengeneering – Guidelines for the application of ISO 9001 to system lifecy",
+      "content": "Systemsengeneering – Guidelines for the application of ISO 9001 to system lifecycle processes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s177",
+      "section": "177",
+      "title": "هندسةالنظم–مبادئتوجيهيةلتطبيقالايزو 9001لعمليات دورةحياةالنظام",
+      "content": "هندسةالنظم–مبادئتوجيهيةلتطبيقالايزو 9001لعمليات دورةحياةالنظام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s178",
+      "section": "178",
+      "title": "UAE. SGSO ISO /IEC TR 29794-4:2012",
+      "content": "UAE. SGSO ISO /IEC TR 29794-4:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s179",
+      "section": "179",
+      "title": "Informationtechnology – Biometric sample quality – Part 4: Finger imagedata",
+      "content": "Informationtechnology – Biometric sample quality – Part 4: Finger imagedata",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s180",
+      "section": "180",
+      "title": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 4:بيانات صورةالإصبع",
+      "content": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 4:بيانات صورةالإصبع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s181",
+      "section": "181",
+      "title": "UAE. SGSO ISO /IEC 29794-1:2012",
+      "content": "UAE. SGSO ISO /IEC 29794-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s182",
+      "section": "182",
+      "title": "Informationtechnology – Biometric sample quality – Part 1:Framework",
+      "content": "Informationtechnology – Biometric sample quality – Part 1:Framework",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s183",
+      "section": "183",
+      "title": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 1:الإطار",
+      "content": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 1:الإطار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s184",
+      "section": "184",
+      "title": "UAE. SGSO ISO /IEC 15457-3:2012",
+      "content": "UAE. SGSO ISO /IEC 15457-3:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s185",
+      "section": "185",
+      "title": "Identificationcards – Thin flexible cards – Part 3: Test methods",
+      "content": "Identificationcards – Thin flexible cards – Part 3: Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s186",
+      "section": "186",
+      "title": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 3: طرقالاختبار",
+      "content": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 3: طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s187",
+      "section": "187",
+      "title": "UAE. SGSO ISO /IEC TR 29794-5:2012",
+      "content": "UAE. SGSO ISO /IEC TR 29794-5:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s188",
+      "section": "188",
+      "title": "Informationtechnology – Biometric sample quality – Part 5: Face imagedata",
+      "content": "Informationtechnology – Biometric sample quality – Part 5: Face imagedata",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s189",
+      "section": "189",
+      "title": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 5:بيانات صورةالوجه",
+      "content": "تقنيةالمعلومات–جودة عينةالمقياسالحيوي–الجزء 5:بيانات صورةالوجه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s190",
+      "section": "190",
+      "title": "UAE. SGSO ISO /IEC 15457-1:2012",
+      "content": "UAE. SGSO ISO /IEC 15457-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s191",
+      "section": "191",
+      "title": "Identificationcards – Thin flexible cards – Part 1: Physicalcharacteristics",
+      "content": "Identificationcards – Thin flexible cards – Part 1: Physicalcharacteristics",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s192",
+      "section": "192",
+      "title": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 1:الخصائصالفيزيائية",
+      "content": "بطاقاتالتعريف–بطاقات رقيقةمرنة–الجزء 1:الخصائصالفيزيائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s193",
+      "section": "193",
+      "title": "سابعاً:مواصفات قطاعمعدات توليدونقل وتوزيعالطاقةالكهربائية",
+      "content": "سابعاً:مواصفات قطاعمعدات توليدونقل وتوزيعالطاقةالكهربائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s194",
+      "section": "194",
+      "title": "عددالمواصفات: 7مواصفة",
+      "content": "عددالمواصفات: 7مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s195",
+      "section": "195",
+      "title": "UAE. SGSO IEC 60255-151:2012",
+      "content": "UAE. SGSO IEC 60255-151:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s196",
+      "section": "196",
+      "title": "Measuringrelays and protection equipment – Part 151: Functional requirements for",
+      "content": "Measuringrelays and protection equipment – Part 151: Functional requirements forover/under current protection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s197",
+      "section": "197",
+      "title": "مرحلاتالقياسومعداتلحماية–الجزء 151:المتطلباتالوظيفيةلحمايةالتيارالاعلى/الأدنى",
+      "content": "مرحلاتالقياسومعداتلحماية–الجزء 151:المتطلباتالوظيفيةلحمايةالتيارالاعلى/الأدنى",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s198",
+      "section": "198",
+      "title": "UAE. SGSO IEC 60255-127:2012",
+      "content": "UAE. SGSO IEC 60255-127:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s199",
+      "section": "199",
+      "title": "Measuringrelays and protection equipment – Part 127: Functional requirements for",
+      "content": "Measuringrelays and protection equipment – Part 127: Functional requirements forover/under voltage protection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s200",
+      "section": "200",
+      "title": "مرحلاتالقياسومعداتالحماية–الجزء127 :المتطلباتالوظيفيةلحمايةالجهدالاعلى/الأدنى",
+      "content": "مرحلاتالقياسومعداتالحماية–الجزء127 :المتطلباتالوظيفيةلحمايةالجهدالاعلى/الأدنى",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s201",
+      "section": "201",
+      "title": "UAE. SGSO IEC 60255-5:2012",
+      "content": "UAE. SGSO IEC 60255-5:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s202",
+      "section": "202",
+      "title": "ElectricalRelays – Part 5: Insulation coordination for measuring relays andprote",
+      "content": "ElectricalRelays – Part 5: Insulation coordination for measuring relays andprotection equipment – Requirements and tests",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s203",
+      "section": "203",
+      "title": "مرحلاتالكهربائية–الجزء 5: تنسيقالعزلللمرحلاتالقياسومعداتالحماية–متطلباتواختبارات",
+      "content": "مرحلاتالكهربائية–الجزء 5: تنسيقالعزلللمرحلاتالقياسومعداتالحماية–متطلباتواختبارات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s204",
+      "section": "204",
+      "title": "UAE. SGSO IEC 60255-8:2012",
+      "content": "UAE. SGSO IEC 60255-8:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s205",
+      "section": "205",
+      "title": "Electricalrelays – Part 8: Thermal electrical relays",
+      "content": "Electricalrelays – Part 8: Thermal electrical relays",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s206",
+      "section": "206",
+      "title": "مرحلاتالكهربائية–الجزء 8:مرحلاتالكهربائيةالحرارية",
+      "content": "مرحلاتالكهربائية–الجزء 8:مرحلاتالكهربائيةالحرارية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s207",
+      "section": "207",
+      "title": "UAE. SGSO IEC 60255-16:2012",
+      "content": "UAE. SGSO IEC 60255-16:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s208",
+      "section": "208",
+      "title": "Electricalrelays – Part 16: Impedance measuring relays",
+      "content": "Electricalrelays – Part 16: Impedance measuring relays",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s209",
+      "section": "209",
+      "title": "مرحلاتالكهربائية–الجزء 16:مرحلات قياسالممانعة",
+      "content": "مرحلاتالكهربائية–الجزء 16:مرحلات قياسالممانعة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s210",
+      "section": "210",
+      "title": "UAE. SGSO IEC 60255-1:2012",
+      "content": "UAE. SGSO IEC 60255-1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s211",
+      "section": "211",
+      "title": "Measuringrelays and protection equipment - Part 1: Common requirements",
+      "content": "Measuringrelays and protection equipment - Part 1: Common requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s212",
+      "section": "212",
+      "title": "مرحلاتالقياسومعداتالحماية–الجزء 1:المتطلباتالمشتركة",
+      "content": "مرحلاتالقياسومعداتالحماية–الجزء 1:المتطلباتالمشتركة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s213",
+      "section": "213",
+      "title": "ثامناً:قطاع مواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "content": "ثامناً:قطاع مواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s214",
+      "section": "214",
+      "title": "عددالمواصفات: 6مواصفة",
+      "content": "عددالمواصفات: 6مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s215",
+      "section": "215",
+      "title": "UAE. SGSO ISO 15306:2012",
+      "content": "UAE. SGSO ISO 15306:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s216",
+      "section": "216",
+      "title": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE RESI",
+      "content": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE RESISTANCE TO CYCLIC INTERNAL PRESSURE",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s217",
+      "section": "217",
+      "title": "أنابيبالبلاستيكالحراريةالمقواةبالزجاج–اختبار تقديرمقاومتهاللضغطالداخليالحلقي",
+      "content": "أنابيبالبلاستيكالحراريةالمقواةبالزجاج–اختبار تقديرمقاومتهاللضغطالداخليالحلقي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s218",
+      "section": "218",
+      "title": "UAE. SGSO ISO 10468:2012",
+      "content": "UAE. SGSO ISO 10468:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s219",
+      "section": "219",
+      "title": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG",
+      "content": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG – TERMSPECIFIC RING CREEP STIFFNESS UNDER WET CONDITIONS ANDCALCULATION OF THE WET CREEP FACTOR",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s220",
+      "section": "220",
+      "title": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير زحفالحلقة علىالمدى الطويلالمحدد ",
+      "content": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير زحفالحلقة علىالمدى الطويلالمحدد تحتظروف رطبةوحساب معاملالزحفالرطب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s221",
+      "section": "221",
+      "title": "UAE. SGSO ISO 7511:2012",
+      "content": "UAE. SGSO ISO 7511:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s222",
+      "section": "222",
+      "title": "PLASTICSPIPING SYSTEMS - GLASS – REINFORCED THERMOSETTING PLASTICS G.R.P. PIPESA",
+      "content": "PLASTICSPIPING SYSTEMS - GLASS – REINFORCED THERMOSETTING PLASTICS G.R.P. PIPESAND FITTINGS – TEST METHODS TO PROVE THE LEAKTIGHNESS OF THE WALL UNDERSHORT – TERM INTERNAL PRESSURE",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s223",
+      "section": "223",
+      "title": "أنظمةالأنابيبالبلاستيكية–أنابيبالبلاستكالحراريةالمقواةبالزجاجووصلاتها–طرق الاختب",
+      "content": "أنظمةالأنابيبالبلاستيكية–أنابيبالبلاستكالحراريةالمقواةبالزجاجووصلاتها–طرق الاختبارلإثباتالتسربالشديدللجدار تحتضغط داخليقصير الأمد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s224",
+      "section": "224",
+      "title": "UAE. SGSO ISO 10471:2012",
+      "content": "UAE. SGSO ISO 10471:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s225",
+      "section": "225",
+      "title": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG",
+      "content": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG – TERM ULTIMATE BENDING STRAIN AND THE LONG – TERM ULTIMATERELATIVE RING DEFLECTION UNDR WET CONDITIONS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s226",
+      "section": "226",
+      "title": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير اجهادالانحناءالنهائي علىالمدى ال",
+      "content": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير اجهادالانحناءالنهائي علىالمدى الطويلوانحرافالحلقةالنسبي تحتظروف رطبة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s227",
+      "section": "227",
+      "title": "UAE. SGSO ISO 14828:2012",
+      "content": "UAE. SGSO ISO 14828:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s228",
+      "section": "228",
+      "title": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG",
+      "content": "GLASS– REINFORCED THERMOSETTING PLASTICS G.R.P. PIPES – DETERMINATION OFTHE LONG – TERM SPECIFIC RING RELAXATION STIFFNESS UNDER WET CONDITIONSAND CALCULATION OF THE WET RELAXATION FACTOR",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s229",
+      "section": "229",
+      "title": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير طولالمدةالفعالةلتصلباتالاسترخاءل",
+      "content": "الأنابيبالبلاستيكيةالحراريةالمقواةبالزجاج–تقدير طولالمدةالفعالةلتصلباتالاسترخاءللحلقة تحتظروف رطبةوحساب معاملالاسترخاءالرطب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s230",
+      "section": "230",
+      "title": "UAE. SGSO ISO 7509:2012",
+      "content": "UAE. SGSO ISO 7509:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s231",
+      "section": "231",
+      "title": "PLASTICSPIPING SYSTEMS – GLASS – REINFORCED THERMOSETTING PLASTICS. G.R.P.PIPES ",
+      "content": "PLASTICSPIPING SYSTEMS – GLASS – REINFORCED THERMOSETTING PLASTICS. G.R.P.PIPES – DETERMINATION OF TIME TO FAILURE UNDER SUSTAINED INTERNALPRESSURE",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s232",
+      "section": "232",
+      "title": "أنظمةالأنابيبالبلاستيكية–أنابيبالبلاستكالحراريةالمقواةبالزجاج–اختبار تقديروقت ال",
+      "content": "أنظمةالأنابيبالبلاستيكية–أنابيبالبلاستكالحراريةالمقواةبالزجاج–اختبار تقديروقت الفشل تحتتأثير الضغطالداخليالمستمر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s233",
+      "section": "233",
+      "title": "جدولالمواصفاتالقياسيةالاماراتية",
+      "content": "جدولالمواصفاتالقياسيةالاماراتية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s234",
+      "section": "234",
+      "title": "قائمةالمواصفتالقياسيةالمحدثةوالمصوبة",
+      "content": "قائمةالمواصفتالقياسيةالمحدثةوالمصوبة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s235",
+      "section": "235",
+      "title": "عددالمواصفاتالقياسية 6مواصفة",
+      "content": "عددالمواصفاتالقياسية 6مواصفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s236",
+      "section": "236",
+      "title": "UAE. SGSO ISO 21748:2012",
+      "content": "UAE. SGSO ISO 21748:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s237",
+      "section": "237",
+      "title": "Guidancefor the use of repeatability, reproducibility and trueness estimate inme",
+      "content": "Guidancefor the use of repeatability, reproducibility and trueness estimate inmeasurement uncertainity estimation",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s238",
+      "section": "238",
+      "title": "دليلاستخداموتكراريةوامكانيةاستعادةالنتائجوالتقديراتالحقيقية فيتقديرالارتياب فيال",
+      "content": "دليلاستخداموتكراريةوامكانيةاستعادةالنتائجوالتقديراتالحقيقية فيتقديرالارتياب فيالقياس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s239",
+      "section": "239",
+      "title": "UAE. SGSO OIML D 18:2012",
+      "content": "UAE. SGSO OIML D 18:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s240",
+      "section": "240",
+      "title": "The useof certified reference materials in fields covered by metrological contro",
+      "content": "The useof certified reference materials in fields covered by metrological controlexercised by National services of legal metrology. Basic principles",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s241",
+      "section": "241",
+      "title": "استخدامالموادالمرجعيةالمعتمدة فيالمجالاتالتي تشملهاالرقابةالقانونيةالتي تمارسهاأ",
+      "content": "استخدامالموادالمرجعيةالمعتمدة فيالمجالاتالتي تشملهاالرقابةالقانونيةالتي تمارسهاأجهزةالتقييسالوطنية–المبادئالأساسية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s242",
+      "section": "242",
+      "title": "UAE. SGSO ISO 6885:2012",
+      "content": "UAE. SGSO ISO 6885:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s243",
+      "section": "243",
+      "title": "Animaland vegetable fats and oils – determination of anisidinevalue",
+      "content": "Animaland vegetable fats and oils – determination of anisidinevalue",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s244",
+      "section": "244",
+      "title": "الزيوتوالدهونالنباتية–تحديد قيمةالأنسيدين",
+      "content": "الزيوتوالدهونالنباتية–تحديد قيمةالأنسيدين",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s245",
+      "section": "245",
+      "title": "UAE. SGSO ISO 29001:2012",
+      "content": "UAE. SGSO ISO 29001:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s246",
+      "section": "246",
+      "title": "Petroleum,petrochemical and natural gas industries – Sector – specific qualityma",
+      "content": "Petroleum,petrochemical and natural gas industries – Sector – specific qualitymanagement systems – Requirements for product and service supplyorganizations",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s247",
+      "section": "247",
+      "title": "صناعةالنفطوالبتروكيماوياتوالغاز–نظم ادارةالجودةالخاصة بقطاعالمنتج–المؤسساتالخدمي",
+      "content": "صناعةالنفطوالبتروكيماوياتوالغاز–نظم ادارةالجودةالخاصة بقطاعالمنتج–المؤسساتالخدميةوالإنتاجية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s248",
+      "section": "248",
+      "title": "UAE. SGSO IEC 62271-108:2012",
+      "content": "UAE. SGSO IEC 62271-108:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s249",
+      "section": "249",
+      "title": "Gas– insulated metal – enclosed switchgear for rated voltages of 72.5kV and abov",
+      "content": "Gas– insulated metal – enclosed switchgear for rated voltages of 72.5kV and above",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s250",
+      "section": "250",
+      "title": "مجوعةالمفاتيحالكهربائيةالمغلفةبالمعدنوالمعزولةبالغاز للجهدالمقنن 72.5 ك ففأكثر",
+      "content": "مجوعةالمفاتيحالكهربائيةالمغلفةبالمعدنوالمعزولةبالغاز للجهدالمقنن 72.5 ك ففأكثر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s251",
+      "section": "251",
+      "title": "UAE. SGSO ISO 7240-15: 2007/Amd 1:2012",
+      "content": "UAE. SGSO ISO 7240-15: 2007/Amd 1:2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s252",
+      "section": "252",
+      "title": "Firedetection and alarm systems – Part 15: Point type fire detectors usingscatte",
+      "content": "Firedetection and alarm systems – Part 15: Point type fire detectors usingscattered light, transmitted light or ionization sensors in combination with aheat sensor",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s253",
+      "section": "253",
+      "title": "أجهزةكشف الحريقوأنظمةالإنذار–الجزء الخامسعشر: أجهزة كشفالحريقمتعددةالحسيات",
+      "content": "أجهزةكشف الحريقوأنظمةالإنذار–الجزء الخامسعشر: أجهزة كشفالحريقمتعددةالحسيات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s254",
+      "section": "254",
+      "title": "تصويبمطبعي أولمواصفةقياسية[2]انالجملةالسابقةالمذكورة لمترد واضحةومقروءة فيالنص ا",
+      "content": "تصويبمطبعي أولمواصفةقياسية[2]انالجملةالسابقةالمذكورة لمترد واضحةومقروءة فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[3]إنما ورد بعد هذهالكلمة ليسواضحاًومقروءاً فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[4]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[5]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[6]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[2]انالجملةالسابقةالمذكورة لمترد واضحةومقروءة فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[3]إنما ورد بعد هذهالكلمة ليسواضحاًومقروءاً فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[4]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[5]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[6]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[2]انالجملةالسابقةالمذكورة لمترد واضحةومقروءة فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[3]إنما ورد بعد هذهالكلمة ليسواضحاًومقروءاً فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[4]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[5]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[6]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s255",
+      "section": "255",
+      "title": "[1]لم يردالتاريخالهجري لهذاالقرار فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.",
+      "content": "[1]لم يردالتاريخالهجري لهذاالقرار فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[2]انالجملةالسابقةالمذكورة لمترد واضحةومقروءة فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[3]إنما ورد بعد هذهالكلمة ليسواضحاًومقروءاً فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[4]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[5]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.[6]وردتفي النصالمنشور فيالجريدةالرسمية كلمة\"االمقياس\"والأصح أنتكون\"المقياس\"،فاقتضىالتنويه.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ministerial-42-1977",
+  "type": "statute",
+  "title": "قرار وزاري رقم 42 لسنة 1977: في شأن تسجيل الوصفات الطبية في السجلات المعتمدة من قبل الوزارة*",
+  "title_en": "Ministerial Decision No. 42 of 1977",
+  "short_name": "قرار وزاري 42/1977",
+  "status": "in_force",
+  "issued_date": "1977-06-01",
+  "in_force_date": "1977-06-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54342",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art96",
+      "section": "96",
+      "title": "فيشأن مهنةالصيدلةوالمؤسساتالصيدلانية.",
+      "content": "من القانونالاتحادي رقم4/1983 تاريخ 6/6/1983م. فيشأن مهنةالصيدلةوالمؤسساتالصيدلانية.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

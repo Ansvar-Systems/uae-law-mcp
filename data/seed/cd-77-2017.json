@@ -1,0 +1,1941 @@
+{
+  "id": "cd-77-2017",
+  "type": "statute",
+  "title": "قرار رئيس مجلس الادارة رقم 77 لسنة 2017: بشأن إعتماد مواصفات قياسيّة إماراتيّة",
+  "title_en": "Decision No. 77 of 2017",
+  "short_name": "قرار رئيس مجلس الادارة 77/2017",
+  "status": "in_force",
+  "issued_date": "2017-10-01",
+  "in_force_date": "2017-10-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54545",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قراررئيس مجلسالادارة رقم77 لسنة 2017",
+      "content": "قراررئيس مجلسالادارة رقم77 لسنة 2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ1/10/2017م.",
+      "content": "صادربتاريخ1/10/2017م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "بشأنإعتمادمواصفاتقياسيّةإماراتيّة",
+      "content": "بشأنإعتمادمواصفاتقياسيّةإماراتيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "-بعدالإطلاع علىالقانونالإتحادي رقم(28) لسنة 2001بإنشاء هيئةالإماراتللمواصفاتالمق",
+      "content": "-بعدالإطلاع علىالقانونالإتحادي رقم(28) لسنة 2001بإنشاء هيئةالإماراتللمواصفاتالمقاييسوتعديلاته.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "-وبناءًعلى قرار مجلسالإدارة فياجتماعه رقم(3)لسنة 2017 بتاريخ11سبتمبر2017 باعتماد",
+      "content": "-وبناءًعلى قرار مجلسالإدارة فياجتماعه رقم(3)لسنة 2017 بتاريخ11سبتمبر2017 باعتمادمجموعة منالمواصفاتالقياسيّةالإماراتية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "إعتمادالمواصفاتالقياسيّةالإماراتيّةالمبيّنةعناوينهاوأرقامها فيالجدول رقم (1)المر",
+      "content": "إعتمادالمواصفاتالقياسيّةالإماراتيّةالمبيّنةعناوينهاوأرقامها فيالجدول رقم (1)المرفقوإجماليعددها (9)مواصفاتقياسيّة فيقطاعالمنسوجات.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "إعتمادالمواصفاتالقياسيّةالإماراتيّةالمبيّنةعناوينهاوأرقامهاوقطاعاتها فيالجدول رق",
+      "content": "إعتمادالمواصفاتالقياسيّةالإماراتيّةالمبيّنةعناوينهاوأرقامهاوقطاعاتها فيالجدول رقم (2)المرفقوإجماليعددها (74)مواصفةقياسيّة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "ينشرهذا القرار فيالجريدةالرسمية معجدوليالمواصفاتالقياسيّةالمشارإليهما فيالمادةال",
+      "content": "ينشرهذا القرار فيالجريدةالرسمية معجدوليالمواصفاتالقياسيّةالمشارإليهما فيالمادةالأولىوالثانية منهذا القرارويُعمل بهإعتباراً مناليوم التاليلتاريخالنشر.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "الدكتور/راشد أحمد بنفهد",
+      "content": "الدكتور/راشد أحمد بنفهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "رئيسمجلس إدارةهيئةالإماراتللمواصفاتوالمقاييس",
+      "content": "رئيسمجلس إدارةهيئةالإماراتللمواصفاتوالمقاييس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "نُشرهذا القرار فيعدد الجريدةالرسمية رقم 624ص477.",
+      "content": "نُشرهذا القرار فيعدد الجريدةالرسمية رقم 624ص477.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "المواصفاتالقياسيّةالإماراتيّةالخاصّةبالنظامالإماراتيللمنتجاتالنسيجيّة",
+      "content": "المواصفاتالقياسيّةالإماراتيّةالخاصّةبالنظامالإماراتيللمنتجاتالنسيجيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "الطريقةالقياسيّةالمستخدمةﻹختبارقابليّةالإحتراقلملابس نومالأطفال",
+      "content": "الطريقةالقياسيّةالمستخدمةﻹختبارقابليّةالإحتراقلملابس نومالأطفال",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Standard Test Method forFlammability of Textiles Used in Children’s Sleepwear",
+      "content": "Standard Test Method forFlammability of Textiles Used in Children’s Sleepwear",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "تحديثبالتبنيلإصدار عام2014",
+      "content": "تحديثبالتبنيلإصدار عام2014",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "السلامةفي لعبالأطفال-الجزء الأول:الخواصالميكانيكيةوالفيزيائية.",
+      "content": "السلامةفي لعبالأطفال-الجزء الأول:الخواصالميكانيكيةوالفيزيائية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Safety of toys. Mechanicaland physical properties",
+      "content": "Safety of toys. Mechanicaland physical properties",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "المنسوجات-تحديد محتوىالفتالات-طريقة ثلاثيالهيدروفوران",
+      "content": "المنسوجات-تحديد محتوىالفتالات-طريقة ثلاثيالهيدروفوران",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Textiles-Determination of thephthalate content\n- Tetrahydrofuranmethod",
+      "content": "Textiles-Determination of thephthalate content\n- Tetrahydrofuranmethod",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "UAE.S.ISO.14184-1:2017",
+      "content": "UAE.S.ISO.14184-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "المنسوجات-تحديد محتوىالفورمألدهيد- الجزءالأول: فورمألدهيد الحروالمثميه",
+      "content": "المنسوجات-تحديد محتوىالفورمألدهيد- الجزءالأول: فورمألدهيد الحروالمثميه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Textiles-Determination OfFormaldehyde- Part 1: Free And Hydrolysed Formaldehyde ",
+      "content": "Textiles-Determination OfFormaldehyde- Part 1: Free And Hydrolysed Formaldehyde (Water ExtractionMethod)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "UAE.S.ASTM.E.1645:2017",
+      "content": "UAE.S.ASTM.E.1645:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "التطبيقالقياسيلتحضيرعيّنات منالدهان الجافبواسطة الفرنأو الميكرويفمن أجلالتحليلال",
+      "content": "التطبيقالقياسيلتحضيرعيّنات منالدهان الجافبواسطة الفرنأو الميكرويفمن أجلالتحليلاللاحقللرصاص",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Standard Practice forPreparation of Dried Paint Samples by Hotplate or Microwave",
+      "content": "Standard Practice forPreparation of Dried Paint Samples by Hotplate or Microwave Digestion forSubsequent Lead Analysis",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "المشغولاتالمعدنيةالحادةالمتصلةبالجسم- طريقةالفحصالمرجعيةلتقدير محتوىالنيكلبواسطة",
+      "content": "المشغولاتالمعدنيةالحادةالمتصلةبالجسم- طريقةالفحصالمرجعيةلتقدير محتوىالنيكلبواسطة مطيافاللهبللإمتصاصالذري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Body-piercing postassemblies. Reference test method for determination of nickel ",
+      "content": "Body-piercing postassemblies. Reference test method for determination of nickel content by flameatomic absorption spectrometry",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "طريقةالإختبارالمرجعيةللنيكلالمتحرّر،الذي يمكن أنيدخل عبرمنافذ جسمالإنسان، ومنجمي",
+      "content": "طريقةالإختبارالمرجعيةللنيكلالمتحرّر،الذي يمكن أنيدخل عبرمنافذ جسمالإنسان، ومنجميع مكوّناتالمركبوالمواد التيتكون علىاتصال مباشرلفترات ممتدةمع جلدالإنسان",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Reference test method forrelease of nickel from all post assemblies which are in",
+      "content": "Reference test method forrelease of nickel from all post assemblies which are inserted into pierced partsof the human body and articles intended to come into direct and prolongedcontact with the skin",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "طريقةلمحاكاةالبليوالتآكلللكشف عنالنيكلالمتحرر منالعناصرالمطلية",
+      "content": "طريقةلمحاكاةالبليوالتآكلللكشف عنالنيكلالمتحرر منالعناصرالمطلية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Method for the simulation ofwear and corrosion for the detection of nickel relea",
+      "content": "Method for the simulation ofwear and corrosion for the detection of nickel release from coateditems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "UAE.S.ISO.105-E04:2017",
+      "content": "UAE.S.ISO.105-E04:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "المنسوجات-طرق اختبارثبات اللون-الجزء أي 04؛ثبات اللونللعرق",
+      "content": "المنسوجات-طرق اختبارثبات اللون-الجزء أي 04؛ثبات اللونللعرق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "Textiles- Tests for colourfastness-Part E04: Colour fastness to perspiration",
+      "content": "Textiles- Tests for colourfastness-Part E04: Colour fastness to perspiration",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "المواصفاتالقياسيّةالخليجيّةالمعتمدةإماراتيّاً",
+      "content": "المواصفاتالقياسيّةالخليجيّةالمعتمدةإماراتيّاً",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "قطاعمواصفاتالكيمياءوالغزلوالنسيج",
+      "content": "قطاعمواصفاتالكيمياءوالغزلوالنسيج",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "UAE.S.GSOISO 1856:2017",
+      "content": "UAE.S.GSOISO 1856:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "الموادالبوليمريّةالخلويّةالمرنة- تحديدمجموعةالضغط",
+      "content": "الموادالبوليمريّةالخلويّةالمرنة- تحديدمجموعةالضغط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Flexible cellular polymericmaterials- Determination of compression set",
+      "content": "Flexible cellular polymericmaterials- Determination of compression set",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "UAE.SGSO ISO 19289:2017",
+      "content": "UAE.SGSO ISO 19289:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "جودةالهواء- أرصادجويّة تحديدمواقعالتصنيفاتلمحطات الرصدالسطحيّة علىالأرض",
+      "content": "جودةالهواء- أرصادجويّة تحديدمواقعالتصنيفاتلمحطات الرصدالسطحيّة علىالأرض",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Air quality- Meteorology-Siting classifications for surface observing stations o",
+      "content": "Air quality- Meteorology-Siting classifications for surface observing stations on land",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "UAE.SGSO ISOASTM\n51650:2017",
+      "content": "UAE.SGSO ISOASTM\n51650:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "التطبيقاتالعمليّةلاستخدامنظام ثلاثيأسيتاتالسليولوزلقياسالجرعة",
+      "content": "التطبيقاتالعمليّةلاستخدامنظام ثلاثيأسيتاتالسليولوزلقياسالجرعة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "Practice for use of acellulose triacetate dosimetry system",
+      "content": "Practice for use of acellulose triacetate dosimetry system",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "UAE.SGSO ISO 3864-1:2017",
+      "content": "UAE.SGSO ISO 3864-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "الرموزالتخطيطيّة-ألوانالسلامةوإشاراتالسلامة-الجزء الأول:مبادئ تصميمإشاراتالسلامة",
+      "content": "الرموزالتخطيطيّة-ألوانالسلامةوإشاراتالسلامة-الجزء الأول:مبادئ تصميمإشاراتالسلامةوعلاماتالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "Graphical symbols- Safetycolours and safety signs- Part 1: Design principles for",
+      "content": "Graphical symbols- Safetycolours and safety signs- Part 1: Design principles for safety signs and safetymarkings",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "UAE.SGSO ISO\n3611:2017",
+      "content": "UAE.SGSO ISO\n3611:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "المواصفاتالفنيةالهندسيةللمنتج(GPS)-معدات قياسالأبعاد:ميكرومترللقياساتالخارجية-ال",
+      "content": "المواصفاتالفنيةالهندسيةللمنتج(GPS)-معدات قياسالأبعاد:ميكرومترللقياساتالخارجية-التصميموالخصائصالمترولوجيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "Geometrical productspecifications (GPS)-- Dimensional measuring equipment: Micro",
+      "content": "Geometrical productspecifications (GPS)-- Dimensional measuring equipment: Micrometers for externalmeasurements-- Design and metrological characteristics",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "UAE.SGSO\nOIML R100-\n2:2017",
+      "content": "UAE.SGSO\nOIML R100-\n2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "أنظمةمقاييس طيفالإمتصاصالذري لقياسالملوثاتالمعدنية فيالماء الجزءالثاني:إجراءاتال",
+      "content": "أنظمةمقاييس طيفالإمتصاصالذري لقياسالملوثاتالمعدنية فيالماء الجزءالثاني:إجراءاتالإختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Atomic absorptionspectrometer systems for measuring metal pollutants Part 2: Tes",
+      "content": "Atomic absorptionspectrometer systems for measuring metal pollutants Part 2: Test procedures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "UAE.SGSO OIML R 100-\n3:2017",
+      "content": "UAE.SGSO OIML R 100-\n3:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "أنظمةمقاييس طيفالإمتصاصالذري لقياسالملوثاتالمعدنية فيالمياه الجزءالثالث: شكلتقري",
+      "content": "أنظمةمقاييس طيفالإمتصاصالذري لقياسالملوثاتالمعدنية فيالمياه الجزءالثالث: شكلتقريرالإختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "Atomic absorptionspectrometer systems for measuring metal pollutants Part 3: Tes",
+      "content": "Atomic absorptionspectrometer systems for measuring metal pollutants Part 3: Test reportformat",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "UAE.SGSO ISO\n3864-2:2017",
+      "content": "UAE.SGSO ISO\n3864-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الثاني:مبادئ تصميمبطاقات بيانال",
+      "content": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الثاني:مبادئ تصميمبطاقات بيانالسلامة علىالمنتجات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Graphical symbols- Safetycolours and safety signs- Part 2: Design principles for",
+      "content": "Graphical symbols- Safetycolours and safety signs- Part 2: Design principles for product safetylabels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "UAE.SGSO ISO\n3864-4:2017",
+      "content": "UAE.SGSO ISO\n3864-4:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الرابع:الخصائصاللونيةوالضوئيةلل",
+      "content": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الرابع:الخصائصاللونيةوالضوئيةللموادالمصنع منهاإشاراتالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "Graphical symbols- Safetycolours and safety signs- Part 4: Colorimetric and phot",
+      "content": "Graphical symbols- Safetycolours and safety signs- Part 4: Colorimetric and photometric properties ofsafety sign materials",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "UAE.SGSO ISO\n3864-3:2017",
+      "content": "UAE.SGSO ISO\n3864-3:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الثالث:مبادئ تصميمالرموزالتخطيط",
+      "content": "الرموزالتخطيطية-ألوانالسلامةوإشاراتالسلامة-الجزء الثالث:مبادئ تصميمالرموزالتخطيطيةالمستخدمة فيإشاراتالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Graphical symbols- Safetycolours and safety signs- Part 3: Design principles for",
+      "content": "Graphical symbols- Safetycolours and safety signs- Part 3: Design principles for graphical symbols foruse in safety signs",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "UAE.SGSO ISO\n5018:2017",
+      "content": "UAE.SGSO ISO\n5018:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "الموادالحرارية-تعيينالكثافةالحقيقية",
+      "content": "الموادالحرارية-تعيينالكثافةالحقيقية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "Refractory materials--Determination of true density",
+      "content": "Refractory materials--Determination of true density",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "UAE.SGSO ISO\n2186:2017",
+      "content": "UAE.SGSO ISO\n2186:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "تدفقالموانع فيالقنواتالمغلقة-وصلات لنقلإشارة الضغطبين العناصرالأساسيّةوالثانويّة",
+      "content": "تدفقالموانع فيالقنواتالمغلقة-وصلات لنقلإشارة الضغطبين العناصرالأساسيّةوالثانويّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Fluid Flow In ClosedConduits--Connections For Presure Signal Transmissions Betwe",
+      "content": "Fluid Flow In ClosedConduits--Connections For Presure Signal Transmissions Between Primary AndSecondary Elements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "UAE.SGSO ISO\n17089-2:2017",
+      "content": "UAE.SGSO ISO\n17089-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "قياستدفق الموانعفي القنواتالمغلقة-عداداتالموجات فوقالصوتيةللغاز- الجزءالثاني:الع",
+      "content": "قياستدفق الموانعفي القنواتالمغلقة-عداداتالموجات فوقالصوتيةللغاز- الجزءالثاني:العداداتالمستخدمةللتطبيقاتالصناعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "Measurement Of Fluid Flow InClosed Conduits- Ultrasonic Meters For Gas- Part2: M",
+      "content": "Measurement Of Fluid Flow InClosed Conduits- Ultrasonic Meters For Gas- Part2: Meters For IndustrialApplications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "UAE.SGSO ISO\n4064-4:2017",
+      "content": "UAE.SGSO ISO\n4064-4:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الرابعالمتطلباتغيرالمت",
+      "content": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الرابعالمتطلباتغيرالمترولوجيّةوالتي لاتعطيهاالمواصفةالقياسيةالدولية رقمISO1- 4064",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "Water Meters For Cold PotableWater And Hot Water--Part 4: Nonmetrolgical Require",
+      "content": "Water Meters For Cold PotableWater And Hot Water--Part 4: Nonmetrolgical Requirements Not Covered By ISO4064-1",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "UAE.SGSO ISO\n4064-5:2017",
+      "content": "UAE.SGSO ISO\n4064-5:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الخامس:متطلباتالتركيب",
+      "content": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الخامس:متطلباتالتركيب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Water Meters For ColdPortable Water And Hot Water Part 5: Installation Requireme",
+      "content": "Water Meters For ColdPortable Water And Hot Water Part 5: Installation Requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "UAE.SGSO ISO\n4064-1:2017",
+      "content": "UAE.SGSO ISO\n4064-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الأول:المتطلباتالمترول",
+      "content": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماء الحار-الجزء الأول:المتطلباتالمترولوجيّةوالفنيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "Water Meters For ColdPortable Water And Hot Water Part 1: Metrological And Techn",
+      "content": "Water Meters For ColdPortable Water And Hot Water Part 1: Metrological And TechnicalRequirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "UAE.SGSO ISO\n4064-2:2017",
+      "content": "UAE.SGSO ISO\n4064-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماءالحار\nالجزءالثاني: طرائقالإختبار",
+      "content": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماءالحار\nالجزءالثاني: طرائقالإختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "Water Meters For ColdPortable Water And Hot Water Part--2: Test Methods",
+      "content": "Water Meters For ColdPortable Water And Hot Water Part--2: Test Methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "UAE.SGSO ISO\n4064-3:2017",
+      "content": "UAE.SGSO ISO\n4064-3:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماءالحار\nالجزءالثالث: شكلتقريرالإختبار",
+      "content": "عداداتالماءالمعدّةلقياس ماءالشرب الباردوالماءالحار\nالجزءالثالث: شكلتقريرالإختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "Water Meters For ColdPortable Water And Hot Water Part--3: Test Report Format",
+      "content": "Water Meters For ColdPortable Water And Hot Water Part--3: Test Report Format",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "UAE.SGSO\nOIML R46-3:\n2017",
+      "content": "UAE.SGSO\nOIML R46-3:\n2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "عداداتالطاقةالكهربائيةالفعالة-الجزء الثالثشكل تقريرالإختبار",
+      "content": "عداداتالطاقةالكهربائيةالفعالة-الجزء الثالثشكل تقريرالإختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "Active electrical energymeters. Part 3: Test report format",
+      "content": "Active electrical energymeters. Part 3: Test report format",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "تبنيباللغةالإنجليزيةمع الترجمة",
+      "content": "تبنيباللغةالإنجليزيةمع الترجمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "UAE.SGSO\nOIML R46-1&2:\n2016",
+      "content": "UAE.SGSO\nOIML R46-1&2:\n2016",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "عداداتالطاقةالكهربائيةالفعّالة-الجزءالأول:المتطلباتالفنيةوالمترولوجية\nالجزءالثان",
+      "content": "عداداتالطاقةالكهربائيةالفعّالة-الجزءالأول:المتطلباتالفنيةوالمترولوجية\nالجزءالثاني:الضوابطالمترولوجيةوإختباراتالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "Active electrical energymeters.\nPart 1: Metrological andtechnical requirements a",
+      "content": "Active electrical energymeters.\nPart 1: Metrological andtechnical requirements and Part 2: Metrological controls and performancetests",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "قطاعالمواصفاتالغذائية",
+      "content": "قطاعالمواصفاتالغذائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s107",
+      "section": "107",
+      "title": "الحدودالقصوىلمتبقياتالكحولالإيثيلي(الإيثانول) فيالأغذية",
+      "content": "الحدودالقصوىلمتبقياتالكحولالإيثيلي(الإيثانول) فيالأغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s108",
+      "section": "108",
+      "title": "The maximum limits forresidues of ethyl alcohol (ethanol) in food",
+      "content": "The maximum limits forresidues of ethyl alcohol (ethanol) in food",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "UAE.SGSO\nCAC/RCP\n42:2017",
+      "content": "UAE.SGSO\nCAC/RCP\n42:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s110",
+      "section": "110",
+      "title": "مدوّنةالممارساتالصحية فيالتوابلوالأعشابالعطريةالمجفّفة",
+      "content": "مدوّنةالممارساتالصحية فيالتوابلوالأعشابالعطريةالمجفّفة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "Code of Hygienic Practice forSpices and Dried Aromatic Herbs",
+      "content": "Code of Hygienic Practice forSpices and Dried Aromatic Herbs",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s112",
+      "section": "112",
+      "title": "UAE.GSOCAC\nRCP 67:2017",
+      "content": "UAE.GSOCAC\nRCP 67:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "دليلالممارسةللتقليل منالأكريلاميدفي الأغذية",
+      "content": "دليلالممارسةللتقليل منالأكريلاميدفي الأغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "Code of Practice for theReduction of Acrylamide in Foods",
+      "content": "Code of Practice for theReduction of Acrylamide in Foods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "الفيتاميناتوالمعادنالمسموحباستخدامهافي الموادالغذائية",
+      "content": "الفيتاميناتوالمعادنالمسموحباستخدامهافي الموادالغذائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "Vitamins and Mineralspermitted for use in foodstuff",
+      "content": "Vitamins and Mineralspermitted for use in foodstuff",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s117",
+      "section": "117",
+      "title": "UAE.SGSO\nCAC/RCP\n75:2017",
+      "content": "UAE.SGSO\nCAC/RCP\n75:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "مدوّنةالممارساتالصحيّةالخاصّةبالأغذيةمنخفضةالرطوبة",
+      "content": "مدوّنةالممارساتالصحيّةالخاصّةبالأغذيةمنخفضةالرطوبة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s119",
+      "section": "119",
+      "title": "Code of Hygienic Practice forLow-Moisture Foods",
+      "content": "Code of Hygienic Practice forLow-Moisture Foods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "UAE.SGSO ISO\n7937:2017",
+      "content": "UAE.SGSO ISO\n7937:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "ميكروبيولوجيالأغذيةوالأعلاف-طريقة أفقيّةلعدالكلوسترديومبيرفرنجنسطريقة عدالمستعمر",
+      "content": "ميكروبيولوجيالأغذيةوالأعلاف-طريقة أفقيّةلعدالكلوسترديومبيرفرنجنسطريقة عدالمستعمرات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s122",
+      "section": "122",
+      "title": "Microbiology of Food AndAnimal Feeding Stuffs - Horizontal Method For The Enumer",
+      "content": "Microbiology of Food AndAnimal Feeding Stuffs - Horizontal Method For The Enumeration Of ClostridiumPerfringens- Colony Count Technique",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "تحديثبالتبني معالترجمة",
+      "content": "تحديثبالتبني معالترجمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "UAE.SGSO ISO\n6666:2017",
+      "content": "UAE.SGSO ISO\n6666:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s125",
+      "section": "125",
+      "title": "تحديثبالتبني معالترجمة",
+      "content": "تحديثبالتبني معالترجمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s126",
+      "section": "126",
+      "title": "UAE.SGSO ISO\n22006:2017",
+      "content": "UAE.SGSO ISO\n22006:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s127",
+      "section": "127",
+      "title": "نظامإدارة الجودة-إرشادات عنتطبيق مواصفةالأيزو 2001/9001 فيإنتاجالمحاصيل",
+      "content": "نظامإدارة الجودة-إرشادات عنتطبيق مواصفةالأيزو 2001/9001 فيإنتاجالمحاصيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s128",
+      "section": "128",
+      "title": "Quality management systems-Guidelines on the application of ISO 9001:2000 for cr",
+      "content": "Quality management systems-Guidelines on the application of ISO 9001:2000 for crop production",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s129",
+      "section": "129",
+      "title": "UAE.SGSO\nCAC/GL 21:2017",
+      "content": "UAE.SGSO\nCAC/GL 21:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s130",
+      "section": "130",
+      "title": "مبادئإرشادات وضعوتطبيقالمعاييرالميكروبيولوجيةفي الأغذية",
+      "content": "مبادئإرشادات وضعوتطبيقالمعاييرالميكروبيولوجيةفي الأغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s131",
+      "section": "131",
+      "title": "Principles And Guidelines ForThe Establishment And Application Of Microbiologica",
+      "content": "Principles And Guidelines ForThe Establishment And Application Of Microbiological Criteria Related ToFoods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s132",
+      "section": "132",
+      "title": "UAE.SGSO\nCAC/RCP 66:2017",
+      "content": "UAE.SGSO\nCAC/RCP 66:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s133",
+      "section": "133",
+      "title": "دليلالممارساتالصحيةللتركيبةالمجفّفةللرضع وصغارالأطفال",
+      "content": "دليلالممارساتالصحيةللتركيبةالمجفّفةللرضع وصغارالأطفال",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s134",
+      "section": "134",
+      "title": "Code of hygienic Practice forpowdered formula for infants and young children",
+      "content": "Code of hygienic Practice forpowdered formula for infants and young children",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s135",
+      "section": "135",
+      "title": "تحديثبالتبني معالترجمة",
+      "content": "تحديثبالتبني معالترجمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s136",
+      "section": "136",
+      "title": "UAE.SGSO\nCAC/GL 30:2017",
+      "content": "UAE.SGSO\nCAC/GL 30:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s137",
+      "section": "137",
+      "title": "مبادئوإرشاداتتقييمالمخاطرالميكروبيولوجيةفي الأغذية",
+      "content": "مبادئوإرشاداتتقييمالمخاطرالميكروبيولوجيةفي الأغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s138",
+      "section": "138",
+      "title": "Principles and Guidelines forConduct of Microbiological Risk",
+      "content": "Principles and Guidelines forConduct of Microbiological Risk",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s139",
+      "section": "139",
+      "title": "قطاعمواصفاتالنفطوالغاز",
+      "content": "قطاعمواصفاتالنفطوالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s140",
+      "section": "140",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s141",
+      "section": "141",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s142",
+      "section": "142",
+      "title": "UAE.SGSO ISO\n13085:2017",
+      "content": "UAE.SGSO ISO\n13085:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s143",
+      "section": "143",
+      "title": "صناعاتالبترولوالغازالطبيعي-أنابيب سبيكةالألمونيومالتي تستخدمكوصلاتللآبار",
+      "content": "صناعاتالبترولوالغازالطبيعي-أنابيب سبيكةالألمونيومالتي تستخدمكوصلاتللآبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "Petroleum and natural gasindustries- Aluminium alloy pipe for use as tubing for ",
+      "content": "Petroleum and natural gasindustries- Aluminium alloy pipe for use as tubing for wells",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s145",
+      "section": "145",
+      "title": "UAE.SGSOISO/TR\n12489:2017",
+      "content": "UAE.SGSOISO/TR\n12489:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s146",
+      "section": "146",
+      "title": "صناعاتالبترولوالبتروكيماوياتوالغازالطبيعي-مصدقية تشكيلوتخطيط أنظمةالسلامة",
+      "content": "صناعاتالبترولوالبتروكيماوياتوالغازالطبيعي-مصدقية تشكيلوتخطيط أنظمةالسلامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s147",
+      "section": "147",
+      "title": "Petroleum, petrochemical andnatural gas industries -- Reliability modelling and ",
+      "content": "Petroleum, petrochemical andnatural gas industries -- Reliability modelling and calculation of safetysystems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s148",
+      "section": "148",
+      "title": "صناعاتالبترولوالغازالطبيعي-تقدير مشروعالتأثيراتالبيئية",
+      "content": "صناعاتالبترولوالغازالطبيعي-تقدير مشروعالتأثيراتالبيئية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s149",
+      "section": "149",
+      "title": "Petroleum and natural gasindustries- Project Environmental Impact Assessments",
+      "content": "Petroleum and natural gasindustries- Project Environmental Impact Assessments",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s150",
+      "section": "150",
+      "title": "قطاعمواصفاتتقنيةالمعلومات",
+      "content": "قطاعمواصفاتتقنيةالمعلومات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s151",
+      "section": "151",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s153",
+      "section": "153",
+      "title": "UAE.SGSO ISO\n27799:2017",
+      "content": "UAE.SGSO ISO\n27799:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s154",
+      "section": "154",
+      "title": "المعلوماتالصحيّة-إدارة أمنمعلوماتالصحّةباستخدامالمواصفةالقياسيّةISO/IEC27002",
+      "content": "المعلوماتالصحيّة-إدارة أمنمعلوماتالصحّةباستخدامالمواصفةالقياسيّةISO/IEC27002",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s155",
+      "section": "155",
+      "title": "Health informatics --information security management in health using ISO/IEC 270",
+      "content": "Health informatics --information security management in health using ISO/IEC 27002",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s156",
+      "section": "156",
+      "title": "UAE.SGSO ISO\n12967-3:2017",
+      "content": "UAE.SGSO ISO\n12967-3:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s157",
+      "section": "157",
+      "title": "المعلوماتالصحيّة- بنيةالخدمات-الجزء 3- وجهةالنظرالحسابية",
+      "content": "المعلوماتالصحيّة- بنيةالخدمات-الجزء 3- وجهةالنظرالحسابية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s158",
+      "section": "158",
+      "title": "Health informatics -- Servicearchitecture-- Part 3: Computational viewpoint",
+      "content": "Health informatics -- Servicearchitecture-- Part 3: Computational viewpoint",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s159",
+      "section": "159",
+      "title": "UAE.SGSO ISO\n11616:2017",
+      "content": "UAE.SGSO ISO\n11616:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s160",
+      "section": "160",
+      "title": "المعلوماتالصحيّة-تحديدالمنتجاتالطبية-- عناصرالبياناتوهيكليّتهالتعريف وحيدولتبادل",
+      "content": "المعلوماتالصحيّة-تحديدالمنتجاتالطبية-- عناصرالبياناتوهيكليّتهالتعريف وحيدولتبادلمعلومات ضبطالمنتجاتالدوائيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s161",
+      "section": "161",
+      "title": "Health informatics --Identification of medicinal products -- Data elements and s",
+      "content": "Health informatics --Identification of medicinal products -- Data elements and structures for theunique identification and exchange of regulated pharmaceutical productinformation",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s162",
+      "section": "162",
+      "title": "UAE.SGSO\nISO/IEC\n27040:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27040:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s163",
+      "section": "163",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن- أمنالتخزين",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن- أمنالتخزين",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s164",
+      "section": "164",
+      "title": "Information technology -Security techniques - Storage security",
+      "content": "Information technology -Security techniques - Storage security",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s165",
+      "section": "165",
+      "title": "UAE.SGSO\nISO/IEC\n19793:2017",
+      "content": "UAE.SGSO\nISO/IEC\n19793:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s166",
+      "section": "166",
+      "title": "تقنيّةالمعلومات-المعالجةالمفتوحةالموزّعة-إستخدام لغة(UML)لمواصفاتأنظمة(ODP)",
+      "content": "تقنيّةالمعلومات-المعالجةالمفتوحةالموزّعة-إستخدام لغة(UML)لمواصفاتأنظمة(ODP)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s167",
+      "section": "167",
+      "title": "Information technology - OpenDistributed Processing - Use of UML for ODP system ",
+      "content": "Information technology - OpenDistributed Processing - Use of UML for ODP system specifications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s168",
+      "section": "168",
+      "title": "UAE.SGSO\nISO/IEC\n27041:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27041:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s169",
+      "section": "169",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن-إرشادات حولضمان مناسبةوكفاية طريقةاستقصاءالحدث",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن-إرشادات حولضمان مناسبةوكفاية طريقةاستقصاءالحدث",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s170",
+      "section": "170",
+      "title": "Information technology -Security techniques - Guidance on assuring suitability a",
+      "content": "Information technology -Security techniques - Guidance on assuring suitability and adequacy of incidentinvestigative method",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s171",
+      "section": "171",
+      "title": "UAE.SGSO\nISO/IEC24760-\n2:2017",
+      "content": "UAE.SGSO\nISO/IEC24760-\n2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s172",
+      "section": "172",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن- إطارعمل إدارةالهويّة-الجزء الثاني:بنية المرجعوالمت",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن- إطارعمل إدارةالهويّة-الجزء الثاني:بنية المرجعوالمتطلبات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s173",
+      "section": "173",
+      "title": "Information technology -Security techniques - A framework for identity managemen",
+      "content": "Information technology -Security techniques - A framework for identity management - Part 2: Referencearchitecture and requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s174",
+      "section": "174",
+      "title": "UAE.SGSO\nISO/IEC\n27043:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27043:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s175",
+      "section": "175",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن-مبادئوعمليّاتاستقصاءالحدث",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن-مبادئوعمليّاتاستقصاءالحدث",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s176",
+      "section": "176",
+      "title": "Information technology -Security techniques - Incident investigation principles ",
+      "content": "Information technology -Security techniques - Incident investigation principles andprocesses",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s177",
+      "section": "177",
+      "title": "UAE.SGSO\nISO/IEC\n27039:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27039:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s178",
+      "section": "178",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن- تثبيتوتشغيل أنظمةالحماية وكشفالإختراق(IDPS)",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن- تثبيتوتشغيل أنظمةالحماية وكشفالإختراق(IDPS)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s179",
+      "section": "179",
+      "title": "Information technology -Security techniques - Selection, deployment and operatio",
+      "content": "Information technology -Security techniques - Selection, deployment and operations of intrusiondetection and prevention systems (IDPS)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s180",
+      "section": "180",
+      "title": "UAE.SGSO\nISO/IEC\n33001:2017",
+      "content": "UAE.SGSO\nISO/IEC\n33001:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s181",
+      "section": "181",
+      "title": "تقنيّةالمعلومات-تقييمالعمليّات-المفاهيموالمصطلحات",
+      "content": "تقنيّةالمعلومات-تقييمالعمليّات-المفاهيموالمصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s182",
+      "section": "182",
+      "title": "Information technology -Process assessment - Concepts and terminology",
+      "content": "Information technology -Process assessment - Concepts and terminology",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s183",
+      "section": "183",
+      "title": "UAE.SGSO\nISO/IEC\n27042:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27042:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s184",
+      "section": "184",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن-إرشادات حولتحليل وتفسيرالبرهانالرقمي",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن-إرشادات حولتحليل وتفسيرالبرهانالرقمي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s185",
+      "section": "185",
+      "title": "Information technology -Security techniques - Guidelines for the analysis and in",
+      "content": "Information technology -Security techniques - Guidelines for the analysis and interpretation of digitalevidence",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s186",
+      "section": "186",
+      "title": "UAE.SGSO\nISO/IEC\n18014-4:2017",
+      "content": "UAE.SGSO\nISO/IEC\n18014-4:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s187",
+      "section": "187",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن- خدماتختم الوقت-الجزء الرابع:تتبّع مصادرالوقت",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن- خدماتختم الوقت-الجزء الرابع:تتبّع مصادرالوقت",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s188",
+      "section": "188",
+      "title": "Information technology -Security techniques - Time-stamping services- Part 4: Tr",
+      "content": "Information technology -Security techniques - Time-stamping services- Part 4: Traceability of timesources",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s189",
+      "section": "189",
+      "title": "UAE.SGSO\nISO/TR\n14292:2017",
+      "content": "UAE.SGSO\nISO/TR\n14292:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s190",
+      "section": "190",
+      "title": "المعلوماتالصحيّة-السجلاتالصحيّةالشخصيّة-التعريف،النطاقوالسياق",
+      "content": "المعلوماتالصحيّة-السجلاتالصحيّةالشخصيّة-التعريف،النطاقوالسياق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s191",
+      "section": "191",
+      "title": "Health informatics - Personalhealth records - Definition, scope and context",
+      "content": "Health informatics - Personalhealth records - Definition, scope and context",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s192",
+      "section": "192",
+      "title": "UAE.SGSO\nISO/IEC\n29182-7:2017",
+      "content": "UAE.SGSO\nISO/IEC\n29182-7:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s193",
+      "section": "193",
+      "title": "تقنيّةالمعلومات-شبكات الحساس-بنية الشبكةالمرجعيّةللحساس(SNRA)-الجزء السابع-إرشاد",
+      "content": "تقنيّةالمعلومات-شبكات الحساس-بنية الشبكةالمرجعيّةللحساس(SNRA)-الجزء السابع-إرشاداتالعملالتوافقي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s194",
+      "section": "194",
+      "title": "Information technology -Sensor networks: Sensor Network Reference Architecture (",
+      "content": "Information technology -Sensor networks: Sensor Network Reference Architecture (SNRA)-- Part 7:Interoperability guidelines",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s195",
+      "section": "195",
+      "title": "UAE.SGSO ISO\n11240:2017",
+      "content": "UAE.SGSO ISO\n11240:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s196",
+      "section": "196",
+      "title": "المعلوماتالصحيّة-تعريفالمنتجاتالطبيّة- بنيةوعناصرالتعريفالمميّزوتبادل وحداتالقيا",
+      "content": "المعلوماتالصحيّة-تعريفالمنتجاتالطبيّة- بنيةوعناصرالتعريفالمميّزوتبادل وحداتالقياس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s197",
+      "section": "197",
+      "title": "Health informatics --Identification of medicinal products -- Data elements and s",
+      "content": "Health informatics --Identification of medicinal products -- Data elements and structures for theunique identification and exchange of units of measurement",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s198",
+      "section": "198",
+      "title": "UAE.SGSO\nISO/TS\n16277-1:2017",
+      "content": "UAE.SGSO\nISO/TS\n16277-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s199",
+      "section": "199",
+      "title": "المعلوماتالصحيّة-البنىالتصنيفيّةللنتائجالطبيّة فيالطبالتقليدي-الجزء الأول-الطبال",
+      "content": "المعلوماتالصحيّة-البنىالتصنيفيّةللنتائجالطبيّة فيالطبالتقليدي-الجزء الأول-الطبالتقليديالصينيواليابانيوالكوري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s200",
+      "section": "200",
+      "title": "Health informatics --Categorical structures of clinical findings in traditional ",
+      "content": "Health informatics --Categorical structures of clinical findings in traditional medicine -- Part 1:Traditional Chinese, Japanese and Korean medicine",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s201",
+      "section": "201",
+      "title": "UAE.SGSO\nISO/TR\n17791:2017",
+      "content": "UAE.SGSO\nISO/TR\n17791:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s202",
+      "section": "202",
+      "title": "المعلوماتالصحيّة-إرشاداتمواصفاتتمكينالسلامة فيبرمجياتالصحّة",
+      "content": "المعلوماتالصحيّة-إرشاداتمواصفاتتمكينالسلامة فيبرمجياتالصحّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s203",
+      "section": "203",
+      "title": "Health informatics - Guidanceon Standards for Enabling Safety in Health Software",
+      "content": "Health informatics - Guidanceon Standards for Enabling Safety in Health Software",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s204",
+      "section": "204",
+      "title": "UAE.SGSO\nISO/TR\n13054:2017",
+      "content": "UAE.SGSO\nISO/TR\n13054:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s205",
+      "section": "205",
+      "title": "إدارةالمعرفةلمواصفاتالمعلوماتالصحيّة",
+      "content": "إدارةالمعرفةلمواصفاتالمعلوماتالصحيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s206",
+      "section": "206",
+      "title": "Knowledge management ofhealth information standards",
+      "content": "Knowledge management ofhealth information standards",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s207",
+      "section": "207",
+      "title": "UAE.SGSO ISO\n11238:2017",
+      "content": "UAE.SGSO ISO\n11238:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s208",
+      "section": "208",
+      "title": "المعلوماتالصحيّة-تعريفالمنتجاتالطبيّة- بنيةوعناصرالتعريفالمميّزوتبادلالمعلوماتال",
+      "content": "المعلوماتالصحيّة-تعريفالمنتجاتالطبيّة- بنيةوعناصرالتعريفالمميّزوتبادلالمعلوماتالمنظمةللمواد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s209",
+      "section": "209",
+      "title": "Health informatics --Identification of medicinal products -- Data elements and s",
+      "content": "Health informatics --Identification of medicinal products -- Data elements and structures for theunique identification and exchange of regulated information onsubstances",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s210",
+      "section": "210",
+      "title": "UAE.SGSO\nISO/TR\n12773-2:2017",
+      "content": "UAE.SGSO\nISO/TR\n12773-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s211",
+      "section": "211",
+      "title": "متطلباتالأعماللسجلاتالملخصالصحّي- الجزءالثاني- المسحالبيئي",
+      "content": "متطلباتالأعماللسجلاتالملخصالصحّي- الجزءالثاني- المسحالبيئي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s212",
+      "section": "212",
+      "title": "Business requirements forhealth summary records -- Part 2: Environmental scan",
+      "content": "Business requirements forhealth summary records -- Part 2: Environmental scan",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s213",
+      "section": "213",
+      "title": "UAE.SGSO ISO\n17115:2017",
+      "content": "UAE.SGSO ISO\n17115:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s214",
+      "section": "214",
+      "title": "المعلوماتالصحيّة-مفردات أنظمةالمصطلحات",
+      "content": "المعلوماتالصحيّة-مفردات أنظمةالمصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s215",
+      "section": "215",
+      "title": "Health informatics --Vocabulary for terminological systems",
+      "content": "Health informatics --Vocabulary for terminological systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s216",
+      "section": "216",
+      "title": "UAE.SGSO\nISO/IEC\n20006-2:2017",
+      "content": "UAE.SGSO\nISO/IEC\n20006-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s217",
+      "section": "217",
+      "title": "تقنيّةالمعلومات فيالتعليموالتدريب-نموذجمعلوماتالكفاءة-الجزء الثاني-مستوى كفاءةنم",
+      "content": "تقنيّةالمعلومات فيالتعليموالتدريب-نموذجمعلوماتالكفاءة-الجزء الثاني-مستوى كفاءةنموذجالمعلومات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s218",
+      "section": "218",
+      "title": "Information technology forlearning, education and training -- Information model ",
+      "content": "Information technology forlearning, education and training -- Information model for competency -- Part 2:Proficiency level information model",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s219",
+      "section": "219",
+      "title": "UAE.SGSO\nISO/TR\n12300:2017",
+      "content": "UAE.SGSO\nISO/TR\n12300:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s220",
+      "section": "220",
+      "title": "المعلوماتالصحيّة-مبادئ الربطبين نظمالمصطلحات",
+      "content": "المعلوماتالصحيّة-مبادئ الربطبين نظمالمصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s221",
+      "section": "221",
+      "title": "Health informatics --Principles of mapping between terminological systems",
+      "content": "Health informatics --Principles of mapping between terminological systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s222",
+      "section": "222",
+      "title": "UAE.SGSO IEC\n62304:2017",
+      "content": "UAE.SGSO IEC\n62304:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s223",
+      "section": "223",
+      "title": "برمجيّاتالأجهزةالطبيّة-عمليات دورةحياةالبرمجة",
+      "content": "برمجيّاتالأجهزةالطبيّة-عمليات دورةحياةالبرمجة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s224",
+      "section": "224",
+      "title": "Medical device software --Software life cycle processes",
+      "content": "Medical device software --Software life cycle processes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s225",
+      "section": "225",
+      "title": "UAE.SGSO\nISO/IEC\n11695-2:2017",
+      "content": "UAE.SGSO\nISO/IEC\n11695-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s226",
+      "section": "226",
+      "title": "بطاقاتالتعريف-بطاقاتالذاكرةالبصريّة-طريقة تسجيلثلاثيالأبعاد-الجزء الثاني:أبعاد و",
+      "content": "بطاقاتالتعريف-بطاقاتالذاكرةالبصريّة-طريقة تسجيلثلاثيالأبعاد-الجزء الثاني:أبعاد وموقعالمنطقةالبصريّةالقابلةللوصول",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s227",
+      "section": "227",
+      "title": "Identification cards -Optical memory cards - Holographic recording method - Part",
+      "content": "Identification cards -Optical memory cards - Holographic recording method - Part 2: Dimensions andlocation of accessible optical area",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s228",
+      "section": "228",
+      "title": "UAE.SGSO\nISO/IEC\n28360:2017",
+      "content": "UAE.SGSO\nISO/IEC\n28360:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s229",
+      "section": "229",
+      "title": "تقنيّةالمعلومات-المعداتالمكتبيّة-تحديدمعدّلاتالإنبعاثاتالكيميائيّةمن المعدّاتالإ",
+      "content": "تقنيّةالمعلومات-المعداتالمكتبيّة-تحديدمعدّلاتالإنبعاثاتالكيميائيّةمن المعدّاتالإلكترونيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s230",
+      "section": "230",
+      "title": "Information technology -Office equipment - Determination of chemical emission ra",
+      "content": "Information technology -Office equipment - Determination of chemical emission rates from electronicequipment",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s231",
+      "section": "231",
+      "title": "UAE.SGSO\nISO/IEC\n11695-1:2017",
+      "content": "UAE.SGSO\nISO/IEC\n11695-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s232",
+      "section": "232",
+      "title": "بطاقاتالتعريف-بطاقاتالذاكرةالبصريّة-طريقة تسجيلثلاثيالأبعاد-الجزءالأول:المتطلبات",
+      "content": "بطاقاتالتعريف-بطاقاتالذاكرةالبصريّة-طريقة تسجيلثلاثيالأبعاد-الجزءالأول:المتطلباتالفيزيائيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s233",
+      "section": "233",
+      "title": "Identification cards -Optical memory cards - Holographic recording method - Part",
+      "content": "Identification cards -Optical memory cards - Holographic recording method - Part 1: Physicalcharacteristics",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s234",
+      "section": "234",
+      "title": "UAE.SGSO\nISO/IEC\n17991:2017",
+      "content": "UAE.SGSO\nISO/IEC\n17991:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s235",
+      "section": "235",
+      "title": "تقنيةالمعلومات-المعدّاتالمكتبيّة-طريقة قياسإنتاجيّةالتصويرالضوئيللأجهزةالرقميةمت",
+      "content": "تقنيةالمعلومات-المعدّاتالمكتبيّة-طريقة قياسإنتاجيّةالتصويرالضوئيللأجهزةالرقميةمتعدّدةالوظائف",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s236",
+      "section": "236",
+      "title": "Information technology -Office equipment - Method for Measuring Scanning Product",
+      "content": "Information technology -Office equipment - Method for Measuring Scanning Productivity of DigitalMultifunctional Devices",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s237",
+      "section": "237",
+      "title": "UAE.SGSO\nISO/IECTS\n38501:2017",
+      "content": "UAE.SGSO\nISO/IECTS\n38501:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s238",
+      "section": "238",
+      "title": "تقنيّةالمعلومات-حوكمة تقنيّةالمعلومات-دليلالتطبيق",
+      "content": "تقنيّةالمعلومات-حوكمة تقنيّةالمعلومات-دليلالتطبيق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s239",
+      "section": "239",
+      "title": "Information technology -Governance of IT- Implementation guide",
+      "content": "Information technology -Governance of IT- Implementation guide",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s240",
+      "section": "240",
+      "title": "UAE.SGSO\nISO/IEC\n7812-1:2017",
+      "content": "UAE.SGSO\nISO/IEC\n7812-1:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s241",
+      "section": "241",
+      "title": "بطاقاتالتعريف-تعريفالمصدرين-الجزء1: نظامالترقيم",
+      "content": "بطاقاتالتعريف-تعريفالمصدرين-الجزء1: نظامالترقيم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s242",
+      "section": "242",
+      "title": "Identification cards -Identification of issuers - Part 1: Numbering system",
+      "content": "Identification cards -Identification of issuers - Part 1: Numbering system",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s243",
+      "section": "243",
+      "title": "UAE.SGSO\nISO/IEC\n7812-2:2017",
+      "content": "UAE.SGSO\nISO/IEC\n7812-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s244",
+      "section": "244",
+      "title": "بطاقاتالتعريف-تعريفالمصدرين-الجزءالثاني:إجراءاتالطلبوالتسجيل",
+      "content": "بطاقاتالتعريف-تعريفالمصدرين-الجزءالثاني:إجراءاتالطلبوالتسجيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s245",
+      "section": "245",
+      "title": "Identification cards -Identification of issuers - Part 2: Application and regist",
+      "content": "Identification cards -Identification of issuers - Part 2: Application and registrationprocedures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s246",
+      "section": "246",
+      "title": "UAE.SGSO\nISO/IEC\n11770-5:2017",
+      "content": "UAE.SGSO\nISO/IEC\n11770-5:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s247",
+      "section": "247",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن-الإدارةالرئيسيّة-الجزء 5: إدارةمفتاحمجموعة",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن-الإدارةالرئيسيّة-الجزء 5: إدارةمفتاحمجموعة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s248",
+      "section": "248",
+      "title": "Information technology -Security techniques -- Key management -- Part 5: Group k",
+      "content": "Information technology -Security techniques -- Key management -- Part 5: Group key management",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s249",
+      "section": "249",
+      "title": "UAE.SGSO\nISO/IEC\n19395:2017",
+      "content": "UAE.SGSO\nISO/IEC\n19395:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s250",
+      "section": "250",
+      "title": "تقنيّةالمعلومات-الإستدامةلتقنيّةالمعلوماتوبواسطتها-المراقبةوالتحكملمصادر مراكزال",
+      "content": "تقنيّةالمعلومات-الإستدامةلتقنيّةالمعلوماتوبواسطتها-المراقبةوالتحكملمصادر مراكزالمعلوماتالذكيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s251",
+      "section": "251",
+      "title": "Information technology -Sustainability for and by information technology - Smart",
+      "content": "Information technology -Sustainability for and by information technology - Smart data center resourcemonitoring and control",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s252",
+      "section": "252",
+      "title": "UAE.SGSO\nISO/IEC\n38500:2017",
+      "content": "UAE.SGSO\nISO/IEC\n38500:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s253",
+      "section": "253",
+      "title": "تقنيّةالمعلومات-حوكمة تقنيّةالمعلوماتللمنظمات",
+      "content": "تقنيّةالمعلومات-حوكمة تقنيّةالمعلوماتللمنظمات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s254",
+      "section": "254",
+      "title": "Information technology -Governance of IT for the organization",
+      "content": "Information technology -Governance of IT for the organization",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s255",
+      "section": "255",
+      "title": "UAE.SGSO\nISO/TS\n14265:2017",
+      "content": "UAE.SGSO\nISO/TS\n14265:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s256",
+      "section": "256",
+      "title": "المعلوماتالصحيّة-تصنيفالأغراضلمعالجةمعلوماتالصحّةالشخصيّة",
+      "content": "المعلوماتالصحيّة-تصنيفالأغراضلمعالجةمعلوماتالصحّةالشخصيّة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s257",
+      "section": "257",
+      "title": "Health informatics -Classification of purposes for processing personal healthinf",
+      "content": "Health informatics -Classification of purposes for processing personal healthinformation",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s258",
+      "section": "258",
+      "title": "UAE.SGSO\nISO/IEC\n27034-2:2017",
+      "content": "UAE.SGSO\nISO/IEC\n27034-2:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s259",
+      "section": "259",
+      "title": "تقنيّةالمعلومات-تقنيّاتالأمن- أمنالتطبيقات-الجزء الثاني:الإطارالمرجعيللمنظمة",
+      "content": "تقنيّةالمعلومات-تقنيّاتالأمن- أمنالتطبيقات-الجزء الثاني:الإطارالمرجعيللمنظمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s260",
+      "section": "260",
+      "title": "Information technology -Security techniques - Application security - Part 2: Org",
+      "content": "Information technology -Security techniques - Application security - Part 2: Organization normativeframework",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s261",
+      "section": "261",
+      "title": "قطاعمواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "content": "قطاعمواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s262",
+      "section": "262",
+      "title": "عنوانالمواصفةباللغةالعربية",
+      "content": "عنوانالمواصفةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s263",
+      "section": "263",
+      "title": "عنوانالمواصفةباللغةالإنجليزية",
+      "content": "عنوانالمواصفةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s264",
+      "section": "264",
+      "title": "UAE.SGSO ISO\n18069:2017",
+      "content": "UAE.SGSO ISO\n18069:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s265",
+      "section": "265",
+      "title": "التآكلفي المعادنوالسبائك- طرقتحديد معدّلالتآكلالمنتظم فيالفولاذالمقاومللصدأوالسب",
+      "content": "التآكلفي المعادنوالسبائك- طرقتحديد معدّلالتآكلالمنتظم فيالفولاذالمقاومللصدأوالسبائكالمصنوعة منالنيكل فيالموانع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s266",
+      "section": "266",
+      "title": "Corrosion of metals andalloys- Method for determination of the uniform corrosion",
+      "content": "Corrosion of metals andalloys- Method for determination of the uniform corrosion rate of stainlesssteels and nickel based alloys in liquids",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s267",
+      "section": "267",
+      "title": "UAE.SGSO ISO\n24518:2017",
+      "content": "UAE.SGSO ISO\n24518:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s268",
+      "section": "268",
+      "title": "الأنشطةالمتعلقةبخدمات مياهالشرب ومياهالصرف- إدارةالأزماتلأنظمةالمياه",
+      "content": "الأنشطةالمتعلقةبخدمات مياهالشرب ومياهالصرف- إدارةالأزماتلأنظمةالمياه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s269",
+      "section": "269",
+      "title": "Activities relating todrinking water and wastewater services - Crisis management",
+      "content": "Activities relating todrinking water and wastewater services - Crisis management of waterutilities",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s270",
+      "section": "270",
+      "title": "UAE.SGSO\nISO/ASME\n14414:2017",
+      "content": "UAE.SGSO\nISO/ASME\n14414:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s271",
+      "section": "271",
+      "title": "تقييماستهلاكالطاقةلأنظمةالمضخات",
+      "content": "تقييماستهلاكالطاقةلأنظمةالمضخات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s272",
+      "section": "272",
+      "title": "Pump system energyassessment",
+      "content": "Pump system energyassessment",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s273",
+      "section": "273",
+      "title": "UAE.SGSO ISO\n20361:2017",
+      "content": "UAE.SGSO ISO\n20361:2017",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s274",
+      "section": "274",
+      "title": "مضخاتالسوائلووحدات الضخ-رمز إختبارالضوضاء- ذوالدقة منالدرجةالثانيةوالثالثة",
+      "content": "مضخاتالسوائلووحدات الضخ-رمز إختبارالضوضاء- ذوالدقة منالدرجةالثانيةوالثالثة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s275",
+      "section": "275",
+      "title": "Liquid pumps and pump units-- Noise test code -- Grades 2 and 3 of accuracy",
+      "content": "Liquid pumps and pump units-- Noise test code -- Grades 2 and 3 of accuracy",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

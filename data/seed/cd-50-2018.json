@@ -1,0 +1,44 @@
+{
+  "id": "cd-50-2018",
+  "type": "statute",
+  "title": "قرار رقم 50 لسنة 2018: بشأن اعتماد الإصدار الثاني للائحة التنظيمية للاتصالات المتنقلة على متن السفن",
+  "title_en": "Decision No. 50 of 2018",
+  "short_name": "قرار 50/2018",
+  "status": "in_force",
+  "issued_date": "2018-12-01",
+  "in_force_date": "2018-12-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_56274",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "",
+      "content": "- Scope of Document1.1-These regulations are issued in accordance with the provisions of the UAEFederal Law by Decree No 3 of 2003 (Telecom Law) as amended and its ExecutiveOrder.1.2-These regulations comprises technical conditions for the authorization andoperation of Mobile Communications On-Board Vessels systems. These regulationsshall be read in conjunction with the following regulatory instruments issued bythe TRA and available on TRA’s website at www.tra.gov.ae :1.2.1-Spectrum Allocation and Assignment Regulations1.2.2-Spectrum Fees Regulations1.2.3-Interference Management Regulations1.2.4-National Spectrum Plan including National Table of Frequency Allocation1.2.5-Maritime Radio Systems Regulations1.2.6-Earth Station Regulations",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "- Definitions2.1-The terms, words and phrases used in these Regulations shall have the samemeaning as is ascribed to them in the UAE Federal Law by Decree No 3 of 2003(Telecom Law) as amended and its Executive Order; unless these Regulationsexpressly provide otherwise for, or the context in which those terms, words andphrases are used in these Regulations indicates otherwise. The following termsand words shall be interpreted, as follows:2.1.1-“Authorization”or “Frequency SpectrumAuthorization” means a valid frequency spectrum authorizationissued by the TRA and permits the use of radio frequency subject to terms andconditions as stipulated by the TRA2.1.2-“Baseline” means“normal baseline”, as defined in the UN Convention on the Law of theSea (UNCLOS, 1982), including fringe islands.2.1.3-“Earth Station On-Board Vessels(ESV)” means Earth Stations operated on-board ships in accordancewith ITU-R Resolution 902.2.1.4-“Earth Stations in Motion(ESIM)” means Earth Stations that are operated in accordance withITU-R Resolution 156 (WRC-15).2.1.5-“Ship Radio License” meansRadio Frequency Authorization. The word ‘License’ when used for ShipRadio License means Radio Frequency Authorization.2.1.6-“The System” means theMobile Communication On-Board Vessels (MCV) using the specific mobiletechnologies and frequencies specified in these regulations. The System does notinclude the backhaul connection.2.1.7-“Territorial Waters” means“territorial sea”, as defined in the UN Convention on the Law of theSea (UNCLOS, 1982), excluding internal waters, harbours, and ports.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "- Permitted Usage3.1-Usage of Cellular Systems On Board is becoming popular whereby users can usecell phones just as they use on land. The following are the permitted usageconditions:3.1.1-The System can be used within an on/off border starting the following distancesfrom the Baseline up the edges of the UAE Territorial Waters:-For GSM and UMTS: 2 NM-For LTE: 4 NM3.1.2-The System shall be turned OFF when the ship enters the area within the abovedistances from the Baseline.3.1.3-The System shall not cause harmful interference nor claim protection from theUAE land based cellular systems.3.1.4-The UAE registered ships may be able to use the System in the UAE TerritorialWaters and International waters if their Ship Radio License includes the Systemand adherence to the conditions as set in these regulations.3.1.5-The UAE registered ships may be able to use the System in the Territorial Watersof other States if the National regulations of that State allow such use. Theresponsibility to adhere to the National regulations within the TerritorialWaters of each State lies with the ship owner and or ship operator.3.1.6-The foreign flag ships may be able to use the System in the UAE TerritorialWaters if their Ship Radio License includes the System and adherence to theconditions as set in these regulations.3.1.7-The System shall be turned OFF in the UAE Territorial Waters if the System doesnot meet the conditions as set in these Regulations.3.1.8-The System shall be turned OFF in the Territorial Waters of other States if theSystem used by UAE Flag ships does not meet the conditions as set in theNational Regulations of that State.3.1.9-The System is only allowed to use-the following frequency bands andtechnologies.TechnologyFrequencyBands PermittedGSM880-915/925-960MHz\n1710-1785/1805-1880MHzUMTS1920-1980/2110-2170MHzLTE1710-1785/1805-1880MHz\n2500-2570/2620-2690MHz3.1.10-The Authority Regulation for Earth Stations shall be referred for the use ofbackhaul if through ESV or ESIM. In case Mobile Satellite Service (MSS) is used(e.g. Inmarsat terminal, Thuraya terminals, etc) for backhaul, then the MSSterminal should be part of Ship Radio License.3.1.11-The use of the System is authorized on secondary, non-exclusive and sharingbasis within the Ship Radio License.3.1.12-In all conditions whatsoever, the System shall be switched OFF immediately ifdirected by the Authority.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "- Technical Conditions4.1-The technical conditions as given in these regulations shall apply on theSystem.4.2-Only indoor antenna(s) shall be used between the on/off border and 12 NM fromthe Baseline.4.3-The System shall control all MS (Cell phones) to use 0 dBm.4.4-For GSM systems, the following technical parameters shall apply:4.4.1-The MS receiver sensitivity and the disconnection threshold (ACCMIN & minRXLEV level) shall be less than - 75 dBm/200 kHz. ACCMIN (RX_LEV_ACCESS_MIN, asdescribed in GSM standard 3GPP TS 144.018 and RXLEV (RXLEV-FULL-SERVING-CELL, asdescribed in GSM standard 3GPP TS 148.008).4.4.2-DTX (discontinuous transmission, as described in GSM standard 3GPP TS 148.008)shall be activated on the System uplink (MS to BS).4.4.3-Timing advance (as described in GSM standard 3GPP TS 144.018) shall be set tominimum for the BTS.4.4.4-The System emissions measured anywhere external to the vessel (i.e. at shipperimeter or on its open deck areas) shall not exceed-80 dBm/200 kHz (assuming a0 dBi measurement antenna gain). This requires careful planning for theinstallation of the equipment and antenna systems.4.4.5-Only pico or femto cell based BTS shall be used.4.4.6-The System may use Detect and Avoid mechanism. The scan rate should be in theorder of 200 channels/second.4.4.7-The System may have at least two transceivers (GSM radio channels) employed, oneused for static BCCH channel and one for the synthesized FH operation carryingTCH channel used for traffic. The transmissions from MS would be allowed onstatic BCCH channel only to effectuate the random access procedure (i.e.requesting the call activation or responding to paging calls). Once thecommunications with BTS has been established, the MS call should be placed onthe FH channel. In other words, the static channel carrying BCCH should be usedonly for that sole purpose and no traffic should be allowed within its remainingtime slots. FH should be used in synthesized mode, i.e. one v-BS transmitterconstantly changing its operating frequency; FH hopping rate should be 217 hopsper second (i.e. frequency changed with every transmitted TDMA frame) and Changeof operating frequencies (channels) should follow the pseudo-randompattern.4.5-For UMTS and LTE systems, the following technical parameters shall apply:ParameterUMTSLTEMaximum bandwidth (perfrequency band)5 MHz5 MHzPLMN network selection timerwhen in national waters10 minutes10 minutesCarrier centrefrequenciesNot to be aligned with landnetwork carriersNot to be aligned with landnetwork carriersQuality criteriaQrxlevmin>=-87 dBm/5 MHz between 2and 12 NM>=- 105 dBm/ 15 kHz(>=-83 dBm/ 5 MHz) between 4 and12 NMIndoor MCV BS emission limiton deck- 102 dBm/ 5 MHz(CPICH)- 120 dBm/ 15 kHz (- 98 dBm/5 MHz)RRC inactivity releasetimer2 seconds2 secondsCell range for theDAS600 metres400 metres4.6-The System shall include a control mechanism based on GPS for sensing andcontrolling the On/Off, radiated power levels and external antenna disablingupon crossing the boundaries mentioned in this Regulation.4.7-Further technical and operating information concerning the use of MobileCommunications On Board Vessels can be found in CEPT Report 28 and CEPT Report62.",
+      "language": "en"
+    }
+  ],
+  "definitions": []
+}

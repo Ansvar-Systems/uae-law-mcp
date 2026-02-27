@@ -1,0 +1,107 @@
+{
+  "id": "cd-99-2016",
+  "type": "statute",
+  "title": "قرار رقم 99: بشأن إعتماد سياسة استخدام موارد الأرقام",
+  "title_en": "Decision No. 99 of 2016",
+  "short_name": "قرار 99/2016",
+  "status": "in_force",
+  "issued_date": "2016-12-01",
+  "in_force_date": "2016-12-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_56262",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "",
+      "content": "- Definitions:Application Fee: The fee payable by Licensees and others that may applyfor numbering resources when they submit their application for an allocation ofnumbering resources.Annualfee: The fee payable by Licensees and others allocated numberingresources on the first of January each year, or when the numbering resource isallocated to them (if this is after the first of January).Authority:The General Authority for Regulating the Telecommunication Sector (theTelecommunications Regulatory Authority).Government:The government of the State of the United Arab Emirates.InternationalRegulations: Regulations, rules, specifications, definitions,recommendations or agreements ratified by UAE at the international level.Licensees:Any telecom operator who provides telecommunication services licensed bythe Supreme Committee pursuant to the provisions of the Federal Law by Decreeand its Executive Order.NationalNumbering Plan: Number Plan for UAE issued by TRA in accordance with theInternational Telecommunications Union- Telecommunications StandardizationSector Recommendation E. 164NumberingResources: Prefixes, individual numbers, numbering ranges and codes usedby the Licensees in operating their telecommunications networksPortedNumbers: An individual number or block of Numbering Resource that havebeen allocated (as part of a block) by the TRA to a Licensee and thentransferred to another Licensee in accordance with the Policy for NumberPortability.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "Basedon Paragraph No.8 of",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art14",
+      "section": "14",
+      "title": "",
+      "content": "of the Federal Law by Decree No.3 of 2003 asamended, the Telecommunication Regulatory Authority (TRA) has the power to issueregulations, orders, procedures and resolutions for the allocation of telephonenumbers, numbering plans and number portabilityBasedon Paragraphs 3 and 4 of",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art17",
+      "section": "17",
+      "title": "",
+      "content": "of the Federal Law by Decree No.3 of 2003 asamended, the financial resources of the Authority may be derived from such feesas may be charged by the Board for any services provided by the Authority or theauthorizations or approvals granted by the Authority pursuant to the provisionsof this Federal Law by Decree, its Executive Order and decisions issued by theBoard and any other revenues the Authority collects in pursuance of itsactivities and functions.Basedon",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art44",
+      "section": "44",
+      "title": "",
+      "content": "of the Federal Law by Decree No.3 of 2003 as amended, theAuthority shall be responsible for allocating prefixes, private telephonenumbers and numbering ranges to Licensees in accordance with the provisions ofthis Federal Law by Decree, its Executive Order and the conditions set by theAuthority and approved by the Board.Basedon the directive of the Board on Fees for the Allocation and Use of NumberResources the TRA is obliged to establish a policy for the value of the fees tobe charged.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "TheTRA has determined a Fee to accompany each application for numbering resource tobe 500 dirham.NoApplication Fee is required for applications received from law enforcemententities relevant to law enforcement services, nor those to extend or remove atime condition attached to an earlier allocation of numbering resources thatlimit the time that the numbering resource could be used by the Licensee orothers who are allocated numbering resources. However, applications to modify orremove all other conditions attached to earlier allocations of numberingresources will incur an Application Fee of 500 dirham.Furthermore,the TRA has determined a fee of 500 dirhams for declaring a right to use Numberto a customer, where a certificate is issued/ registered by the TRA for thebenefit of that customer. This fee shall also be applicable in the case of anychange request for the certificate.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "TheAnnual Fee payable in advance on the first day of January each year or on aprorata where the numbering resource is allocated by the TRA where this is afterthe first day of January and annually on the first day of January thereafter isas follows:1-Numbering Resource for geographic services where the block of allocated numbersis decided by the TRA.0.4 Dhs per numberallocated.2-Numbering Resource for geographic services where the block of allocated numbersis requested by the Licensee, other corporate bodies or individuals.1.2 Dhs pernumberallocated.3-Numbering Resource for Mobile services. 2 Dhs per numberallocated.4-Numbering Resource for value added network services except shared revenue,shared cost and FreePhone/ Toll Free services where the block of allocatednumbers is decided by the TRA. 500 Dhs per numberallocated.5-Numbering Resource for value added network services except shared revenue,shared cost and FreePhone / Toll Free services where the block of allocatednumbers is requested by the Licensee, other corporate bodies or individuals.1,500 Dhs per numberallocated.6-Shared revenue services where the block of allocated numbers is decided by theTRA. 500 Dhs per numberallocated.7-Shared revenue services where the block of allocated numbers is requested by theLicensee, other corporate bodies or individuals. 1,500 Dhs per numberallocated.8-Shared cost services where the block of allocated numbers is decided by the TRA.50 Dhs per numberallocated.9-Shared cost services where the block of allocated numbers is requested by theLicensee, other corporate bodies or individuals. 150 Dhs per number allocated.10-Freephone / Toll free services where the block of allocated numbers is decidedby the TRA. 50 Dhs per numberallocated.11-Freephone / Toll free services where the block of allocated numbers is requestedby the Licensee, other corporate bodies or individuals. 150 Dhs per numberallocated.12-Numbering Resource from level ‘1’ where a call charge is made to thecustomer dialling the number. 75,000 Dhs per numberallocated.13-Codes for Carrier Selection and Carrier Pre-selection override services:08+ 3 digit codes. 75,000 Dhs per numberallocated.14-Mobile Prefix (05Y). 5 Million Dhs.15-Premium SMS Short Codes. 7,500 Dhs per numberallocated.16-Nomadic Services Numbers. 1.2 Dhs per numberallocated.17-M2M Services Numbers. 0.2 Dhs per Numberallocated.18-TETRA Services Numbers (except TETRA numbers used for law enforcement services).2 Dhs per numberallocated.19-Integrated Message Handling System. 2 Dhs per numberallocated.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "TheTRA may and on its discrete decision undertake auctions for numbering resourcewhen there is a demonstrable demand from Licensees and others for the allocationof the same numbering resource.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "NumberingResources utilized by a Licensee before the issuance of Policy for “Feesfor the Allocation and Use of Number Resources” version 1.0 issued on24th January 2006 will incur a feeas if the resources were decided by the TRA as set in",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "Wherean operator makes a charge to a customer for the number, either as an explicitcharge or as part of a subscription package, and the fee is judged by theTelecommunications Regulatory Authority to be excessive, the Authority willspecify the price that can be charged.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "TheTRA will adjust the fees charged to a Licensee to reflect any numbers that havebeen ported to another Licensee or ported from another Licensee. To ascertainthe appropriate adjustment, Licensees must respond to any request from the TRAfor information pertaining to Ported Numbers.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "TheTRA will refuse to make further allocations of numbering resource and maywithdraw an allocation of numbering resource from a Licensee or others allocatednumbering resources when the Annual Fee is unpaid one calendar month after itbecomes payable. The TRA may also impose financial penalties on latepayments.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art10",
+      "section": "10",
+      "title": "",
+      "content": "Licenseesand others allocated numbering resource shall supply to the TRA all informationrequested by the TRA to enable the TRA to undertake a review of thispolicy.[1]راجعالقرار رقم 50تاريخ 21/12/2020مبشأنالموافقة علىتحديثالسياسةالتنظيميةالمتعلقةبالخطةالوطنيةللأرقاموالقراررقم12تاريخ05/04/2021مبشأنتأجيل تطبيقمشروع شهاداتالأرقام.[2]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[3]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[4]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[5]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[6]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[7]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[8]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[9]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[10]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[11]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[12]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[13]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[14]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[15]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[16]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[17]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[18]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.[19]Numbers are allocated in blocks. The size of the blocks is determined in theNational Numbering Plan Policy.",
+      "language": "en"
+    }
+  ],
+  "definitions": []
+}

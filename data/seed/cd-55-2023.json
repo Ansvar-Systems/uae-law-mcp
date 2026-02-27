@@ -1,0 +1,41 @@
+{
+  "id": "cd-55-2023",
+  "type": "statute",
+  "title": "قرار رقم 55: بشأن اعتماد مواصفات شكل علامة الثقة الإماراتية لخدمات الثقة المعتمدة",
+  "title_en": "Decision No. 55 of 2023",
+  "short_name": "قرار 55/2023",
+  "status": "in_force",
+  "issued_date": "2023-12-01",
+  "in_force_date": "2023-12-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_56322",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "تكلفإدارة الهيئةباتخاذالتدابيروالإجراءاتاللازمةلحماية علامةالثقةالإماراتية،بما في ذلكتسجيلها لدىالجهاتالمختصة فيالدولة، بمايمنعاستخدامهابشكل غيرمشروع.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "يعملبهذا القراراعتباراً منتاريخ صدوره،وينشر فيالجريدةالرسمية.",
+      "content": "يعملبهذا القراراعتباراً منتاريخ صدوره،وينشر فيالجريدةالرسمية.صدربتاريخ18ديسمبر2023م.طلالحميدبالهولرئيسمجلسالإدارةنشرهذا القرار فيعدد الجريدةالرسميةرقم767.ص269.Thespecifications relating to the form oftheUAE trust mark for qualified trust servicesIssueDate: 18 Dec. 2023Article1 - DefinitionsTheterms, words, and phrases used in this Resolution shall have the same meaning asare ascribed to them in the Federal Decree-Law No. (46) of 2021 on ElectronicTransactions and Trust Services, unless this Resolution expressly provides forotherwise, or the context in which those terms, words and phrases are used inthis Resolution requires otherwise. For the purposes of this Resolution, thefollowing terms and words shall have the meanings ascribed to thembelow:“ State ”:the United ArabEmirates;“ TheAuthority ”: the Telecommunications and Digital GovernmentRegulatory Authority (“the TDRA”);“ Board ”:the Board of Directors of theAuthority;“ Law \":the Federal Decree-Law No. (46) of 2021 on Electronic Transactions and TrustServices;“ ExecutiveRegulation ”: the Federal Executive Regulation No. (28) of2023;“ TrustService Provider” (TSP): a Licensee authorized by the Authority, inaccordance with the Law and its Executive Regulation, to provide one or moreTrustServices;“ QualifiedTrust Service Provider ”(QTSP) : a TSP granted the qualifiedstatus by the Authority to provide Trust Services and Qualified Trust Servicesaccordingly;“ TrustService” (TS) : Electronic services specified under Article 17(1) ofthe Law, which a Trust Service Provider is authorized to provide as per theLicense grantedthereto;“ QualifiedTrust Services ” (QTS) :Electronic services specified under Article 17(2) of the Law, which a QualifiedTrust Service Provider is authorized to provide as per the License grantedthereto;Article2 - UAE Trust Mark1-The UAE trust mark for Qualified Trust Services shall be in any of the formsshown in Annexe I without prejudice to the provisions laid down in Article3.2-The Authority shall made available on its website the forms of the UAE trustmark for Qualified Trust Services shown in Annexe I in various appropriateformats for use by Qualified Trust ServiceProviders.Article3 - Colours1-The reference colours for the UAE trust mark for qualified trust services shallbe:1.1-Colour GOLD, Pantone872C:1.1.1-R: 161 G: 133 B: 961.1.2-C: 31 M: 40 Y: 60 K: 211.2-Colour GREY, Pantone Cool Gray 101.2.1-R: 99 G: 102 B: 1061.2.2-C: 57 M: 46 Y: 40 K: 252-The UAE trust mark for qualified trust services may only be used in black andwhite if it is not practical to use colour. In such case, the colour greyreferred to in paragraph 1 of this article shall be replaced by the colour black(R:0, G:0, B:0) and the colour gold referred to in paragraph 1 of this articleshall be replaced by the colour white (R:255, G:255, B:255).3-If the UAE trust mark for qualified trust services is used on a dark background,it may be used in negative format using the same backgroundcolour.4-If the UAE trust mark for qualified trust services is used in colour on acoloured background, that makes it difficult to see, a delimiting outer linearound the UAE trust mark for qualified trust services may be used to improvecontrast with the backgroundcolours.Article4 - Resolution1-The UAE trust mark for qualified trust services shall have a minimum size thatensures preservation of visual attributes and key forms, but its size shall notbe less than 64 x 85 pixels 150dpi.Article5- Resolution1-The UAE trust mark for qualified trust services shall be used in a manner thatallows clear indication of qualified services that the trust mark pertainsto.2-The UAE trust mark for qualified trust services may be associated with graphicalor textual elements clearly indicating qualified trust services it is used for,under the condition that they do not change the nature of the UAE trust mark forqualified trust services, nor alter the link with the UAE trusted list referredto under Article (27) of theLaw.Article6- PublicationThisResolution shall be published in the Official Gazette and shall come into forcefrom the date of its issuance",
+      "language": "ar"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "State",
+      "definition": "“State”: the United ArabEmirates;“ TheAuthority ”: the Telecommunications and Digital GovernmentRegulatory Authority (“the TDRA”);“ Board ”:the Board of Directors of theAuthority;“ Law \":the Federal Decree-Law No.",
+      "source_provision": "art3"
+    },
+    {
+      "term": "ExecutiveRegulation",
+      "definition": "“ExecutiveRegulation”: the Federal Executive Regulation No.",
+      "source_provision": "art3"
+    }
+  ]
+}

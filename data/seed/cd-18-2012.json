@@ -1,0 +1,5336 @@
+{
+  "id": "cd-18-2012",
+  "type": "statute",
+  "title": "قرار رئيس مجلس الادارة رقم 18 لسنة 2012: باعتماد مواصفات قياسية إماراتية",
+  "title_en": "Decision No. 18 of 2012",
+  "short_name": "قرار رئيس مجلس الادارة 18/2012",
+  "status": "in_force",
+  "issued_date": "2012-07-01",
+  "in_force_date": "2012-07-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54465",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قراررئيس مجلسالادارة رقم18 لسنة 2012",
+      "content": "قراررئيس مجلسالادارة رقم18 لسنة 2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ17/07/2012م.",
+      "content": "صادربتاريخ17/07/2012م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "باعتمادمواصفاتقياسيةإماراتية",
+      "content": "باعتمادمواصفاتقياسيةإماراتية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "-بعدالاطلاع علىالقانونالاتحادي رقم28لسنة2001بإنشاءهيئةالاماراتللمواصفاتوالمقاييس",
+      "content": "-بعدالاطلاع علىالقانونالاتحادي رقم28لسنة2001بإنشاءهيئةالاماراتللمواصفاتوالمقاييسوتعديلاته،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "-واستناداًالى ما قررهمجلس الادارةفي اجتماعهرقم2لسنة2012بتاريخ2012/6/25باعتمادمجم",
+      "content": "-واستناداًالى ما قررهمجلس الادارةفي اجتماعهرقم2لسنة2012بتاريخ2012/6/25باعتمادمجموعة منالمواصفاتالقياسيةالاماراتيةالمعروضةبمذكرة هيئةالاماراتللمواصفاتوالمقاييس.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "تعتمدالمواصفاتالقياسيةالاماراتيةالمبينةعناوينهاوأرقامهابالقائمتينرقم1ورقم2المرفق",
+      "content": "تعتمدالمواصفاتالقياسيةالاماراتيةالمبينةعناوينهاوأرقامهابالقائمتينرقم1ورقم2المرفقتين،وتتضمنالقائمة رقم1المواصفاتالقياسيةالجديدةوعددها210مواصفةوالقائمة رقم2تضم مواصفاتقياسيةاماراتيةمحدثة ومعدلةوعددها46مواصفة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "ينشرهذا القرار معقائمتيالمواصفاتالقياسيةالمعتمدة فيالجريدةالرسميةويعمل بهاعتبارا",
+      "content": "ينشرهذا القرار معقائمتيالمواصفاتالقياسيةالمعتمدة فيالجريدةالرسميةويعمل بهاعتبارا منتاريخالنشر.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "صدرفيأبوظبيبتاريخ:2012/7/17م.",
+      "content": "صدرفيأبوظبيبتاريخ:2012/7/17م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "الدكتور/راشد أحمد بنفهد",
+      "content": "الدكتور/راشد أحمد بنفهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "نشرهذا القرار فيعدد الجريدةالرسمية رقم540ص 857.",
+      "content": "نشرهذا القرار فيعدد الجريدةالرسمية رقم540ص 857.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "القائمةالأولىللمواصفاتالجديدةللاعتماد منمجلس الادارةالاجتماع(2012/2)",
+      "content": "القائمةالأولىللمواصفاتالجديدةللاعتماد منمجلس الادارةالاجتماع(2012/2)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "اجماليعددالمواصفاتالجديدة =210",
+      "content": "اجماليعددالمواصفاتالجديدة =210",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "قطاعالمنتجاتالكيميائيةوالغزلوالنسيج",
+      "content": "قطاعالمنتجاتالكيميائيةوالغزلوالنسيج",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "عنوانالمشروعبالانجليزي",
+      "content": "عنوانالمشروعبالانجليزي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Testmethods of Laboratory Filter Papers",
+      "content": "Testmethods of Laboratory Filter Papers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "طرقاختبار ورقالترشيحالمعملي",
+      "content": "طرقاختبار ورقالترشيحالمعملي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "LaboratoryFilter Papers",
+      "content": "LaboratoryFilter Papers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Chemicalsused for treatment of water intended for human consumption - Ammonia so",
+      "content": "Chemicalsused for treatment of water intended for human consumption - Ammonia solution -Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالآدمي - محلولالأمونيا - طرق",
+      "content": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالآدمي - محلولالأمونيا - طرقالأختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Chemicalsused for treatment of water intended for human consumption -Chlorine",
+      "content": "Chemicalsused for treatment of water intended for human consumption -Chlorine",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالآدمي -الكلور",
+      "content": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالآدمي -الكلور",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "Chemicalsused for treatment of water intended for human consumption - Calciumcar",
+      "content": "Chemicalsused for treatment of water intended for human consumption - Calciumcarbonate",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي -كربوناتالكالسيوم",
+      "content": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي -كربوناتالكالسيوم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Chemicalsused for treatment of water intended for human consumption - Carbondiox",
+      "content": "Chemicalsused for treatment of water intended for human consumption - Carbondioxide",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي - ثانياكسيدالكربون",
+      "content": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي - ثانياكسيدالكربون",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Chemicalsused for treatment of water intended for human consumption - Ammoniasol",
+      "content": "Chemicalsused for treatment of water intended for human consumption - Ammoniasolution",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي - محلولالأمونيا",
+      "content": "الموادالكيميائيةالمستخدمةلمعالجةالماء المعدللأستهلاكالادمي - محلولالأمونيا",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Testmethods of Egg board trays",
+      "content": "Testmethods of Egg board trays",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "طرقاختبار أطباقالبيضالكرتونية",
+      "content": "طرقاختبار أطباقالبيضالكرتونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Ribbedboard containers - Requirements",
+      "content": "Ribbedboard containers - Requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "عبواتالكرتونالمضلع -المتطلبات",
+      "content": "عبواتالكرتونالمضلع -المتطلبات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Specificationfor ethyl acetate for industrial use",
+      "content": "Specificationfor ethyl acetate for industrial use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "خلاتالايثيلللاستخدامالصناعي",
+      "content": "خلاتالايثيلللاستخدامالصناعي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "Cosmeticproducts - natural henna -- test methods",
+      "content": "Cosmeticproducts - natural henna -- test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "مستحضراتالتجميل -الحناالطبيعية - طرقالاختبار",
+      "content": "مستحضراتالتجميل -الحناالطبيعية - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "Cosmeticproducts - natural henna",
+      "content": "Cosmeticproducts - natural henna",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "مستحضراتالتجميل -الحناالطبيعية",
+      "content": "مستحضراتالتجميل -الحناالطبيعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "butanone(ethyl methyl ketone) for industrial use-test methods",
+      "content": "butanone(ethyl methyl ketone) for industrial use-test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "البيوتانون(ايثيل ميثيلالكيتون)للاستخدامالصناعي - طرقالاختبار",
+      "content": "البيوتانون(ايثيل ميثيلالكيتون)للاستخدامالصناعي - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "Specificationfor industrial methylated spirits",
+      "content": "Specificationfor industrial methylated spirits",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "الكحولاتالممثلةالصناعية",
+      "content": "الكحولاتالممثلةالصناعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "Specificationfor butanone (ethyl methyl ketone) for industrial use",
+      "content": "Specificationfor butanone (ethyl methyl ketone) for industrial use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "البيوتانون(ايثيل ميثيلالكيتون)للاستخدامالصناعي",
+      "content": "البيوتانون(ايثيل ميثيلالكيتون)للاستخدامالصناعي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "Mouldedpackaging board",
+      "content": "Mouldedpackaging board",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "Chemicalcleaners - Gel cleaner for multi- uses",
+      "content": "Chemicalcleaners - Gel cleaner for multi- uses",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "المنظفاتالكيميائية -المنظفالهلاميمتعددالاستخدامات",
+      "content": "المنظفاتالكيميائية -المنظفالهلاميمتعددالاستخدامات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "Cookware- Ovenware for use in traditional domestic ovens - Test methods",
+      "content": "Cookware- Ovenware for use in traditional domestic ovens - Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "ادواتالطهي - ادواتالفرنللاستخدام فيالأفرانالمنزليةالتقليدية -طرقالاختبار",
+      "content": "ادواتالطهي - ادواتالفرنللاستخدام فيالأفرانالمنزليةالتقليدية -طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "Childuse and care articles. Drinking equipment. Chemical requirements",
+      "content": "Childuse and care articles. Drinking equipment. Chemical requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "مواداستخدامالطفلوالعناية به -أدوات الشرب -المتطلباتالكيميائية",
+      "content": "مواداستخدامالطفلوالعناية به -أدوات الشرب -المتطلباتالكيميائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "Childuse and care articles -Drinking equipment - General requirements",
+      "content": "Childuse and care articles -Drinking equipment - General requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "مواداستخدامالطفلوالعناية به -أدوات الشرب -متطلباتعامة",
+      "content": "مواداستخدامالطفلوالعناية به -أدوات الشرب -متطلباتعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "chemicalcleaners - Gel cleaner for multi- uses - test methods",
+      "content": "chemicalcleaners - Gel cleaner for multi- uses - test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "المنظفاتالكيميائية -المنظفالهلاميمتعددالاستخدامات -طرقالاختبار",
+      "content": "المنظفاتالكيميائية -المنظفالهلاميمتعددالاستخدامات -طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "SodiumLauryl Ether Sulfate",
+      "content": "SodiumLauryl Ether Sulfate",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "كبريتاتلورايلالصوديومالإيثيري",
+      "content": "كبريتاتلورايلالصوديومالإيثيري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "Childuse and care articles - Drinking equipment - Part 4: Test methods of chemic",
+      "content": "Childuse and care articles - Drinking equipment - Part 4: Test methods of chemicalrequirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "مواداستخدامالطفلوالعناية به -أدوات الشرب-\nالجزءالرابع: طرقاختبارالمتطلباتالكيميا",
+      "content": "مواداستخدامالطفلوالعناية به -أدوات الشرب-\nالجزءالرابع: طرقاختبارالمتطلباتالكيميائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "Childuse and care articles - Drinking equipment - Part 2: Test methods of genera",
+      "content": "Childuse and care articles - Drinking equipment - Part 2: Test methods of general andphysical requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "مواداستخدامالطفلوالعناية به -أدوات الشرب-\nالجزءالثاني: طرقاختبارمتطلبات عامةوفيز",
+      "content": "مواداستخدامالطفلوالعناية به -أدوات الشرب-\nالجزءالثاني: طرقاختبارمتطلبات عامةوفيزيائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "Specificationfor butyl acetate for industrial use",
+      "content": "Specificationfor butyl acetate for industrial use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "خلاتالبيوتايلللاستخدامالصناعي",
+      "content": "خلاتالبيوتايلللاستخدامالصناعي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Determinationof heavy metal (Arsenic, cadmium, lead and mercury) in cosmeticprod",
+      "content": "Determinationof heavy metal (Arsenic, cadmium, lead and mercury) in cosmeticproducts",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "تقديرالعناصرالثقيلة(الزرنيخوالكادميوموالرصاصوالزئبق) فيمستحضراتالتجميل",
+      "content": "تقديرالعناصرالثقيلة(الزرنيخوالكادميوموالرصاصوالزئبق) فيمستحضراتالتجميل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "Millboard,grey board and straw hoard",
+      "content": "Millboard,grey board and straw hoard",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "الورقالمقوىوالكرتونالرماديوالكرتونالتبني",
+      "content": "الورقالمقوىوالكرتونالرماديوالكرتونالتبني",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "Testmethods of china tableware",
+      "content": "Testmethods of china tableware",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "طرقاختبار أدواتالمائدة منالخزف(الصيني)",
+      "content": "طرقاختبار أدواتالمائدة منالخزف(الصيني)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "Cookware-Ovenwarefor use in traditional domestic ovens",
+      "content": "Cookware-Ovenwarefor use in traditional domestic ovens",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "أدواتالطهي - أدواتتحمل حرارةالفرنللاستخدام فيالأفرانالمنزليةالتقليدية",
+      "content": "أدواتالطهي - أدواتتحمل حرارةالفرنللاستخدام فيالأفرانالمنزليةالتقليدية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "Millboard.grey board and straw hoard - test methods",
+      "content": "Millboard.grey board and straw hoard - test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "الورقالمقوىوالكرتونالرماديوالكرتونالتبني - طرقالاختبار",
+      "content": "الورقالمقوىوالكرتونالرماديوالكرتونالتبني - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "Butylacetate for industrial use- Methods of test",
+      "content": "Butylacetate for industrial use- Methods of test",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "خلاتالبيوتايلللاستخدامالصناعي - طرقالاختبار",
+      "content": "خلاتالبيوتايلللاستخدامالصناعي - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "Ribbedboard containers - test methods",
+      "content": "Ribbedboard containers - test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "عبواتالكرتونالمضلع - طرقالاختبار",
+      "content": "عبواتالكرتونالمضلع - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "Ethylacetate for industrial Use - Methods of test",
+      "content": "Ethylacetate for industrial Use - Methods of test",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "خلاتالايثيلللاستخدامالصناعي - طرقالاختبار",
+      "content": "خلاتالايثيلللاستخدامالصناعي - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "أدواتالمائدة منالخزف(الصيني)",
+      "content": "أدواتالمائدة منالخزف(الصيني)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "Polypropylenecoatings for steel pipes",
+      "content": "Polypropylenecoatings for steel pipes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "طلاءالبوليبروبيلينلأنابيبالحديدالصلب",
+      "content": "طلاءالبوليبروبيلينلأنابيبالحديدالصلب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "Polyethylenecoatings for steel pipes and fittings",
+      "content": "Polyethylenecoatings for steel pipes and fittings",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "طلاءالبوليإيثيلينلأنابيبووصلاتالحديدالصلب",
+      "content": "طلاءالبوليإيثيلينلأنابيبووصلاتالحديدالصلب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "Methodsof testing women abaya and tarha fabrics made from polyester",
+      "content": "Methodsof testing women abaya and tarha fabrics made from polyester",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "طرقاختبار أقمشةالعباءاتوالطرحالنسائيةالمصنوعة منعديدالاستر",
+      "content": "طرقاختبار أقمشةالعباءاتوالطرحالنسائيةالمصنوعة منعديدالاستر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "Women'sabaya and tarha fabrics made from polyester",
+      "content": "Women'sabaya and tarha fabrics made from polyester",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "أقمشةالعباءاتوالطرحالنسائيةالمصنوعة منعديدالاستر",
+      "content": "أقمشةالعباءاتوالطرحالنسائيةالمصنوعة منعديدالاستر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "testmethodes forspring interior mattresses for domestic bedding for adultuse",
+      "content": "testmethodes forspring interior mattresses for domestic bedding for adultuse",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "طرقاختبار مراتبالسستللإستخدامالمنزليللكبار",
+      "content": "طرقاختبار مراتبالسستللإستخدامالمنزليللكبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "springinterior mattresses for domestic bedding for adult use",
+      "content": "springinterior mattresses for domestic bedding for adult use",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "مراتبالسستللاستخدامالمنزليللكبار",
+      "content": "مراتبالسستللاستخدامالمنزليللكبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "UAE.SGSO ISO 17422: 2011",
+      "content": "UAE.SGSO ISO 17422: 2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "Plastic-Environmental aspects- General guidelines for their inclusion instandard",
+      "content": "Plastic-Environmental aspects- General guidelines for their inclusion instandards.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "البلاستيك- الجوانبالبيئية -توجيهات عامةحول تضمينالبلاستيك فيالمواصفات.",
+      "content": "البلاستيك- الجوانبالبيئية -توجيهات عامةحول تضمينالبلاستيك فيالمواصفات.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "UAE.SGSO ASTM D 3924:2011",
+      "content": "UAE.SGSO ASTM D 3924:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "Specificationfor Standard Environment for Conditioning and Testing Paint. Varnis",
+      "content": "Specificationfor Standard Environment for Conditioning and Testing Paint. Varnish, Lacquer,and Related Materials",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "تعيينالظروفوالبيئةالقياسيةلتكييفواختبارالاصباغ،الدهانات،واللكر،والمواد ذاتالصلة",
+      "content": "تعيينالظروفوالبيئةالقياسيةلتكييفواختبارالاصباغ،الدهانات،واللكر،والمواد ذاتالصلة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "UAE.SGSO ASTM D 1765- 10:2011",
+      "content": "UAE.SGSO ASTM D 1765- 10:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "StandardClassification System for carbon blacks used in rubber products",
+      "content": "StandardClassification System for carbon blacks used in rubber products",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "مواصفةنظام التصنيفلأسودالكربون فيمنتجاتالمطاط",
+      "content": "مواصفةنظام التصنيفلأسودالكربون فيمنتجاتالمطاط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "UAE.SGSO ISO 15270/2011",
+      "content": "UAE.SGSO ISO 15270/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "Plastic-Guidelines for the recovery and recycling for plastics waste.",
+      "content": "Plastic-Guidelines for the recovery and recycling for plastics waste.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "البلاستيك- توجيهات حولاسترجاعوإعادة تصنيعمخلفاتالبلاستيك.",
+      "content": "البلاستيك- توجيهات حولاسترجاعوإعادة تصنيعمخلفاتالبلاستيك.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "قطاعالمواصفاتالميكانيكية",
+      "content": "قطاعالمواصفاتالميكانيكية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "عنوانالمشروعبالانجليزي",
+      "content": "عنوانالمشروعبالانجليزي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s107",
+      "section": "107",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s108",
+      "section": "108",
+      "title": "UAE.SGSO ISO 5455 /2011",
+      "content": "UAE.SGSO ISO 5455 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s109",
+      "section": "109",
+      "title": "Technicaldrawings - scales",
+      "content": "Technicaldrawings - scales",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s110",
+      "section": "110",
+      "title": "الرسوماتالفنية -مقاييسالرسم",
+      "content": "الرسوماتالفنية -مقاييسالرسم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s111",
+      "section": "111",
+      "title": "UAE.SGSO ISO 2336-1/2011",
+      "content": "UAE.SGSO ISO 2336-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s112",
+      "section": "112",
+      "title": "HACKSAWBLADES - PART 1: DIMENSIONS FOR HAND BLADES",
+      "content": "HACKSAWBLADES - PART 1: DIMENSIONS FOR HAND BLADES",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s113",
+      "section": "113",
+      "title": "صفائحالمنشار -الجزء1:أبعاد صفائحالمنشارللاستخداماليدوي",
+      "content": "صفائحالمنشار -الجزء1:أبعاد صفائحالمنشارللاستخداماليدوي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s114",
+      "section": "114",
+      "title": "UAE.SGSO ISO 8826-1/2011",
+      "content": "UAE.SGSO ISO 8826-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s115",
+      "section": "115",
+      "title": "TECHNICALDRAWINGS- ROLLING BEARINGS- GENERAL SIMPLIFIED REPRESENTATION",
+      "content": "TECHNICALDRAWINGS- ROLLING BEARINGS- GENERAL SIMPLIFIED REPRESENTATION",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s116",
+      "section": "116",
+      "title": "الرسوماتالفنية - كراسيالتجميلالمتدحرجة -الجزء الأول:التمثيلالمبسطالعام",
+      "content": "الرسوماتالفنية - كراسيالتجميلالمتدحرجة -الجزء الأول:التمثيلالمبسطالعام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s117",
+      "section": "117",
+      "title": "UAE.SGSO ISO 6280/2011",
+      "content": "UAE.SGSO ISO 6280/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s118",
+      "section": "118",
+      "title": "Plainbearings -- Requirements on backings for thick- walled multilayerbearings",
+      "content": "Plainbearings -- Requirements on backings for thick- walled multilayerbearings",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s119",
+      "section": "119",
+      "title": "كراسيالمحاورالعادية -متطلبات علىالمساندلكراسيالمحاور ذاتالجدرانالسميكةمتعددةالطب",
+      "content": "كراسيالمحاورالعادية -متطلبات علىالمساندلكراسيالمحاور ذاتالجدرانالسميكةمتعددةالطبقات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s120",
+      "section": "120",
+      "title": "UAE.SGSO.ISO 2336-2/2011",
+      "content": "UAE.SGSO.ISO 2336-2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s121",
+      "section": "121",
+      "title": "Hacksawblades -- Part 2: Dimensions for machine blades",
+      "content": "Hacksawblades -- Part 2: Dimensions for machine blades",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s122",
+      "section": "122",
+      "title": "شفراتالمنشار -الجزء الثاني:أبعاد شفراتالالة.",
+      "content": "شفراتالمنشار -الجزء الثاني:أبعاد شفراتالالة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s123",
+      "section": "123",
+      "title": "UAE.SGSO EN 115-1/2011",
+      "content": "UAE.SGSO EN 115-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s124",
+      "section": "124",
+      "title": "Safetyof escalators and moving walks - Part 1: Construction",
+      "content": "Safetyof escalators and moving walks - Part 1: Construction",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s125",
+      "section": "125",
+      "title": "سلامةالسلالمالمتحركةوالمشاياتالمتحركة -الجزء1:الإنشاء",
+      "content": "سلامةالسلالمالمتحركةوالمشاياتالمتحركة -الجزء1:الإنشاء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s126",
+      "section": "126",
+      "title": "UAE.SGSO EN 115-2/2011",
+      "content": "UAE.SGSO EN 115-2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s127",
+      "section": "127",
+      "title": "Safetyof escalators and moving walks - Part 2: Rules for the improvement of safe",
+      "content": "Safetyof escalators and moving walks - Part 2: Rules for the improvement of safety ofexisting escalators and moving walks",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s128",
+      "section": "128",
+      "title": "سلامةالسلالمالمتحركةوالمشاياتالمتحركة -الجزء2:القواعدالمتعلقةبتحسينالسلامةللسلال",
+      "content": "سلامةالسلالمالمتحركةوالمشاياتالمتحركة -الجزء2:القواعدالمتعلقةبتحسينالسلامةللسلالمالمتحركةوالمشاياتالمتحركة قيدالاستخدام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s129",
+      "section": "129",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s130",
+      "section": "130",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s131",
+      "section": "131",
+      "title": "MOTORVEHICLES HAVING AT LEAST FOUR WHEELS WITH REGARD TO THEIR NOISEEMISSIONS",
+      "content": "MOTORVEHICLES HAVING AT LEAST FOUR WHEELS WITH REGARD TO THEIR NOISEEMISSIONS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s132",
+      "section": "132",
+      "title": "السياراتالتي لهاأربعة عجلاتعلى الأقلفيما يتعلقبانبعاثاتالضوضاءمنها",
+      "content": "السياراتالتي لهاأربعة عجلاتعلى الأقلفيما يتعلقبانبعاثاتالضوضاءمنها",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s133",
+      "section": "133",
+      "title": "VEHICLESWITH REGARD TO THE SEATS, THEIR ANCHORAGES AND ANY HEAD RESTRAINTS",
+      "content": "VEHICLESWITH REGARD TO THE SEATS, THEIR ANCHORAGES AND ANY HEAD RESTRAINTS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s134",
+      "section": "134",
+      "title": "المركباتفيما يتعلقبالمقاعدومثبتاتهاومساندالرأس",
+      "content": "المركباتفيما يتعلقبالمقاعدومثبتاتهاومساندالرأس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s135",
+      "section": "135",
+      "title": "UAESGSO ISO TS 16332 /2011",
+      "content": "UAESGSO ISO TS 16332 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s136",
+      "section": "136",
+      "title": "Dieselengines - Fuel filter - Method for evaluating fuel/water separationefficie",
+      "content": "Dieselengines - Fuel filter - Method for evaluating fuel/water separationefficiency",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s137",
+      "section": "137",
+      "title": "محركاتالديزل -مرشحاتالوقود - طريقةتقييم كفاءةفصل الماء عنالوقود",
+      "content": "محركاتالديزل -مرشحاتالوقود - طريقةتقييم كفاءةفصل الماء عنالوقود",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s138",
+      "section": "138",
+      "title": "UAE.SGSO ISO 19438 /2011",
+      "content": "UAE.SGSO ISO 19438 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s139",
+      "section": "139",
+      "title": "Dieselfuel and petrol filters for internal combustion engines - Filtration effic",
+      "content": "Dieselfuel and petrol filters for internal combustion engines - Filtration efficiencyusing particle counting and contaminant retention capacity",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s140",
+      "section": "140",
+      "title": "مرشحاتالبنزينووقود الديزللمحركاتالاحتراقالداخلي -كفاءةالترشيحباستخدامطريقة عدالج",
+      "content": "مرشحاتالبنزينووقود الديزللمحركاتالاحتراقالداخلي -كفاءةالترشيحباستخدامطريقة عدالجسيماتوالقدرة علىالاحتفاظبالمادةالملوثة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s141",
+      "section": "141",
+      "title": "UAE.SGSO ISO 4020 /2011",
+      "content": "UAE.SGSO ISO 4020 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s142",
+      "section": "142",
+      "title": "Roadvehicles - Fuel filters for diesel engines - Test methods",
+      "content": "Roadvehicles - Fuel filters for diesel engines - Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s143",
+      "section": "143",
+      "title": "مركباتالطرق - مرشحاتالوقودلمحركاتالديزل - طرقالاختبار",
+      "content": "مركباتالطرق - مرشحاتالوقودلمحركاتالديزل - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s144",
+      "section": "144",
+      "title": "UAE.SGSO ISO 2257 :2011",
+      "content": "UAE.SGSO ISO 2257 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s145",
+      "section": "145",
+      "title": "Roadvehicles - Brake linings frictions materials -Visual inspection",
+      "content": "Roadvehicles - Brake linings frictions materials -Visual inspection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s146",
+      "section": "146",
+      "title": "مركباتالطرق - موادالاحتكاكببطاناتالمكابح -الفحصالظاهري",
+      "content": "مركباتالطرق - موادالاحتكاكببطاناتالمكابح -الفحصالظاهري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s147",
+      "section": "147",
+      "title": "UAE.SGSO ISO 2942 /2011",
+      "content": "UAE.SGSO ISO 2942 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s148",
+      "section": "148",
+      "title": "Hydraulicfluid power - Filter elements - Verification of fabrication integrity a",
+      "content": "Hydraulicfluid power - Filter elements - Verification of fabrication integrity anddetermination of the first bubble point",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s149",
+      "section": "149",
+      "title": "قدرةالسوائلالهيدرولية -عناصر المرشح -التحقق منسلامةالتصنيعوتحديدالنقطةالأولى لتك",
+      "content": "قدرةالسوائلالهيدرولية -عناصر المرشح -التحقق منسلامةالتصنيعوتحديدالنقطةالأولى لتكونالفقاقيع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s150",
+      "section": "150",
+      "title": "اللجنةالفنيةالخليجيةلقطاعالمواصفاتالكهربائيةوالإلكترونية",
+      "content": "اللجنةالفنيةالخليجيةلقطاعالمواصفاتالكهربائيةوالإلكترونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s151",
+      "section": "151",
+      "title": "عددمشاريعالمواصفات:19مشروع",
+      "content": "عددمشاريعالمواصفات:19مشروع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s152",
+      "section": "152",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s153",
+      "section": "153",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s154",
+      "section": "154",
+      "title": "UAE.SGSO IEC 61029:2011",
+      "content": "UAE.SGSO IEC 61029:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s155",
+      "section": "155",
+      "title": "Safetyof transportable motor - operated electric tools - part 2-4: particularreq",
+      "content": "Safetyof transportable motor - operated electric tools - part 2-4: particularrequirements for bench grinders",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s156",
+      "section": "156",
+      "title": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم4:المتطلبا",
+      "content": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم4:المتطلباتالخاصةبالمجالخالنضدية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s157",
+      "section": "157",
+      "title": "UAE.SGSO IEC 61029-2- 3:2011",
+      "content": "UAE.SGSO IEC 61029-2- 3:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s158",
+      "section": "158",
+      "title": "Safetyof transportable motor - operated electric tools - part 2-3: particularreq",
+      "content": "Safetyof transportable motor - operated electric tools - part 2-3: particularrequirements for planers and thiknesses",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s159",
+      "section": "159",
+      "title": "العددالعاملةبالمحركالكهربائيالقابلةللنقلالسلامة -الجزء الثاني -القسم3:المتطلباتا",
+      "content": "العددالعاملةبالمحركالكهربائيالقابلةللنقلالسلامة -الجزء الثاني -القسم3:المتطلباتالخاصةبالمقاشط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s160",
+      "section": "160",
+      "title": "UAE.SGSO IEC 61029-2- 1:2011",
+      "content": "UAE.SGSO IEC 61029-2- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s161",
+      "section": "161",
+      "title": "Safetyof transportable motor - operated electric tools - part 2-1: particularreq",
+      "content": "Safetyof transportable motor - operated electric tools - part 2-1: particularrequirements for circular saws",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s162",
+      "section": "162",
+      "title": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم1:المتطلبا",
+      "content": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم1:المتطلباتالخاصةبالمناشيرالدائرية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s163",
+      "section": "163",
+      "title": "UAE.SGSO IEC 61029-2- 5:2011",
+      "content": "UAE.SGSO IEC 61029-2- 5:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s164",
+      "section": "164",
+      "title": "Safetyof transportable motor -operated electric tools - part 2-5 particularrequi",
+      "content": "Safetyof transportable motor -operated electric tools - part 2-5 particularrequirements for band saws",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s165",
+      "section": "165",
+      "title": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم5:المتطلبا",
+      "content": "العددالعاملةبالمحركالكهربائيالقابلةللنقل -السلامة -الجزء الثاني -القسم5:المتطلباتالخاصةبالمناشيرالشريطية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s166",
+      "section": "166",
+      "title": "UAE.SGSO IEC/PAS 62545:2011",
+      "content": "UAE.SGSO IEC/PAS 62545:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s167",
+      "section": "167",
+      "title": "Environmentalinformation on Electrical and Electronic Equipment (EIEEE)",
+      "content": "Environmentalinformation on Electrical and Electronic Equipment (EIEEE)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s168",
+      "section": "168",
+      "title": "معلوماتبيئية عنالمعداتالكهربائيةوالالكترونية",
+      "content": "معلوماتبيئية عنالمعداتالكهربائيةوالالكترونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s169",
+      "section": "169",
+      "title": "UAE.SGSO IEC 61029 -2- 2:2011",
+      "content": "UAE.SGSO IEC 61029 -2- 2:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s170",
+      "section": "170",
+      "title": "Safetyof transportable motor - operated electric tools - part 2-2 particularrequ",
+      "content": "Safetyof transportable motor - operated electric tools - part 2-2 particularrequirements for radial arm saws",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s171",
+      "section": "171",
+      "title": "العددالعاملةالقابلةللنقل -السلامة -الجزء الثاني -القسم2:المتطلباتالخاصةبالمناشير",
+      "content": "العددالعاملةالقابلةللنقل -السلامة -الجزء الثاني -القسم2:المتطلباتالخاصةبالمناشيرذات الذراعنصف القطري",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s172",
+      "section": "172",
+      "title": "UAE.SGSO IEC 61029- 1:2011",
+      "content": "UAE.SGSO IEC 61029- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s173",
+      "section": "173",
+      "title": "Safetyof transportable motor - operated electric tools - part 1: Generalrequirem",
+      "content": "Safetyof transportable motor - operated electric tools - part 1: Generalrequirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s174",
+      "section": "174",
+      "title": "العددالعاملةبالمحركالقابلةللنقل -السلامة -الجزء الأول:المتطلباتالعامة",
+      "content": "العددالعاملةبالمحركالقابلةللنقل -السلامة -الجزء الأول:المتطلباتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s175",
+      "section": "175",
+      "title": "UAE.SGSO IEC/TR 62476:2011",
+      "content": "UAE.SGSO IEC/TR 62476:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s176",
+      "section": "176",
+      "title": "Guidancefor evaluation of product with respect to substance-use restrictions ine",
+      "content": "Guidancefor evaluation of product with respect to substance-use restrictions inelectrical and electronic products",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s177",
+      "section": "177",
+      "title": "إرشاداتلتقييمالمنتجاتبالنظر إلىمعاييرالمواد مقيدةالاستخدام فيالمنتجاتالكهربائيةو",
+      "content": "إرشاداتلتقييمالمنتجاتبالنظر إلىمعاييرالمواد مقيدةالاستخدام فيالمنتجاتالكهربائيةوالالكترونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s178",
+      "section": "178",
+      "title": "UAE.SGSO IEC 60335-2- 58:2011",
+      "content": "UAE.SGSO IEC 60335-2- 58:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s179",
+      "section": "179",
+      "title": "Householdand similar electrical appliances - Safety Part 2-58: Particular requir",
+      "content": "Householdand similar electrical appliances - Safety Part 2-58: Particular requirementsfor commercial electric dishwashing machines",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s180",
+      "section": "180",
+      "title": "الاجهزةالكهربائيةالمنزلية وماشابهها -السلامة -الجزء 58-2:المتطلباتالخاصةلماكناتج",
+      "content": "الاجهزةالكهربائيةالمنزلية وماشابهها -السلامة -الجزء 58-2:المتطلباتالخاصةلماكناتجلاياتالصحونالكهربائيةالتجارية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s181",
+      "section": "181",
+      "title": "UAE.SGSO IEC 60079- 29:2011",
+      "content": "UAE.SGSO IEC 60079- 29:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s182",
+      "section": "182",
+      "title": "Explosiveatmospheres - Part 29-4: Gas detectors - Performance requirements of op",
+      "content": "Explosiveatmospheres - Part 29-4: Gas detectors - Performance requirements of open pathdetectors for flammable gases",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s183",
+      "section": "183",
+      "title": "المتفجرة- جزء4-29:الاجواء\"الكشف عنالغاز - الأداءمتطلباتقابلةللإشتعالالكشف عن مسا",
+      "content": "المتفجرة- جزء4-29:الاجواء\"الكشف عنالغاز - الأداءمتطلباتقابلةللإشتعالالكشف عن مسارغازات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s184",
+      "section": "184",
+      "title": "UAE.SGSO IEC 62041 :2011",
+      "content": "UAE.SGSO IEC 62041 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s185",
+      "section": "185",
+      "title": "Safetyof transformers, reactors, power supply units and combinations thereof - E",
+      "content": "Safetyof transformers, reactors, power supply units and combinations thereof - EMCrequirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s186",
+      "section": "186",
+      "title": "سلامةالمحولاتوالمفاعلاتإمداداتالطاقة،وحداتومجموعاتمنها --متطلباتالتوافقالكهرومغن",
+      "content": "سلامةالمحولاتوالمفاعلاتإمداداتالطاقة،وحداتومجموعاتمنها --متطلباتالتوافقالكهرومغناطيسي(EMC)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s187",
+      "section": "187",
+      "title": "UAE.SGSO IEC 60268- 4:2011",
+      "content": "UAE.SGSO IEC 60268- 4:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s188",
+      "section": "188",
+      "title": "Soundsystem equipment - Part 4: Microphones",
+      "content": "Soundsystem equipment - Part 4: Microphones",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s189",
+      "section": "189",
+      "title": "معداتالنظامالصوتي - الجزء4:ميكروفونات",
+      "content": "معداتالنظامالصوتي - الجزء4:ميكروفونات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s190",
+      "section": "190",
+      "title": "UAE.SGSO IEC 61558-2- 3:2011",
+      "content": "UAE.SGSO IEC 61558-2- 3:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s191",
+      "section": "191",
+      "title": "Safetyof transformers, reactors, power supply units and combinations thereof - P",
+      "content": "Safetyof transformers, reactors, power supply units and combinations thereof - Part2-3: Particular requirements and tests for ignition transformers for gas and oilburners",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s192",
+      "section": "192",
+      "title": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - جزء3-2المتطلباتوالاختباراتا",
+      "content": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - جزء3-2المتطلباتوالاختباراتالخاصةلمحولاتالإشتعالالتي تعملبشعلات الغازوالنفط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s193",
+      "section": "193",
+      "title": "UAE.SGSO IEC 61558-2- 9:2011",
+      "content": "UAE.SGSO IEC 61558-2- 9:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s194",
+      "section": "194",
+      "title": "Safetyof transformers, reactors, power supply units and combinations thereof - P",
+      "content": "Safetyof transformers, reactors, power supply units and combinations thereof - Part2-9: Particular requirements and tests for transformers and power supply unitsfor class III handlamps for tungsten filament lamps",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s195",
+      "section": "195",
+      "title": "سلامةالمحولاتوالمفاعلاتوحداتإمداداتالطاقة،وتركيباتها -الجزء9-2:المتطلباتوالاختبا",
+      "content": "سلامةالمحولاتوالمفاعلاتوحداتإمداداتالطاقة،وتركيباتها -الجزء9-2:المتطلباتوالاختباراتالخاصةلمحولاتووحدات تزويدالطاقةلمصباح اليدلفئة الثالثمصابيحالتنغستنشعيرة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s196",
+      "section": "196",
+      "title": "UAE.SGSO IEC 61558-2- 20:2011",
+      "content": "UAE.SGSO IEC 61558-2- 20:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s197",
+      "section": "197",
+      "title": "Safetyof transformers, reactors, power supply units and combinations thereof - P",
+      "content": "Safetyof transformers, reactors, power supply units and combinations thereof - Part2-20: Particular requirements and tests for small reactors",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s198",
+      "section": "198",
+      "title": "سلامةالمحولاتوالمفاعلاتوحداتإمداداتالطاقة،وتركيباتها -الجزء20-2:المتطلباتوالاختب",
+      "content": "سلامةالمحولاتوالمفاعلاتوحداتإمداداتالطاقة،وتركيباتها -الجزء20-2:المتطلباتوالاختباراتالخاصةللمفاعلاتالصغيرة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s199",
+      "section": "199",
+      "title": "UAE.SGSO IEC 60695-6- 1:2011",
+      "content": "UAE.SGSO IEC 60695-6- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s200",
+      "section": "200",
+      "title": "Firehazard testing - Part 6-1: Smoke obscuration - General guidance",
+      "content": "Firehazard testing - Part 6-1: Smoke obscuration - General guidance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s201",
+      "section": "201",
+      "title": "اختبارمخاطر الحريق -الجزء\n1-6:حجب الدخان:إرشاداتعامة",
+      "content": "اختبارمخاطر الحريق -الجزء\n1-6:حجب الدخان:إرشاداتعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s202",
+      "section": "202",
+      "title": "UAE.SGSO IEC 61936- 1:2011",
+      "content": "UAE.SGSO IEC 61936- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s203",
+      "section": "203",
+      "title": "Powerinstallations exceeding 1 kV a.c. - Part 1: Common rules",
+      "content": "Powerinstallations exceeding 1 kV a.c. - Part 1: Common rules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s204",
+      "section": "204",
+      "title": "التوصيلاتالكهربائيةالتي يفوقجهدها1ك.ف تيار متردد- الجزء الأول:القواعدالعامة",
+      "content": "التوصيلاتالكهربائيةالتي يفوقجهدها1ك.ف تيار متردد- الجزء الأول:القواعدالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s205",
+      "section": "205",
+      "title": "UAE.SGSO IEC 61099:2011",
+      "content": "UAE.SGSO IEC 61099:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s206",
+      "section": "206",
+      "title": "Insulatingliquids - Specifications for unused synthetic organic asters for elect",
+      "content": "Insulatingliquids - Specifications for unused synthetic organic asters for electricalpurposes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s207",
+      "section": "207",
+      "title": "عزلالسوائل: خواصالموادالعضويةالمصنعةللأغراضالكهربائيةوالتي لمتستخدم",
+      "content": "عزلالسوائل: خواصالموادالعضويةالمصنعةللأغراضالكهربائيةوالتي لمتستخدم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s208",
+      "section": "208",
+      "title": "UAE.SGSO IEC 60664- 3:2011",
+      "content": "UAE.SGSO IEC 60664- 3:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s209",
+      "section": "209",
+      "title": "Insulationcoordination for equipment within low-voltage systems - Part 3: Use of",
+      "content": "Insulationcoordination for equipment within low-voltage systems - Part 3: Use of coating,potting or moulding for protection against pollution",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s210",
+      "section": "210",
+      "title": "تناسقالعزل فيالمعدات ذاتالجهدالمنخفض -الجزء الثالث:استخدامالطلاء،التسخين، أوالصب",
+      "content": "تناسقالعزل فيالمعدات ذاتالجهدالمنخفض -الجزء الثالث:استخدامالطلاء،التسخين، أوالصب للحمايةمن التلوث",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s211",
+      "section": "211",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s212",
+      "section": "212",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s213",
+      "section": "213",
+      "title": "UAE.SGSO ISO 14511/2011",
+      "content": "UAE.SGSO ISO 14511/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s214",
+      "section": "214",
+      "title": "Measurementof fluid flow in closed conduits-thermal mass flowmeters",
+      "content": "Measurementof fluid flow in closed conduits-thermal mass flowmeters",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s215",
+      "section": "215",
+      "title": "قياستدفق السوائلفي القنواتالمغلقة -مقاييس تدفقالكتلةالحرارية",
+      "content": "قياستدفق السوائلفي القنواتالمغلقة -مقاييس تدفقالكتلةالحرارية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s216",
+      "section": "216",
+      "title": "UAE.SGSO ISO 21289 /2011",
+      "content": "UAE.SGSO ISO 21289 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s217",
+      "section": "217",
+      "title": "Mechanicalvibration and shock-Parameters to be specified for the acquisition of ",
+      "content": "Mechanicalvibration and shock-Parameters to be specified for the acquisition of vibrationdata",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s218",
+      "section": "218",
+      "title": "الإهتزازوالصدمالميكانيكي -المتغيراتالتي يجبتحديدهاللحصول علىبياناتالإهتزاز",
+      "content": "الإهتزازوالصدمالميكانيكي -المتغيراتالتي يجبتحديدهاللحصول علىبياناتالإهتزاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s219",
+      "section": "219",
+      "title": "UAE.SGSO ISO 8106 /2011",
+      "content": "UAE.SGSO ISO 8106 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s220",
+      "section": "220",
+      "title": "Glasscontainers - Determination of capacity by gravimetric method - Testmethod",
+      "content": "Glasscontainers - Determination of capacity by gravimetric method - Testmethod",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s221",
+      "section": "221",
+      "title": "الأوعيةالزجاجية -تعيين السعةبالطريقةالوزنية",
+      "content": "الأوعيةالزجاجية -تعيين السعةبالطريقةالوزنية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s222",
+      "section": "222",
+      "title": "UAE.SGSO ISO 7458 /2011",
+      "content": "UAE.SGSO ISO 7458 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s223",
+      "section": "223",
+      "title": "Glasscontainers - internal pressure resistance - test methods",
+      "content": "Glasscontainers - internal pressure resistance - test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s224",
+      "section": "224",
+      "title": "الأوعيةالزجاجية -طريقة اختبارالمقاومةللضغطالداخل.",
+      "content": "الأوعيةالزجاجية -طريقة اختبارالمقاومةللضغطالداخل.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s225",
+      "section": "225",
+      "title": "UAE.SGSO IEC 61557- 3/2011",
+      "content": "UAE.SGSO IEC 61557- 3/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s226",
+      "section": "226",
+      "title": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1 000 V a.c. AND 1 50",
+      "content": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1 000 V a.c. AND 1 500 V d.c. -EQUIPMENT FOR TESTING, MEASURING OR MONITORING OF PROTECTIVE MEASURES - Part 3:Loop impedance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s227",
+      "section": "227",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار م",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار مستمر) -معدات اختبارأو قياس أومراقبةتدابيرالوقاية -الجزء3:معاوقةالحلقة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s228",
+      "section": "228",
+      "title": "UAE.SGSO IEC 61557- 2/2011",
+      "content": "UAE.SGSO IEC 61557- 2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s229",
+      "section": "229",
+      "title": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS",
+      "content": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s230",
+      "section": "230",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار م",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار مستمر) -معدات اختبارأو قياس أومراقبةتدابيرالوقاية -الجزء2- مقاومةالعزل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s231",
+      "section": "231",
+      "title": "UAE.SGSO IEC 61557- 8/2011",
+      "content": "UAE.SGSO IEC 61557- 8/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s232",
+      "section": "232",
+      "title": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 ",
+      "content": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1000 V a.c. AND 1500 V d.c. -EQUIPMENT FOR TESTING, MEASURING OR MONITORING OF PROTECTIVE MEASURES - Part 8:Insulation monitoring devices for IT systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s233",
+      "section": "233",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار م",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار مستمر) -معدات اختبارأو قياس أومراقبةتدابيرالوقاية -الجزء الثامن:وسائل مراقبةالعزل لأنظمةIT",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s234",
+      "section": "234",
+      "title": "UAE.SGSO ISO 18436- 3/2011",
+      "content": "UAE.SGSO ISO 18436- 3/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s235",
+      "section": "235",
+      "title": "Conditionmonitoring and diagnostics of machines - Requirements for qualification",
+      "content": "Conditionmonitoring and diagnostics of machines - Requirements for qualification andassessment of personnel - Part 3: Requirements for training bodies and thetraining process",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s236",
+      "section": "236",
+      "title": "تشخيصومراقبة حالةالالات -متطلباتتأهيل وتقييمالموظفين -الجزء الثالث:متطلباتالجهات",
+      "content": "تشخيصومراقبة حالةالالات -متطلباتتأهيل وتقييمالموظفين -الجزء الثالث:متطلباتالجهاتالتدريبيةوعمليةالتدريب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s237",
+      "section": "237",
+      "title": "UAE.SGSO IEC 61187 /2011",
+      "content": "UAE.SGSO IEC 61187 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s238",
+      "section": "238",
+      "title": "\"ELECTRICALAND ELECTRONIC MEASURING EQUIPMENT DOCUMENTATION",
+      "content": "\"ELECTRICALAND ELECTRONIC MEASURING EQUIPMENT DOCUMENTATION",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s239",
+      "section": "239",
+      "title": "معداتالقياسالكهربائيةوالإلكترونية- الوثائق",
+      "content": "معداتالقياسالكهربائيةوالإلكترونية- الوثائق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s240",
+      "section": "240",
+      "title": "UAE.SGSO ISO 8624 /2011",
+      "content": "UAE.SGSO ISO 8624 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s241",
+      "section": "241",
+      "title": "Ophthalmicoptics- spectacle frames- measuring system and terminology",
+      "content": "Ophthalmicoptics- spectacle frames- measuring system and terminology",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s242",
+      "section": "242",
+      "title": "بصرياتالعين - إطاراتالنظارات -نظام القياسوالمصطلحات",
+      "content": "بصرياتالعين - إطاراتالنظارات -نظام القياسوالمصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s243",
+      "section": "243",
+      "title": "UAE.SGSO ISO 15261 :2011",
+      "content": "UAE.SGSO ISO 15261 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s244",
+      "section": "244",
+      "title": "Vibrationand shock generating systems-vocabulary",
+      "content": "Vibrationand shock generating systems-vocabulary",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s245",
+      "section": "245",
+      "title": "الإهتزازوأنظمة توليدالصدمة -المصطلحات",
+      "content": "الإهتزازوأنظمة توليدالصدمة -المصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s246",
+      "section": "246",
+      "title": "UAE.SGSO OIML D14:2011",
+      "content": "UAE.SGSO OIML D14:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s247",
+      "section": "247",
+      "title": "Trainingand qualification of legal metrology personnel",
+      "content": "Trainingand qualification of legal metrology personnel",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s248",
+      "section": "248",
+      "title": "تدريبوتأهيل موظفيالمترولوجياالقانونية",
+      "content": "تدريبوتأهيل موظفيالمترولوجياالقانونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s249",
+      "section": "249",
+      "title": "Packaging- cylindrical flexible laminated tubes - dimensions and tolerances",
+      "content": "Packaging- cylindrical flexible laminated tubes - dimensions and tolerances",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s250",
+      "section": "250",
+      "title": "تعبئةوتغليف -الأنابيبالاسطوانيةالمرنةمتعددةالطبقات -الابعادوالتفاوتاتالمسموحبها.",
+      "content": "تعبئةوتغليف -الأنابيبالاسطوانيةالمرنةمتعددةالطبقات -الابعادوالتفاوتاتالمسموحبها.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s251",
+      "section": "251",
+      "title": "UAE,SGSO ISO 9022-4:2011",
+      "content": "UAE,SGSO ISO 9022-4:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s252",
+      "section": "252",
+      "title": "Opticsand Optical instruments- Environmental test methods Part 4 : Saltmist",
+      "content": "Opticsand Optical instruments- Environmental test methods Part 4 : Saltmist",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s253",
+      "section": "253",
+      "title": "البصرياتوالاجهزةالبصرية - طرقالاختباراتالبيئية\nالجزءالرابع:الرذاذالملحي",
+      "content": "البصرياتوالاجهزةالبصرية - طرقالاختباراتالبيئية\nالجزءالرابع:الرذاذالملحي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s254",
+      "section": "254",
+      "title": "Glass-Test Method for Softening Point",
+      "content": "Glass-Test Method for Softening Point",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s255",
+      "section": "255",
+      "title": "الزجاج- طريقة اختبارنقطةالتليّن",
+      "content": "الزجاج- طريقة اختبارنقطةالتليّن",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s256",
+      "section": "256",
+      "title": "UAE.SGSO ISO 772 :2011",
+      "content": "UAE.SGSO ISO 772 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s257",
+      "section": "257",
+      "title": "Hydrometricdeterminations -- Vocabulary and symbols",
+      "content": "Hydrometricdeterminations -- Vocabulary and symbols",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s258",
+      "section": "258",
+      "title": "تقديراتالكثافة -المصطلحاتوالرموز",
+      "content": "تقديراتالكثافة -المصطلحاتوالرموز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s259",
+      "section": "259",
+      "title": "UAE.SGSO OIML R 139:2011",
+      "content": "UAE.SGSO OIML R 139:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s260",
+      "section": "260",
+      "title": "Compressedgaseous fuel measuring systems for vehicles",
+      "content": "Compressedgaseous fuel measuring systems for vehicles",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s261",
+      "section": "261",
+      "title": "أنظمةقياس الوقودالغازيالمضغوطللمركبات",
+      "content": "أنظمةقياس الوقودالغازيالمضغوطللمركبات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s262",
+      "section": "262",
+      "title": "UAE.SGSO IEC 60044- 5:2011",
+      "content": "UAE.SGSO IEC 60044- 5:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s263",
+      "section": "263",
+      "title": "\"INSTRUMENTTRANSFORMERS - Part 5: Capacitor voltage transformers",
+      "content": "\"INSTRUMENTTRANSFORMERS - Part 5: Capacitor voltage transformers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s264",
+      "section": "264",
+      "title": "محولاتالقياس - الجزءالخامس:محولات الجهدالسعوية",
+      "content": "محولاتالقياس - الجزءالخامس:محولات الجهدالسعوية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s265",
+      "section": "265",
+      "title": "UAE.SGSO OIML D17:2011",
+      "content": "UAE.SGSO OIML D17:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s266",
+      "section": "266",
+      "title": "Equipmentfor speech audiometry -Annex C: Test Report Fprmat",
+      "content": "Equipmentfor speech audiometry -Annex C: Test Report Fprmat",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s267",
+      "section": "267",
+      "title": "المخططالهرميلأدوات قياسلزوجةالسوائل",
+      "content": "المخططالهرميلأدوات قياسلزوجةالسوائل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s268",
+      "section": "268",
+      "title": "UAE.SGSO OIML R 140:2011",
+      "content": "UAE.SGSO OIML R 140:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s269",
+      "section": "269",
+      "title": "Measuringsystems for gaseous fuel",
+      "content": "Measuringsystems for gaseous fuel",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s270",
+      "section": "270",
+      "title": "انظمةقياس الوقودالغازيالمضغوطللمركبات",
+      "content": "انظمةقياس الوقودالغازيالمضغوطللمركبات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s271",
+      "section": "271",
+      "title": "UAE.SGSO OIML R 48:2011",
+      "content": "UAE.SGSO OIML R 48:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s272",
+      "section": "272",
+      "title": "TungstenRibbon Lamps for the Calibration Of Radiation Thermometers",
+      "content": "TungstenRibbon Lamps for the Calibration Of Radiation Thermometers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s273",
+      "section": "273",
+      "title": "المصابيحذات شريطالتنغستينلمعايرةمقاييسالحرارةالإشعاعية",
+      "content": "المصابيحذات شريطالتنغستينلمعايرةمقاييسالحرارةالإشعاعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s274",
+      "section": "274",
+      "title": "UAE.SGSO IEC 61557- 4/2011",
+      "content": "UAE.SGSO IEC 61557- 4/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s275",
+      "section": "275",
+      "title": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1 000 V a.c. AND 1 50",
+      "content": "ELECTRICALSAFETY IN LOW VOLTAGE DISTRIBUTION SYSTEMS UP TO 1 000 V a.c. AND 1 500 V d.c. -EQUIPMENT FOR TESTING, MEASURING OR MONITORING OF PROTECTIVE MEASURES - Part 4:Resistance of earth connection and equipotential bonding",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s276",
+      "section": "276",
+      "title": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار م",
+      "content": "السلامةالكهربائيةفي أنظمةتوزيع الجهدالمنخفض حتى1000ف (تيارمتناوب) و1500ف (تيار مستمر) -معدات اختبارأو قياس أومراقبةتدابيرالوقاية -الجزء4:مقاومة وصلةالأرض والربطمتساويالجهد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s277",
+      "section": "277",
+      "title": "قطاعالمنتجاتالغذائيةوالزراعية",
+      "content": "قطاعالمنتجاتالغذائيةوالزراعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s278",
+      "section": "278",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s279",
+      "section": "279",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s280",
+      "section": "280",
+      "title": "GeneralRequirements for the nuts Handling",
+      "content": "GeneralRequirements for the nuts Handling",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s281",
+      "section": "281",
+      "title": "الاشتراطاتالعامةلتداولالمكسرات",
+      "content": "الاشتراطاتالعامةلتداولالمكسرات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s282",
+      "section": "282",
+      "title": "UAE.SGSO ISO 2295/2011",
+      "content": "UAE.SGSO ISO 2295/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s283",
+      "section": "283",
+      "title": "Avocados-Guide for storage and transport",
+      "content": "Avocados-Guide for storage and transport",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s284",
+      "section": "284",
+      "title": "الأفوكادو- دليل التخزينوالنقل",
+      "content": "الأفوكادو- دليل التخزينوالنقل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s285",
+      "section": "285",
+      "title": "UAE.SGSO ISO 6000/2011",
+      "content": "UAE.SGSO ISO 6000/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s286",
+      "section": "286",
+      "title": "Round-headedcabbage-Storage in the open",
+      "content": "Round-headedcabbage-Storage in the open",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s287",
+      "section": "287",
+      "title": "الكرنبمستدير الرأس -التخزينالمفتوح",
+      "content": "الكرنبمستدير الرأس -التخزينالمفتوح",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s288",
+      "section": "288",
+      "title": "Guidelineson Substaces Used as Processing Aids",
+      "content": "Guidelineson Substaces Used as Processing Aids",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s289",
+      "section": "289",
+      "title": "إرشاداتللموادالمستعملةكمساعداتللتصنيع",
+      "content": "إرشاداتللموادالمستعملةكمساعداتللتصنيع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s290",
+      "section": "290",
+      "title": "UAE.SGSO CAC RCP 59:2011",
+      "content": "UAE.SGSO CAC RCP 59:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s291",
+      "section": "291",
+      "title": "CODEOF PRACTICE FOR PREVENTION AND REDUCTION OF AFLATOXIN CONTAMINATION IN TREEN",
+      "content": "CODEOF PRACTICE FOR PREVENTION AND REDUCTION OF AFLATOXIN CONTAMINATION IN TREENUTS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s292",
+      "section": "292",
+      "title": "دليلالممارسةللوقايةوالتقليل منالتلوث بسمومالأفلاتوكسينفيالجوزيات",
+      "content": "دليلالممارسةللوقايةوالتقليل منالتلوث بسمومالأفلاتوكسينفيالجوزيات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s293",
+      "section": "293",
+      "title": "UAE.SGSO CAC RCP 67:2011",
+      "content": "UAE.SGSO CAC RCP 67:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s294",
+      "section": "294",
+      "title": "Codeof Practice for the Reduction of Acrylamide in Foods",
+      "content": "Codeof Practice for the Reduction of Acrylamide in Foods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s295",
+      "section": "295",
+      "title": "دليلالممارسةللتقليل منالاكريلاميدفي الاغذية",
+      "content": "دليلالممارسةللتقليل منالاكريلاميدفي الاغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s296",
+      "section": "296",
+      "title": "Methodsof examination and test for Royal jelly",
+      "content": "Methodsof examination and test for Royal jelly",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s297",
+      "section": "297",
+      "title": "طرقفحص واختبارغذاء ملكاتالنحل",
+      "content": "طرقفحص واختبارغذاء ملكاتالنحل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s298",
+      "section": "298",
+      "title": "قطاعالتشييدوموادالبناء",
+      "content": "قطاعالتشييدوموادالبناء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s299",
+      "section": "299",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s300",
+      "section": "300",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s301",
+      "section": "301",
+      "title": "UAE.SGSO ASTM C131/2011",
+      "content": "UAE.SGSO ASTM C131/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s302",
+      "section": "302",
+      "title": "Resistanceto Degradation of Small-Size Coarse Aggregate by Abrasion and Impact i",
+      "content": "Resistanceto Degradation of Small-Size Coarse Aggregate by Abrasion and Impact in LosAngeles Machine",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s303",
+      "section": "303",
+      "title": "تعيينمقاومةالركامالناعم للبريوالصدمباستخدامجهاز لوسانجلوس",
+      "content": "تعيينمقاومةالركامالناعم للبريوالصدمباستخدامجهاز لوسانجلوس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s304",
+      "section": "304",
+      "title": "UAE.SGSO ASTM A 1035/2011",
+      "content": "UAE.SGSO ASTM A 1035/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s305",
+      "section": "305",
+      "title": "StandardSpecification for Deformed and Plain Low-carbon, Chromium, Steel Barsfor",
+      "content": "StandardSpecification for Deformed and Plain Low-carbon, Chromium, Steel Barsfor",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s306",
+      "section": "306",
+      "title": "مواصفاتأسياخ حديدتسليحالخرسانة ذاتالنتوءاتوالملساءمنخفضةالكربونوالكروم",
+      "content": "مواصفاتأسياخ حديدتسليحالخرسانة ذاتالنتوءاتوالملساءمنخفضةالكربونوالكروم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s307",
+      "section": "307",
+      "title": "UAE.SGSO ASTM C845/2011",
+      "content": "UAE.SGSO ASTM C845/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s308",
+      "section": "308",
+      "title": "StandardSpecification for Expansive Hydraulic Cement",
+      "content": "StandardSpecification for Expansive Hydraulic Cement",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s309",
+      "section": "309",
+      "title": "المواصفةالقياسيةللإسمنتالهيدروليكيالمتمدد",
+      "content": "المواصفةالقياسيةللإسمنتالهيدروليكيالمتمدد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s310",
+      "section": "310",
+      "title": "UAE.SGSO EN 12764/2011",
+      "content": "UAE.SGSO EN 12764/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s311",
+      "section": "311",
+      "title": "Sanitaryappliances - Specification for whirlpool baths",
+      "content": "Sanitaryappliances - Specification for whirlpool baths",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s312",
+      "section": "312",
+      "title": "الأدواتالصحية:مواصفاتمغاطسالجاكوزي",
+      "content": "الأدواتالصحية:مواصفاتمغاطسالجاكوزي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s313",
+      "section": "313",
+      "title": "UAE.SGSO EN 274-1/2011",
+      "content": "UAE.SGSO EN 274-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s314",
+      "section": "314",
+      "title": "Wastefittings for sanitary appliances - Part 1: Requirements",
+      "content": "Wastefittings for sanitary appliances - Part 1: Requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s315",
+      "section": "315",
+      "title": "قطعتركيبالتصريفللأدواتالصحية - الجزءالأول:المتطلبات",
+      "content": "قطعتركيبالتصريفللأدواتالصحية - الجزءالأول:المتطلبات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s316",
+      "section": "316",
+      "title": "UAE.SGSO ASTM\nC 1364/2011",
+      "content": "UAE.SGSO ASTM\nC 1364/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s317",
+      "section": "317",
+      "title": "StandardSpecification for Architectural Cast Stone",
+      "content": "StandardSpecification for Architectural Cast Stone",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s318",
+      "section": "318",
+      "title": "مواصفةالحجرالمعماريالمصبوب",
+      "content": "مواصفةالحجرالمعماريالمصبوب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s319",
+      "section": "319",
+      "title": "UAE.SGSO EN 274-3/2011",
+      "content": "UAE.SGSO EN 274-3/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s320",
+      "section": "320",
+      "title": "Wastefittings for sanitary appliances - Part 3: Quality control",
+      "content": "Wastefittings for sanitary appliances - Part 3: Quality control",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s321",
+      "section": "321",
+      "title": "قطعتركيبالتصريفللأدواتالصحية - الجزءالثالث: ضبطالجودة",
+      "content": "قطعتركيبالتصريفللأدواتالصحية - الجزءالثالث: ضبطالجودة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s322",
+      "section": "322",
+      "title": "Sanitaryappliances - Shower trays made from crosslinked cast acrylic sheets -Req",
+      "content": "Sanitaryappliances - Shower trays made from crosslinked cast acrylic sheets -Requirements and test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s323",
+      "section": "323",
+      "title": "الأدواتالصحية - صوانيالاستحمامالمصنوعة منصفائحالاكريليكالمسبوكة -المتطلباتوطرقال",
+      "content": "الأدواتالصحية - صوانيالاستحمامالمصنوعة منصفائحالاكريليكالمسبوكة -المتطلباتوطرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s324",
+      "section": "324",
+      "title": "Kitchensinks - Connecting dimensions",
+      "content": "Kitchensinks - Connecting dimensions",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s325",
+      "section": "325",
+      "title": "أحواضالمطابخ -أبعادالتوصيل",
+      "content": "أحواضالمطابخ -أبعادالتوصيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s326",
+      "section": "326",
+      "title": "UAE.SGSO EN 13310 /2011",
+      "content": "UAE.SGSO EN 13310 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s327",
+      "section": "327",
+      "title": "Kitchensinks - Functional requirements and test methods",
+      "content": "Kitchensinks - Functional requirements and test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s328",
+      "section": "328",
+      "title": "أحواضالمطابخ -المتطلباتالوظيفيةوطرقالاختبار",
+      "content": "أحواضالمطابخ -المتطلباتالوظيفيةوطرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s329",
+      "section": "329",
+      "title": "UAE.SGSO EN 15636/2011",
+      "content": "UAE.SGSO EN 15636/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s330",
+      "section": "330",
+      "title": "Sanitaryappliances - Shower trays made from impact modified extruded acrylic she",
+      "content": "Sanitaryappliances - Shower trays made from impact modified extruded acrylic sheets -Requirements and test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s331",
+      "section": "331",
+      "title": "الأدواتالصحية - صوانيالاستحمامالمصنوعة منصفائحالاكريليكالمبثوقة -المتطلباتوطرقال",
+      "content": "الأدواتالصحية - صوانيالاستحمامالمصنوعة منصفائحالاكريليكالمبثوقة -المتطلباتوطرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s332",
+      "section": "332",
+      "title": "UAE.SGSO ASTM\nC 638/2011",
+      "content": "UAE.SGSO ASTM\nC 638/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s333",
+      "section": "333",
+      "title": "StandardDescriptive Nomenclature of Constituents of Aggregates for Radiation-Shi",
+      "content": "StandardDescriptive Nomenclature of Constituents of Aggregates for Radiation-ShieldingConcrete",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s334",
+      "section": "334",
+      "title": "التسمياتالوصفيةالقياسيةلمكونات ركامالخرسانةالواقية منالإشعاع",
+      "content": "التسمياتالوصفيةالقياسيةلمكونات ركامالخرسانةالواقية منالإشعاع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s335",
+      "section": "335",
+      "title": "UAE.SGSO ASTM\nC 637/2011",
+      "content": "UAE.SGSO ASTM\nC 637/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s336",
+      "section": "336",
+      "title": "StandardSpecification for Aggregates for Radiation-Shielding Concrete",
+      "content": "StandardSpecification for Aggregates for Radiation-Shielding Concrete",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s337",
+      "section": "337",
+      "title": "المواصفةالقياسيةلركامالخرسانةالواقية منالإشعاع",
+      "content": "المواصفةالقياسيةلركامالخرسانةالواقية منالإشعاع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s338",
+      "section": "338",
+      "title": "UAE.SGSO ASTM\nC 1116/2011",
+      "content": "UAE.SGSO ASTM\nC 1116/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s339",
+      "section": "339",
+      "title": "StandardSpecification for Fiber-Reinforced Concrete",
+      "content": "StandardSpecification for Fiber-Reinforced Concrete",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s340",
+      "section": "340",
+      "title": "المواصفةالقياسيةللخرسانةالمقواةبالألياف",
+      "content": "المواصفةالقياسيةللخرسانةالمقواةبالألياف",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s341",
+      "section": "341",
+      "title": "UAE.SGSO BS 6187/2011",
+      "content": "UAE.SGSO BS 6187/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s342",
+      "section": "342",
+      "title": "Codeof practice for demolition",
+      "content": "Codeof practice for demolition",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s343",
+      "section": "343",
+      "title": "كودالممارسةلأعمالالهدم",
+      "content": "كودالممارسةلأعمالالهدم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s344",
+      "section": "344",
+      "title": "UAE.SGSO BS 5250/2011",
+      "content": "UAE.SGSO BS 5250/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s345",
+      "section": "345",
+      "title": "Codeof practice for control of condensation in buildings",
+      "content": "Codeof practice for control of condensation in buildings",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s346",
+      "section": "346",
+      "title": "كودالممارسةللتحكمبالتكثيف فيالمباني",
+      "content": "كودالممارسةللتحكمبالتكثيف فيالمباني",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s347",
+      "section": "347",
+      "title": "UAE.SGSO BS 6164 /2011",
+      "content": "UAE.SGSO BS 6164 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s348",
+      "section": "348",
+      "title": "Codeof practice for safety in tunnelling in the construction industry",
+      "content": "Codeof practice for safety in tunnelling in the construction industry",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s349",
+      "section": "349",
+      "title": "كودالممارسةللسلامة فيحفر الأنفاقفي صناعةالتشييد",
+      "content": "كودالممارسةللسلامة فيحفر الأنفاقفي صناعةالتشييد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s350",
+      "section": "350",
+      "title": "UAE.SGSO EN 1997-2/2011",
+      "content": "UAE.SGSO EN 1997-2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s351",
+      "section": "351",
+      "title": "Eurocode7 - Geotechnical design - Part 2: Ground investigation and testing",
+      "content": "Eurocode7 - Geotechnical design - Part 2: Ground investigation and testing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s352",
+      "section": "352",
+      "title": "الكودالاوربي7-التصميمالجيوتقني -الجزء الثاني:استكشاف وفحصالتربة",
+      "content": "الكودالاوربي7-التصميمالجيوتقني -الجزء الثاني:استكشاف وفحصالتربة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s353",
+      "section": "353",
+      "title": "UAE.SGSO EN 1997-1/2011",
+      "content": "UAE.SGSO EN 1997-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s354",
+      "section": "354",
+      "title": "Eurocode7. Geotechnical design. General rules",
+      "content": "Eurocode7. Geotechnical design. General rules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s355",
+      "section": "355",
+      "title": "الكودالاوربي7-التصميمالجيوتقني -الجزء الأول:القوانينالعامة",
+      "content": "الكودالاوربي7-التصميمالجيوتقني -الجزء الأول:القوانينالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s356",
+      "section": "356",
+      "title": "UAE.SGSO EN 13251 /2011",
+      "content": "UAE.SGSO EN 13251 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s357",
+      "section": "357",
+      "title": "Geotextilesand geotextile-related products. Characteristics required for use in ",
+      "content": "Geotextilesand geotextile-related products. Characteristics required for use in earthworks,foundations and retaining structures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s358",
+      "section": "358",
+      "title": "الحصائرالارضيةومنتجاتها -الخصائصالمطلوبةللاستخدام فيالأعمالالترابيةوالقواعدالانش",
+      "content": "الحصائرالارضيةومنتجاتها -الخصائصالمطلوبةللاستخدام فيالأعمالالترابيةوالقواعدالانشائيةوالمنشآتالمساندة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s359",
+      "section": "359",
+      "title": "UAE.SGSO EN 14490 /2011",
+      "content": "UAE.SGSO EN 14490 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s360",
+      "section": "360",
+      "title": "Executionof special geotechnical works. Soil nailing",
+      "content": "Executionof special geotechnical works. Soil nailing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s361",
+      "section": "361",
+      "title": "تنفيذأعمالجيوتقنيةخاصة - تسميرالتربة",
+      "content": "تنفيذأعمالجيوتقنيةخاصة - تسميرالتربة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s362",
+      "section": "362",
+      "title": "UAE.SGSO EN 14475 /2011",
+      "content": "UAE.SGSO EN 14475 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s363",
+      "section": "363",
+      "title": "Executionof special geotechnical works. Reinforced fill",
+      "content": "Executionof special geotechnical works. Reinforced fill",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s364",
+      "section": "364",
+      "title": "تنفيذأعمالجيوتقنيةخاصة - طبقةالدفانالمدعمة",
+      "content": "تنفيذأعمالجيوتقنيةخاصة - طبقةالدفانالمدعمة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s365",
+      "section": "365",
+      "title": "UAE.SGSO BS 6031 /2011",
+      "content": "UAE.SGSO BS 6031 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s366",
+      "section": "366",
+      "title": "Codeof practice for earthworks",
+      "content": "Codeof practice for earthworks",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s367",
+      "section": "367",
+      "title": "كودالممارسةللأعمالالترابية",
+      "content": "كودالممارسةللأعمالالترابية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s368",
+      "section": "368",
+      "title": "UAE.SGSO ASTM D 5201:2011",
+      "content": "UAE.SGSO ASTM D 5201:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s369",
+      "section": "369",
+      "title": "StandardPractice for Calculating Formulation Physical Constant of Paints andCoat",
+      "content": "StandardPractice for Calculating Formulation Physical Constant of Paints andCoating",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s370",
+      "section": "370",
+      "title": "الممارسةالقياسيةلحساب ثوابتالصياغةالماديةللأصباغ",
+      "content": "الممارسةالقياسيةلحساب ثوابتالصياغةالماديةللأصباغ",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s371",
+      "section": "371",
+      "title": "UAE.SGSO ASTM A709 :2011",
+      "content": "UAE.SGSO ASTM A709 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s372",
+      "section": "372",
+      "title": "StandardSpecification for Structural Steel for Bridges",
+      "content": "StandardSpecification for Structural Steel for Bridges",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s373",
+      "section": "373",
+      "title": "المواصفةالقياسيةللهياكلالحديديةللجسور",
+      "content": "المواصفةالقياسيةللهياكلالحديديةللجسور",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s374",
+      "section": "374",
+      "title": "UAE.SGSO ASTM A673 :2011",
+      "content": "UAE.SGSO ASTM A673 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s375",
+      "section": "375",
+      "title": "StandardSpecification for Sampling Procedure for Impact Testing of StructuralSte",
+      "content": "StandardSpecification for Sampling Procedure for Impact Testing of StructuralSteel",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s376",
+      "section": "376",
+      "title": "المواصفةالقياسيةلطرق أخذعينات اختبارالتصادمللهياكلالحديدية",
+      "content": "المواصفةالقياسيةلطرق أخذعينات اختبارالتصادمللهياكلالحديدية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s377",
+      "section": "377",
+      "title": "UAE.SGSO ASTM A514 :2011",
+      "content": "UAE.SGSO ASTM A514 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s378",
+      "section": "378",
+      "title": "StandardSpecification for High-Yield- Strength, Quenched and Tempered Alloy Stee",
+      "content": "StandardSpecification for High-Yield- Strength, Quenched and Tempered Alloy Steel Plate,Suitable for Welding",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s379",
+      "section": "379",
+      "title": "المواصفةالقياسيةللألواحالحديديةعالية مقاومةالإجهادوالمعالجةحرارياًوالقابلةللحام",
+      "content": "المواصفةالقياسيةللألواحالحديديةعالية مقاومةالإجهادوالمعالجةحرارياًوالقابلةللحام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s380",
+      "section": "380",
+      "title": "UAE.SGSO ASTM A242 :2011",
+      "content": "UAE.SGSO ASTM A242 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s381",
+      "section": "381",
+      "title": "StandardSpecification for High-Strength Low- Alloy Structural Steel",
+      "content": "StandardSpecification for High-Strength Low- Alloy Structural Steel",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s382",
+      "section": "382",
+      "title": "المواصفةالقياسيةللهياكلالحديديةعالية القوةومنخفضةالإضافات",
+      "content": "المواصفةالقياسيةللهياكلالحديديةعالية القوةومنخفضةالإضافات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s383",
+      "section": "383",
+      "title": "UAE.SGSO ASTM A36 :2011",
+      "content": "UAE.SGSO ASTM A36 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s384",
+      "section": "384",
+      "title": "StandardSpecification for Carbon Structural Steel",
+      "content": "StandardSpecification for Carbon Structural Steel",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s385",
+      "section": "385",
+      "title": "المواصفةالقياسيةللهياكلالحديديةالكربونية",
+      "content": "المواصفةالقياسيةللهياكلالحديديةالكربونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s386",
+      "section": "386",
+      "title": "UAE.SGSO EN 15200 :2011",
+      "content": "UAE.SGSO EN 15200 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s387",
+      "section": "387",
+      "title": "Sanitaryappliances - Multifunction shower cabinets",
+      "content": "Sanitaryappliances - Multifunction shower cabinets",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s388",
+      "section": "388",
+      "title": "كبائنالاستحماممتعددةالأغراض",
+      "content": "كبائنالاستحماممتعددةالأغراض",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s389",
+      "section": "389",
+      "title": "UAE.SGSO ASTM A131 :2011",
+      "content": "UAE.SGSO ASTM A131 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s390",
+      "section": "390",
+      "title": "StandardSpecification for Structural Steel for Ships",
+      "content": "StandardSpecification for Structural Steel for Ships",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s391",
+      "section": "391",
+      "title": "المواصفةالقياسيةللهياكلالحديديةللسفن",
+      "content": "المواصفةالقياسيةللهياكلالحديديةللسفن",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s392",
+      "section": "392",
+      "title": "UAE.SGSO ASTM E985 :2011",
+      "content": "UAE.SGSO ASTM E985 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s393",
+      "section": "393",
+      "title": "StandardSpecification for Permanent Metal Railing Systems and Rails forBuildings",
+      "content": "StandardSpecification for Permanent Metal Railing Systems and Rails forBuildings",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s394",
+      "section": "394",
+      "title": "المواصفاتالقياسيةلمنظومةالأسوارالمعدنيةالدائمةوالدرابزيناتللمباني",
+      "content": "المواصفاتالقياسيةلمنظومةالأسوارالمعدنيةالدائمةوالدرابزيناتللمباني",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s395",
+      "section": "395",
+      "title": "UAE.SGSO ASTM E1991:2011",
+      "content": "UAE.SGSO ASTM E1991:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s396",
+      "section": "396",
+      "title": "StandardGuide for Environmental Life Cycle Assessment (LCA) of BuildingMaterials",
+      "content": "StandardGuide for Environmental Life Cycle Assessment (LCA) of BuildingMaterials/Products",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s397",
+      "section": "397",
+      "title": "الدليلالقياسيلتقييم دورةالحياةالبيئيةلمواد أومنتجاتالبناء",
+      "content": "الدليلالقياسيلتقييم دورةالحياةالبيئيةلمواد أومنتجاتالبناء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s398",
+      "section": "398",
+      "title": "UAE.SGSO ASTM E2128:2011",
+      "content": "UAE.SGSO ASTM E2128:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s399",
+      "section": "399",
+      "title": "StandardGuide for Evaluating Water Leakage of Building Walls",
+      "content": "StandardGuide for Evaluating Water Leakage of Building Walls",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s400",
+      "section": "400",
+      "title": "دليلقياسي لتقييمتسرب المياهمن الجدرانالمبنية",
+      "content": "دليلقياسي لتقييمتسرب المياهمن الجدرانالمبنية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s401",
+      "section": "401",
+      "title": "UAE.SGSO ASTM E1783:2011",
+      "content": "UAE.SGSO ASTM E1783:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s402",
+      "section": "402",
+      "title": "StandardSpecification for Preformed Architectural Strip Seals for Buildings and ",
+      "content": "StandardSpecification for Preformed Architectural Strip Seals for Buildings and ParkingStructures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s403",
+      "section": "403",
+      "title": "المواصفةالقياسيةلموانعالتسرب مسبقةالتشكيلالمعماريللمبانيوالهياكلوالمواقف",
+      "content": "المواصفةالقياسيةلموانعالتسرب مسبقةالتشكيلالمعماريللمبانيوالهياكلوالمواقف",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s404",
+      "section": "404",
+      "title": "UAE.SGSO ASTM E1686:2011",
+      "content": "UAE.SGSO ASTM E1686:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s405",
+      "section": "405",
+      "title": "StandardGuide for Applying Environmental Noise Measurement Methods andCriteria",
+      "content": "StandardGuide for Applying Environmental Noise Measurement Methods andCriteria",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s406",
+      "section": "406",
+      "title": "دليلقياسي لتطبيقالأساليبالبيئيةومعايير قياسالضوضاء",
+      "content": "دليلقياسي لتطبيقالأساليبالبيئيةومعايير قياسالضوضاء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s407",
+      "section": "407",
+      "title": "UAE.SGSO ASTM A896 :2011",
+      "content": "UAE.SGSO ASTM A896 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s408",
+      "section": "408",
+      "title": "StandardPractice for Conducting Case Studies on Galvanized Structures",
+      "content": "StandardPractice for Conducting Case Studies on Galvanized Structures",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s409",
+      "section": "409",
+      "title": "الممارسةالقياسيةلإجراءدراساتميدانية علىالإنشاءاتالمجلفنة",
+      "content": "الممارسةالقياسيةلإجراءدراساتميدانية علىالإنشاءاتالمجلفنة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s410",
+      "section": "410",
+      "title": "UAE.SGSO ASTM A653 :2011",
+      "content": "UAE.SGSO ASTM A653 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s411",
+      "section": "411",
+      "title": "StandardSpecification for Steel Sheet, Zinc- Coated (Galvanized) or Zinc-Iron Al",
+      "content": "StandardSpecification for Steel Sheet, Zinc- Coated (Galvanized) or Zinc-Iron Alloy-Coated (Galvannealed) by the Hot-Dip Process",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s412",
+      "section": "412",
+      "title": "المواصفةالقياسيةلألواح الصلبالمغلفةبالزنك(المجلفنة) أوسبائك الحديدالمغلفةبالزنك(",
+      "content": "المواصفةالقياسيةلألواح الصلبالمغلفةبالزنك(المجلفنة) أوسبائك الحديدالمغلفةبالزنك(المجلفنة)والمعالجةبالغمرالساخن",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s413",
+      "section": "413",
+      "title": "StandardSpecification for Glass-Fiber- Reinforced Polyester Plastic Panels",
+      "content": "StandardSpecification for Glass-Fiber- Reinforced Polyester Plastic Panels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s414",
+      "section": "414",
+      "title": "المواصفةالقياسيةلألواحالبوليسترالبلاستيكيةالمقواةبالأليافالزجاجية",
+      "content": "المواصفةالقياسيةلألواحالبوليسترالبلاستيكيةالمقواةبالأليافالزجاجية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s415",
+      "section": "415",
+      "title": "UAE.SGSO ASTM F2686:2011",
+      "content": "UAE.SGSO ASTM F2686:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s416",
+      "section": "416",
+      "title": "StandardSpecification for Glass Fiber Reinforced Thermoplastic Pipe",
+      "content": "StandardSpecification for Glass Fiber Reinforced Thermoplastic Pipe",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s417",
+      "section": "417",
+      "title": "المواصفةالقياسيةللأنابيبالحراريةالمقواةبالأليافالزجاجية",
+      "content": "المواصفةالقياسيةللأنابيبالحراريةالمقواةبالأليافالزجاجية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s418",
+      "section": "418",
+      "title": "UAE.SGSO ASTM E2358:2011",
+      "content": "UAE.SGSO ASTM E2358:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s419",
+      "section": "419",
+      "title": "StandardSpecification for the Performance of Glass in Permanent Glass Railing Sy",
+      "content": "StandardSpecification for the Performance of Glass in Permanent Glass Railing Systems,Guards, and Balustrades",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s420",
+      "section": "420",
+      "title": "المواصفةالقياسيةلأداء الزجاجفي منظومةزجاجالدرابزينالدائموالواقياتوالدرابزينات",
+      "content": "المواصفةالقياسيةلأداء الزجاجفي منظومةزجاجالدرابزينالدائموالواقياتوالدرابزينات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s421",
+      "section": "421",
+      "title": "UAE.SGSO ASTM F1197:2011",
+      "content": "UAE.SGSO ASTM F1197:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s422",
+      "section": "422",
+      "title": "StandardSpecification for Sliding Watertight Door Control Systems",
+      "content": "StandardSpecification for Sliding Watertight Door Control Systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s423",
+      "section": "423",
+      "title": "المواصفاتالقياسيةلأنظمةالتحكمللأبوابالمنزلقةالمانعةللماء",
+      "content": "المواصفاتالقياسيةلأنظمةالتحكمللأبوابالمنزلقةالمانعةللماء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s424",
+      "section": "424",
+      "title": "UAE.SGSO ASTM E2112:2011",
+      "content": "UAE.SGSO ASTM E2112:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s425",
+      "section": "425",
+      "title": "StandardPractice for Installation of Exterior Windows, Doors and Skylights",
+      "content": "StandardPractice for Installation of Exterior Windows, Doors and Skylights",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s426",
+      "section": "426",
+      "title": "الممارسةالقياسيةلتركيبالنوافذالخارجيةوالأبوابوالمناور",
+      "content": "الممارسةالقياسيةلتركيبالنوافذالخارجيةوالأبوابوالمناور",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s427",
+      "section": "427",
+      "title": "UAE.SGSO ASTM F821 :2011",
+      "content": "UAE.SGSO ASTM F821 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s428",
+      "section": "428",
+      "title": "StandardSpecification for Domestic Use Doors and Frames, Steel, Interior,Marine",
+      "content": "StandardSpecification for Domestic Use Doors and Frames, Steel, Interior,Marine",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s429",
+      "section": "429",
+      "title": "المواصفةالقياسيةللأبواب وأطرالصلبالداخليةوالبحرية",
+      "content": "المواصفةالقياسيةللأبواب وأطرالصلبالداخليةوالبحرية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s430",
+      "section": "430",
+      "title": "Specificationfor the use of recycled asphalt for paving",
+      "content": "Specificationfor the use of recycled asphalt for paving",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s431",
+      "section": "431",
+      "title": "مواصفةاستخدامالإسفلتالمعادتدويرهلأعمالالرصف",
+      "content": "مواصفةاستخدامالإسفلتالمعادتدويرهلأعمالالرصف",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s432",
+      "section": "432",
+      "title": "Waterfor Constructions",
+      "content": "Waterfor Constructions",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s433",
+      "section": "433",
+      "title": "المياهالمستخدمة فيأعمالالإنشاء",
+      "content": "المياهالمستخدمة فيأعمالالإنشاء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s434",
+      "section": "434",
+      "title": "قطاعمواصفاتصناعة النفطوالغاز",
+      "content": "قطاعمواصفاتصناعة النفطوالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s435",
+      "section": "435",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s436",
+      "section": "436",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s437",
+      "section": "437",
+      "title": "UAE.SGSO ISO 31000 /2012",
+      "content": "UAE.SGSO ISO 31000 /2012",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s438",
+      "section": "438",
+      "title": "Riskmanagement - Principles and guidelines",
+      "content": "Riskmanagement - Principles and guidelines",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s439",
+      "section": "439",
+      "title": "ادارةالمخاطر -المبادئوالارشادات",
+      "content": "ادارةالمخاطر -المبادئوالارشادات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s440",
+      "section": "440",
+      "title": "UAE.SGSO ISO GUED 73/2011",
+      "content": "UAE.SGSO ISO GUED 73/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s441",
+      "section": "441",
+      "title": "Riskmanagement - Vocabulary",
+      "content": "Riskmanagement - Vocabulary",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s442",
+      "section": "442",
+      "title": "ادارةالمخاطر -التعاريفوالمصطلحات",
+      "content": "ادارةالمخاطر -التعاريفوالمصطلحات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s443",
+      "section": "443",
+      "title": "Determinationof Antioxidant in Turbine Oils By Gas Chromatograph.",
+      "content": "Determinationof Antioxidant in Turbine Oils By Gas Chromatograph.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s444",
+      "section": "444",
+      "title": "تقديرمضاداتالأكسدة فيزيوتالتوربيناتبواسطةكروموتوغرافياالغاز",
+      "content": "تقديرمضاداتالأكسدة فيزيوتالتوربيناتبواسطةكروموتوغرافياالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s445",
+      "section": "445",
+      "title": "UAE.SGSO ISO/TR 26762/2011",
+      "content": "UAE.SGSO ISO/TR 26762/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s446",
+      "section": "446",
+      "title": "Naturalgas -- Upstream area -- Allocation of gas and condensate",
+      "content": "Naturalgas -- Upstream area -- Allocation of gas and condensate",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s447",
+      "section": "447",
+      "title": "الغازالطبيعي --منطقةالتجميع --تخصيص أماكنالغازوالمكثفات",
+      "content": "الغازالطبيعي --منطقةالتجميع --تخصيص أماكنالغازوالمكثفات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s448",
+      "section": "448",
+      "title": "UAE.SGSO ISO 10431 /2011",
+      "content": "UAE.SGSO ISO 10431 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s449",
+      "section": "449",
+      "title": "Petroleumand natural gas industries -- Pumping units - Specification",
+      "content": "Petroleumand natural gas industries -- Pumping units - Specification",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s450",
+      "section": "450",
+      "title": "UAE.SGSO ISO 11563 /2011",
+      "content": "UAE.SGSO ISO 11563 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s451",
+      "section": "451",
+      "title": "Crudepetroleum and petroleum products -- Bulk cargo transfer -- Guidelines forac",
+      "content": "Crudepetroleum and petroleum products -- Bulk cargo transfer -- Guidelines forachieving the fullness of pipelines",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s452",
+      "section": "452",
+      "title": "البترولالخاموالمنتجاتالبترولية -نقل شحنة غيرمعبأة - الدليلالإرشاديللتحقق منامتلا",
+      "content": "البترولالخاموالمنتجاتالبترولية -نقل شحنة غيرمعبأة - الدليلالإرشاديللتحقق منامتلاء خطوطالأنابيب",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s453",
+      "section": "453",
+      "title": "UAE.SGSO ISO 8697 /2011",
+      "content": "UAE.SGSO ISO 8697 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s454",
+      "section": "454",
+      "title": "Crudepetroleum and petroleum products -- Transfer accountability -- Assessment o",
+      "content": "Crudepetroleum and petroleum products -- Transfer accountability -- Assessment of onboard quantity (OBQ) and quantity remaining on board (ROB)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s455",
+      "section": "455",
+      "title": "البترولالخاموالمنتجاتالبترولية -قابلية حسابالنقل - تقييمعام لتجربةالسفينة علىالت",
+      "content": "البترولالخاموالمنتجاتالبترولية -قابلية حسابالنقل - تقييمعام لتجربةالسفينة علىالتحميل (فيإياف إل) وعاملتجربةالسفينة علىالتفريغ (في إيإف دي) للسفنالناقلة عبرالمحيط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s456",
+      "section": "456",
+      "title": "UAE.SGSO ISO 9403 /2011",
+      "content": "UAE.SGSO ISO 9403 /2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s457",
+      "section": "457",
+      "title": "Crudepetroleum -- Transfer accountability -- Guidelines for cargoinspection",
+      "content": "Crudepetroleum -- Transfer accountability -- Guidelines for cargoinspection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s458",
+      "section": "458",
+      "title": "البترولالخام - قابليةحساب النقل -الأدلةالإرشاديةللتفتيش علىالحمولات",
+      "content": "البترولالخام - قابليةحساب النقل -الأدلةالإرشاديةللتفتيش علىالحمولات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s459",
+      "section": "459",
+      "title": "UAE.SGSO ISO/TR 26762/2011",
+      "content": "UAE.SGSO ISO/TR 26762/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s460",
+      "section": "460",
+      "title": "Naturalgas -- Upstream area -- Allocation of gas and condensate",
+      "content": "Naturalgas -- Upstream area -- Allocation of gas and condensate",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s461",
+      "section": "461",
+      "title": "الغازالطبيعي --منطقةالتجميع --تخصيص أماكنالغازوالمكثفات",
+      "content": "الغازالطبيعي --منطقةالتجميع --تخصيص أماكنالغازوالمكثفات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s462",
+      "section": "462",
+      "title": "AviationTurbine Fuel Keroene Type, Jet A - 1",
+      "content": "AviationTurbine Fuel Keroene Type, Jet A - 1",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s463",
+      "section": "463",
+      "title": "وقودالطائراتالنفاثة منالنوعالكروسيني(JetA1)",
+      "content": "وقودالطائراتالنفاثة منالنوعالكروسيني(JetA1)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s464",
+      "section": "464",
+      "title": "GulfGuide of Standard Specification for Unleaded Gasoline",
+      "content": "GulfGuide of Standard Specification for Unleaded Gasoline",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s465",
+      "section": "465",
+      "title": "الدليلالخليجيلمواصفاتوخصائصالجازولينالخالي منالرصاص",
+      "content": "الدليلالخليجيلمواصفاتوخصائصالجازولينالخالي منالرصاص",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s466",
+      "section": "466",
+      "title": "UAE.SGSO ISO 19901- 4/2011",
+      "content": "UAE.SGSO ISO 19901- 4/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s467",
+      "section": "467",
+      "title": "Petroleumand natural gas industries -- Specific requirements for offshore struct",
+      "content": "Petroleumand natural gas industries -- Specific requirements for offshore structures --Part 4: Geotechnical and foundation design considerations",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s468",
+      "section": "468",
+      "title": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء4:التقنيةالجيولوجيةاعتبار",
+      "content": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء4:التقنيةالجيولوجيةاعتباراتتصميمالأساسات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s469",
+      "section": "469",
+      "title": "UAE.SGSO ISO 19901- 2/2011",
+      "content": "UAE.SGSO ISO 19901- 2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s470",
+      "section": "470",
+      "title": "Petroleumand natural gas industries -- Specific requirements for offshore struct",
+      "content": "Petroleumand natural gas industries -- Specific requirements for offshore structures --Part 2: Seismic design procedures and criteria",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s471",
+      "section": "471",
+      "title": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء2:طرق التصميموالمعاييرالخ",
+      "content": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء2:طرق التصميموالمعاييرالخاصةبالزلازل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s472",
+      "section": "472",
+      "title": "UAE.SGSO ISO 3010 :2011",
+      "content": "UAE.SGSO ISO 3010 :2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s473",
+      "section": "473",
+      "title": "Riskmanagement - Risk assessment techniques",
+      "content": "Riskmanagement - Risk assessment techniques",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s474",
+      "section": "474",
+      "title": "ادارةالمخاطر -تقنيات تقييمالمخاطر",
+      "content": "ادارةالمخاطر -تقنيات تقييمالمخاطر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s475",
+      "section": "475",
+      "title": "UAE.SGSO ASTM D 5800:2011",
+      "content": "UAE.SGSO ASTM D 5800:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s476",
+      "section": "476",
+      "title": "StandardTest Method for Evaporation Loss of Lubricating Oils by the NoackMethod",
+      "content": "StandardTest Method for Evaporation Loss of Lubricating Oils by the NoackMethod",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s477",
+      "section": "477",
+      "title": "طريقةالفحص للضياعفي التبخيرلزيوتالتزليقبطريقة نوك",
+      "content": "طريقةالفحص للضياعفي التبخيرلزيوتالتزليقبطريقة نوك",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s478",
+      "section": "478",
+      "title": "UAE.SGSO ASTM D 2983:2011",
+      "content": "UAE.SGSO ASTM D 2983:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s479",
+      "section": "479",
+      "title": "StandardTest Method for Low- Temperature Viscosity of Lubricants Measured by Bro",
+      "content": "StandardTest Method for Low- Temperature Viscosity of Lubricants Measured by BrookfieldViscometer",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s480",
+      "section": "480",
+      "title": "طريقةفحص اللزوجةفي الحرارةالمنخفضةلزيوتالتزليقبجهازبروكفيلدلقياساللزوجة",
+      "content": "طريقةفحص اللزوجةفي الحرارةالمنخفضةلزيوتالتزليقبجهازبروكفيلدلقياساللزوجة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s481",
+      "section": "481",
+      "title": "UAE.SGSO ASTM\nD 3241:2011",
+      "content": "UAE.SGSO ASTM\nD 3241:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s482",
+      "section": "482",
+      "title": "StandardTest Method for Thermal Oxidation Stability of Aviation TurbineFuels",
+      "content": "StandardTest Method for Thermal Oxidation Stability of Aviation TurbineFuels",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s483",
+      "section": "483",
+      "title": "طريقةفحص ثباتالأكسدةلوقودتوربيناتالطائرات",
+      "content": "طريقةفحص ثباتالأكسدةلوقودتوربيناتالطائرات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s484",
+      "section": "484",
+      "title": "UAE.SGSO ISO 19901- 5/2011",
+      "content": "UAE.SGSO ISO 19901- 5/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s485",
+      "section": "485",
+      "title": "Petroleumand natural gas industries -- Specific requirements for offshore struct",
+      "content": "Petroleumand natural gas industries -- Specific requirements for offshore structures --Part 5: Weight control during engineering and construction",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s486",
+      "section": "486",
+      "title": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء5:الرقابة علىالوزن فيالمر",
+      "content": "صناعةالنفط والغاز -المتطلباتالخاصةالمنصاتالبحرية -الجزء5:الرقابة علىالوزن فيالمراحلالهندسيةوالانشاء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s487",
+      "section": "487",
+      "title": "قطاعمواصفاتالمعلوماتوتقنيةالمعلومات",
+      "content": "قطاعمواصفاتالمعلوماتوتقنيةالمعلومات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s488",
+      "section": "488",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s489",
+      "section": "489",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s490",
+      "section": "490",
+      "title": "UAE.SGSO ISO/IEC 2382- 24/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 24/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s491",
+      "section": "491",
+      "title": "Informationtechnology -- Vocabulary -- Part 24: Computer- integratedmanufacturin",
+      "content": "Informationtechnology -- Vocabulary -- Part 24: Computer- integratedmanufacturing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s492",
+      "section": "492",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء24:صناعةالكمبيوترالمتكاملة",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء24:صناعةالكمبيوترالمتكاملة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s493",
+      "section": "493",
+      "title": "UAE.SGSO ISO/IEC 2382- 15/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 15/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s494",
+      "section": "494",
+      "title": "Informationtechnology -- Vocabulary -- Part 15: Programming languages",
+      "content": "Informationtechnology -- Vocabulary -- Part 15: Programming languages",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s495",
+      "section": "495",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء15:لغاتالبرمجة",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء15:لغاتالبرمجة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s496",
+      "section": "496",
+      "title": "UAE.SGSO ISO/IEC 2382- 23/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 23/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s497",
+      "section": "497",
+      "title": "Informationtechnology -- Vocabulary -- Part 23: Text processing",
+      "content": "Informationtechnology -- Vocabulary -- Part 23: Text processing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s498",
+      "section": "498",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء23:معالجةالنصوص",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء23:معالجةالنصوص",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s499",
+      "section": "499",
+      "title": "UAE.SGSO ISO/IEC 2382- 31/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 31/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s500",
+      "section": "500",
+      "title": "Informationtechnology -- Vocabulary -- Part 31: Artificial intelligence -- Machi",
+      "content": "Informationtechnology -- Vocabulary -- Part 31: Artificial intelligence -- Machinelearning",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s501",
+      "section": "501",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء31:الذكاءالاصطناعي --آلة التعلم",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء31:الذكاءالاصطناعي --آلة التعلم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s502",
+      "section": "502",
+      "title": "UAE.SGSO ISO/IEC 2382- 1/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s503",
+      "section": "503",
+      "title": "Informationtechnology -- Vocabulary -- Part 1: Fundamental terms",
+      "content": "Informationtechnology -- Vocabulary -- Part 1: Fundamental terms",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s504",
+      "section": "504",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء1:المصطلحاتالأساسية",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء1:المصطلحاتالأساسية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s505",
+      "section": "505",
+      "title": "UAE.SGSO ISO/IEC 2382- 28/2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 28/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s506",
+      "section": "506",
+      "title": "Informationtechnology -- Vocabulary -- Part 28: Artificial intelligence -- Basic",
+      "content": "Informationtechnology -- Vocabulary -- Part 28: Artificial intelligence -- Basic conceptsand expert systems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s507",
+      "section": "507",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء28:الذكاءالاصطناعي --المفاهيمالأساسيةوالنظمال",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء28:الذكاءالاصطناعي --المفاهيمالأساسيةوالنظمالخبيرة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s508",
+      "section": "508",
+      "title": "UAE.SGSO ISO/IEC 19772/2011",
+      "content": "UAE.SGSO ISO/IEC 19772/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s509",
+      "section": "509",
+      "title": "Informationtechnology -- Security techniques -- Authenticated encryption",
+      "content": "Informationtechnology -- Security techniques -- Authenticated encryption",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s510",
+      "section": "510",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- مصادقةالتشفير",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- مصادقةالتشفير",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s511",
+      "section": "511",
+      "title": "UAE.SGSO ISO/IEC 2382- 26:2011",
+      "content": "UAE.SGSO ISO/IEC 2382- 26:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s512",
+      "section": "512",
+      "title": "Informationtechnology -- Vocabulary -- Part 26: Open systems interconnection",
+      "content": "Informationtechnology -- Vocabulary -- Part 26: Open systems interconnection",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s513",
+      "section": "513",
+      "title": "تكنولوجياالمعلومات --مفردات --الجزء26:ترابط النظمالمفتوحة",
+      "content": "تكنولوجياالمعلومات --مفردات --الجزء26:ترابط النظمالمفتوحة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s514",
+      "section": "514",
+      "title": "UAE.SGSO ISO/IEC 24759:2011",
+      "content": "UAE.SGSO ISO/IEC 24759:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s515",
+      "section": "515",
+      "title": "Informationtechnology -- Security techniques -- Test requirements for cryptograp",
+      "content": "Informationtechnology -- Security techniques -- Test requirements for cryptographicmodules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s516",
+      "section": "516",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- متطلباتاختبار وحداتالتشفير",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- متطلباتاختبار وحداتالتشفير",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s517",
+      "section": "517",
+      "title": "UAE.SGSO ISO 3535:2011",
+      "content": "UAE.SGSO ISO 3535:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s518",
+      "section": "518",
+      "title": "Formsdesign sheet and layout chart",
+      "content": "Formsdesign sheet and layout chart",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s519",
+      "section": "519",
+      "title": "تصميمالنماذج ورقةتخطيطالمخطط",
+      "content": "تصميمالنماذج ورقةتخطيطالمخطط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s520",
+      "section": "520",
+      "title": "UAE.SGSO ISO/IEC 14598- 1:2011",
+      "content": "UAE.SGSO ISO/IEC 14598- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s521",
+      "section": "521",
+      "title": "Informationtechnology - Software product evaluation - Part 1:General overview",
+      "content": "Informationtechnology - Software product evaluation - Part 1:General overview",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s522",
+      "section": "522",
+      "title": "تكنولوجياالمعلومات --عرض المنتجالتقييم --الجزء1:نظرة عامة",
+      "content": "تكنولوجياالمعلومات --عرض المنتجالتقييم --الجزء1:نظرة عامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s523",
+      "section": "523",
+      "title": "UAE.SGSO ISO/IEC TR 19791:2011",
+      "content": "UAE.SGSO ISO/IEC TR 19791:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s524",
+      "section": "524",
+      "title": "Informationtechnology -- Security techniques -- Security assessment of operation",
+      "content": "Informationtechnology -- Security techniques -- Security assessment of operationalsystems",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s525",
+      "section": "525",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- تقييم الأمنلنظمالتشغيل",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- تقييم الأمنلنظمالتشغيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s526",
+      "section": "526",
+      "title": "UAE.SGSO ISO/IEC 24761:2011",
+      "content": "UAE.SGSO ISO/IEC 24761:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s527",
+      "section": "527",
+      "title": "Informationtechnology -- Security techniques - Authentication context forbiometr",
+      "content": "Informationtechnology -- Security techniques - Authentication context forbiometrics",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s528",
+      "section": "528",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- مصادقة سياقالمقاييسالحيوية",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- مصادقة سياقالمقاييسالحيوية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s529",
+      "section": "529",
+      "title": "UAE.SGSO ISO/IEC 27004:2011",
+      "content": "UAE.SGSO ISO/IEC 27004:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s530",
+      "section": "530",
+      "title": "Informationtechnology -- Security techniques -- Information security management ",
+      "content": "Informationtechnology -- Security techniques -- Information security management --Measurement",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s531",
+      "section": "531",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن--ادارةأمنالمعلومات --القياس",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن--ادارةأمنالمعلومات --القياس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s532",
+      "section": "532",
+      "title": "UAE.SGSO ISO/IEC 27011:2011",
+      "content": "UAE.SGSO ISO/IEC 27011:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s533",
+      "section": "533",
+      "title": "Informationtechnology -- Security techniques -- Information security management ",
+      "content": "Informationtechnology -- Security techniques -- Information security management guidelinesfor telecommunications organizations based on ISO/IEC 27002",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s534",
+      "section": "534",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- مبادئتوجيهيةلادارةالمعلوماتالأمنيةللمنظماتال",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- مبادئتوجيهيةلادارةالمعلوماتالأمنيةللمنظماتالاتصالاتالسلكيةواللاسلكيةعلى أساس ايزو27002",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s535",
+      "section": "535",
+      "title": "UAE.SGSO ISO/IEC 5806:2011",
+      "content": "UAE.SGSO ISO/IEC 5806:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s536",
+      "section": "536",
+      "title": "Informationprocessing -- Specification of single-hit decision tables",
+      "content": "Informationprocessing -- Specification of single-hit decision tables",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s537",
+      "section": "537",
+      "title": "معالجةالمعلومات -المواصفاتالفنيةلجداولالقراراتمفردةالحالة",
+      "content": "معالجةالمعلومات -المواصفاتالفنيةلجداولالقراراتمفردةالحالة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s538",
+      "section": "538",
+      "title": "UAE.SGSO ISO/IEC 27000:2011",
+      "content": "UAE.SGSO ISO/IEC 27000:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s539",
+      "section": "539",
+      "title": "Informationtechnology -- Security techniques - Information security management s",
+      "content": "Informationtechnology -- Security techniques - Information security management systems -Overview and vocabulary",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s540",
+      "section": "540",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- نظم ادارةالمعلوماتالأمنية --الموجزوالمفردات",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- نظم ادارةالمعلوماتالأمنية --الموجزوالمفردات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s541",
+      "section": "541",
+      "title": "UAE.SGSO ISO 8807:2011",
+      "content": "UAE.SGSO ISO 8807:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s542",
+      "section": "542",
+      "title": "Informationprocessing systems -- Open Systems Interconnection -- LOTOS -- A form",
+      "content": "Informationprocessing systems -- Open Systems Interconnection -- LOTOS -- A formaldescription technique based on the temporal ordering of observationalbehaviour",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s543",
+      "section": "543",
+      "title": "نظممعالجةالمعلومات -ترابط النظمالمفتوحة -LOTOS- تقنية الوصفالرسمي علىأساس الترتي",
+      "content": "نظممعالجةالمعلومات -ترابط النظمالمفتوحة -LOTOS- تقنية الوصفالرسمي علىأساس الترتيبالزمني لسلوكالمراقبة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s544",
+      "section": "544",
+      "title": "UAE.SGSO ISO/IEC 14568:2011",
+      "content": "UAE.SGSO ISO/IEC 14568:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s545",
+      "section": "545",
+      "title": "Informationtechnology -- DXL: Diagram exchange Language for tree- structured cha",
+      "content": "Informationtechnology -- DXL: Diagram exchange Language for tree- structured charts",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s546",
+      "section": "546",
+      "title": "تكنولوجياالمعلومات --DXL:مخطط لشجرةتبادل اللغةهيكلة الرسومالبيانية",
+      "content": "تكنولوجياالمعلومات --DXL:مخطط لشجرةتبادل اللغةهيكلة الرسومالبيانية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s547",
+      "section": "547",
+      "title": "UAE.SGSO ISO/IEC 14598- 4:2011",
+      "content": "UAE.SGSO ISO/IEC 14598- 4:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s548",
+      "section": "548",
+      "title": "Softwareengineering - Product evaluation - Part 4: Process for acquirers",
+      "content": "Softwareengineering - Product evaluation - Part 4: Process for acquirers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s549",
+      "section": "549",
+      "title": "هندسةالبرمجيات --المنتجالتقييم --الجزء4:عمليةالتحصيل",
+      "content": "هندسةالبرمجيات --المنتجالتقييم --الجزء4:عمليةالتحصيل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s550",
+      "section": "550",
+      "title": "UAE.SGSO ISO/IEC 19790:2011",
+      "content": "UAE.SGSO ISO/IEC 19790:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s551",
+      "section": "551",
+      "title": "Informationtechnology -- Security techniques -- Security requirements for crypto",
+      "content": "Informationtechnology -- Security techniques -- Security requirements for cryptographicmodules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s552",
+      "section": "552",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- متطلباتالأمن لوحداتالتشفير",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- متطلباتالأمن لوحداتالتشفير",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s553",
+      "section": "553",
+      "title": "UAE.SGSO ISO/IEC 15288:2011",
+      "content": "UAE.SGSO ISO/IEC 15288:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s554",
+      "section": "554",
+      "title": "Systemsand software engineering - System life cycle processes",
+      "content": "Systemsand software engineering - System life cycle processes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s555",
+      "section": "555",
+      "title": "النظموهندسةالبرمجيات --نظام دورةحياةالعمليات",
+      "content": "النظموهندسةالبرمجيات --نظام دورةحياةالعمليات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s556",
+      "section": "556",
+      "title": "UAE.SGSO ISO/IEC 14598- 6:2011",
+      "content": "UAE.SGSO ISO/IEC 14598- 6:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s557",
+      "section": "557",
+      "title": "Softwareengineering - Product evaluation - Part 6: Documentation of evaluationmo",
+      "content": "Softwareengineering - Product evaluation - Part 6: Documentation of evaluationmodules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s558",
+      "section": "558",
+      "title": "هندسةالبرمجيات --تقييم المنتج-- الجزء6:وثائقمن وحداتالتقييم",
+      "content": "هندسةالبرمجيات --تقييم المنتج-- الجزء6:وثائقمن وحداتالتقييم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s559",
+      "section": "559",
+      "title": "UAE.SGSO ISO/IEC 21827:2011",
+      "content": "UAE.SGSO ISO/IEC 21827:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s560",
+      "section": "560",
+      "title": "Informationtechnology -- Security techniques -- Systems Security Engineering -- ",
+      "content": "Informationtechnology -- Security techniques -- Systems Security Engineering -- CapabilityMaturity Model&reg; (SSE-CMM&reg;)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s561",
+      "section": "561",
+      "title": "تكنولوجياالمعلومات --تقنيات الأمن-- هندسة أنظمةالامن -- نموذجنضج القدرة",
+      "content": "تكنولوجياالمعلومات --تقنيات الأمن-- هندسة أنظمةالامن -- نموذجنضج القدرة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s562",
+      "section": "562",
+      "title": "اللجنةالفنيةالخليجيةلمواصفاتمعدات توليدونقل وتوزيعالطاقةالكهربائية",
+      "content": "اللجنةالفنيةالخليجيةلمواصفاتمعدات توليدونقل وتوزيعالطاقةالكهربائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s563",
+      "section": "563",
+      "title": "عددمشاريعالمواصفات:8مشاريع",
+      "content": "عددمشاريعالمواصفات:8مشاريع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s564",
+      "section": "564",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s565",
+      "section": "565",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s566",
+      "section": "566",
+      "title": "UAE.SGSO IEC 61439- 2:2011",
+      "content": "UAE.SGSO IEC 61439- 2:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s567",
+      "section": "567",
+      "title": "Low-voltageswitchgear and controlgear assemblies - Part 2: Power switchgear and ",
+      "content": "Low-voltageswitchgear and controlgear assemblies - Part 2: Power switchgear and controlgearassemblies",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s568",
+      "section": "568",
+      "title": "مجموعاتالقطع والوصلوالتحكمللجهدالمنخفض -الجزء2:مجموعاتالقطع والوصلوالتحكملأنظمةا",
+      "content": "مجموعاتالقطع والوصلوالتحكمللجهدالمنخفض -الجزء2:مجموعاتالقطع والوصلوالتحكملأنظمةالقدرة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s569",
+      "section": "569",
+      "title": "UAE.SGSO IEC 61439- 5:2011",
+      "content": "UAE.SGSO IEC 61439- 5:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s570",
+      "section": "570",
+      "title": "Low-voltageswitchgear and controlgear assemblies - Part 5: Assemblies for powerd",
+      "content": "Low-voltageswitchgear and controlgear assemblies - Part 5: Assemblies for powerdistribution in public networks",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s571",
+      "section": "571",
+      "title": "مجموعاتالقطع والوصلوالتحكمللجهدالمنخفض -الجزء5:مجموعاتتوزيع القدرةفي الشبكاتالعا",
+      "content": "مجموعاتالقطع والوصلوالتحكمللجهدالمنخفض -الجزء5:مجموعاتتوزيع القدرةفي الشبكاتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s572",
+      "section": "572",
+      "title": "UAE.SGSO IEC 62271- 1:2011",
+      "content": "UAE.SGSO IEC 62271- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s573",
+      "section": "573",
+      "title": "High-voltageswitchgear and controlgear - Part 1: Common specifications",
+      "content": "High-voltageswitchgear and controlgear - Part 1: Common specifications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s574",
+      "section": "574",
+      "title": "معداتالقطع والوصلوالتحكمللجهد العالي -الجزء1:المواصفاتالعامة",
+      "content": "معداتالقطع والوصلوالتحكمللجهد العالي -الجزء1:المواصفاتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s575",
+      "section": "575",
+      "title": "UAE.SGSO IEC 62271- 102:2011",
+      "content": "UAE.SGSO IEC 62271- 102:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s576",
+      "section": "576",
+      "title": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 102 :Alternating current disconnect",
+      "content": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 102 :Alternating current disconnectors andearthing switches",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s577",
+      "section": "577",
+      "title": "معداتالوصل والفصلوالتحكمبالجهدالكهربائيالعالي - جزء102:معدات العزلوالتأريضللتيار",
+      "content": "معداتالوصل والفصلوالتحكمبالجهدالكهربائيالعالي - جزء102:معدات العزلوالتأريضللتيارالمتردد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s578",
+      "section": "578",
+      "title": "UAE.SGSO IEC 62271- 100:2011",
+      "content": "UAE.SGSO IEC 62271- 100:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s579",
+      "section": "579",
+      "title": "High-voltageswitchgear and controlgear - Part 100: Alternating current circuit-b",
+      "content": "High-voltageswitchgear and controlgear - Part 100: Alternating current circuit-breakers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s580",
+      "section": "580",
+      "title": "معداتالقطع والوصلوالتحكم ذاتالجهد العالي -الجزء رقم100:قواطع التيارالمتردد",
+      "content": "معداتالقطع والوصلوالتحكم ذاتالجهد العالي -الجزء رقم100:قواطع التيارالمتردد",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s581",
+      "section": "581",
+      "title": "UAE.SGSO IEC 62271- 101:2011",
+      "content": "UAE.SGSO IEC 62271- 101:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s582",
+      "section": "582",
+      "title": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 101 :Synthetic testing",
+      "content": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 101 :Synthetic testing",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s583",
+      "section": "583",
+      "title": "معداتالفصل والوصلوالتحكمبالجهدالكهربائيالعالي - جزء101:الفحوصاتالتمثيلية",
+      "content": "معداتالفصل والوصلوالتحكمبالجهدالكهربائيالعالي - جزء101:الفحوصاتالتمثيلية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s584",
+      "section": "584",
+      "title": "UAE.SGSO IEC 62271- 107:2011",
+      "content": "UAE.SGSO IEC 62271- 107:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s585",
+      "section": "585",
+      "title": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 107 :Alternating current fused circ",
+      "content": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 107 :Alternating current fused circuit-switchers for rated voltage above 1 KV up to and including 52 KV",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s586",
+      "section": "586",
+      "title": "معداتالفصل والوصلوالتحكمبالجهدالكهربائيالعالي - الجزء107:معدات الفصلوالوصل ذاتال",
+      "content": "معداتالفصل والوصلوالتحكمبالجهدالكهربائيالعالي - الجزء107:معدات الفصلوالوصل ذاتالمنصهراتللتيارالمترددوالجهودالمقننة اعلىمن1كيلوفولت وحتى52كيلوفولت",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s587",
+      "section": "587",
+      "title": "UAE.SGSO IEC 62271- 104:2011",
+      "content": "UAE.SGSO IEC 62271- 104:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s588",
+      "section": "588",
+      "title": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 104 :Alternating current switches f",
+      "content": "HIGH-VOLTAGESWITCHGEAR AND CONTROLGEAR- Part 104 :Alternating current switches for ratedvoltage of 52 KV and above",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s589",
+      "section": "589",
+      "title": "معداتالفصل والوصلوالتحكمبالجهدالعالي - الجزء104:معدات الفصلوالوصل ذاتالتيارالمتر",
+      "content": "معداتالفصل والوصلوالتحكمبالجهدالعالي - الجزء104:معدات الفصلوالوصل ذاتالتيارالمترددلجهود52كيلو فولت فمافوق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s590",
+      "section": "590",
+      "title": "تبنيبلغتهابالمصادقة[2]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الاختتبار\"والاصح",
+      "content": "تبنيبلغتهابالمصادقة[2]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الاختتبار\"والاصح أنتكون\"الاختبار\"،فاقتضىالتنويه.[3]وردت في النصالمنشور فيالجريدةالرسميةعبارة \"قايلةللاشتعال\"والاصح أنتكون \"قابلةللاشتعال\"،فاقتضىالتنويه.[2]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الاختتبار\"والاصح أنتكون\"الاختبار\"،فاقتضىالتنويه.[3]وردت في النصالمنشور فيالجريدةالرسميةعبارة \"قايلةللاشتعال\"والاصح أنتكون \"قابلةللاشتعال\"،فاقتضىالتنويه.[2]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الاختتبار\"والاصح أنتكون\"الاختبار\"،فاقتضىالتنويه.[3]وردت في النصالمنشور فيالجريدةالرسميةعبارة \"قايلةللاشتعال\"والاصح أنتكون \"قابلةللاشتعال\"،فاقتضىالتنويه.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s591",
+      "section": "591",
+      "title": "اللجنةالفنيةالخليجيةلقطاعمواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "content": "اللجنةالفنيةالخليجيةلقطاعمواصفاتمعدات إنتاجونقل وتوزيعالمياه",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s592",
+      "section": "592",
+      "title": "عددمشاريعالمواصفات:5مشاريع",
+      "content": "عددمشاريعالمواصفات:5مشاريع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s593",
+      "section": "593",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s594",
+      "section": "594",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s595",
+      "section": "595",
+      "title": "UAE.SGSO ISO 6553:2011",
+      "content": "UAE.SGSO ISO 6553:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s596",
+      "section": "596",
+      "title": "Automaticsteam traps -- Marking",
+      "content": "Automaticsteam traps -- Marking",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s597",
+      "section": "597",
+      "title": "محابسالبخارالآلية -البياناتالإيضاحية",
+      "content": "محابسالبخارالآلية -البياناتالإيضاحية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s598",
+      "section": "598",
+      "title": "UAE.SGSO ISO 6948:2011",
+      "content": "UAE.SGSO ISO 6948:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s599",
+      "section": "599",
+      "title": "Automaticsteam traps -- Production and performance characteristic tests",
+      "content": "Automaticsteam traps -- Production and performance characteristic tests",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s600",
+      "section": "600",
+      "title": "محابسالبخارالآلية -الاختباراتالنوعيةللأداءوالإنتاج",
+      "content": "محابسالبخارالآلية -الاختباراتالنوعيةللأداءوالإنتاج",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s601",
+      "section": "601",
+      "title": "UAE.SGSO ISO 7842:2011",
+      "content": "UAE.SGSO ISO 7842:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s602",
+      "section": "602",
+      "title": "Automaticsteam traps -- Determination of discharge capacity -- Test methods",
+      "content": "Automaticsteam traps -- Determination of discharge capacity -- Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s603",
+      "section": "603",
+      "title": "محابسالبخارالآلية - تحديدسعة التصريف -طرقالاختبار",
+      "content": "محابسالبخارالآلية - تحديدسعة التصريف -طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s604",
+      "section": "604",
+      "title": "UAE.SGSO ISO 7841:2011",
+      "content": "UAE.SGSO ISO 7841:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s605",
+      "section": "605",
+      "title": "Automaticsteam traps -- Determination of steam loss -- Test methods",
+      "content": "Automaticsteam traps -- Determination of steam loss -- Test methods",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s606",
+      "section": "606",
+      "title": "محابسالبخارالآلية - تحديدالفقد فيالبخار - طرقالاختبار",
+      "content": "محابسالبخارالآلية - تحديدالفقد فيالبخار - طرقالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s607",
+      "section": "607",
+      "title": "Automaticsteam traps -- Classification",
+      "content": "Automaticsteam traps -- Classification",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s608",
+      "section": "608",
+      "title": "محابسالبخارالآلية -التصنيف",
+      "content": "محابسالبخارالآلية -التصنيف",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s609",
+      "section": "609",
+      "title": "القائمةالثانيةبالمواصفاتالمحدثةللاعتماد منمجلس الادارةفي اجتماعه(2012/2)",
+      "content": "القائمةالثانيةبالمواصفاتالمحدثةللاعتماد منمجلس الادارةفي اجتماعه(2012/2)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s610",
+      "section": "610",
+      "title": "اجماليعددالمواصفاتالمحدثة =46",
+      "content": "اجماليعددالمواصفاتالمحدثة =46",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s611",
+      "section": "611",
+      "title": "قطاعالمنتجاتالكيميائيةوالغزلوالنسيج",
+      "content": "قطاعالمنتجاتالكيميائيةوالغزلوالنسيج",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s612",
+      "section": "612",
+      "title": "عنوانالمشروعبالانجليزي",
+      "content": "عنوانالمشروعبالانجليزي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s613",
+      "section": "613",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s614",
+      "section": "614",
+      "title": "UAE.SGSO ISO 536/2011",
+      "content": "UAE.SGSO ISO 536/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s615",
+      "section": "615",
+      "title": "PAPERAND BOARD -DETERMINATION OF GRAMMAGE",
+      "content": "PAPERAND BOARD -DETERMINATION OF GRAMMAGE",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s616",
+      "section": "616",
+      "title": "الورقوالكرتون -تقدير الوزنالأساسي -(الجرامية)",
+      "content": "الورقوالكرتون -تقدير الوزنالأساسي -(الجرامية)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s617",
+      "section": "617",
+      "title": "UAE.SGSO ISO 186/2011",
+      "content": "UAE.SGSO ISO 186/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s618",
+      "section": "618",
+      "title": "PAPERAND BOARD SAMPLING TO DETERMINE AVERAGE QUALITY",
+      "content": "PAPERAND BOARD SAMPLING TO DETERMINE AVERAGE QUALITY",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s619",
+      "section": "619",
+      "title": "الورقوالكرتون - اخذالعيناتلتقدير متوسطالجودة",
+      "content": "الورقوالكرتون - اخذالعيناتلتقدير متوسطالجودة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s620",
+      "section": "620",
+      "title": "Cosmeticproducts - Hair oils",
+      "content": "Cosmeticproducts - Hair oils",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s621",
+      "section": "621",
+      "title": "مستحضراتالتجميل - زيوتالشعر",
+      "content": "مستحضراتالتجميل - زيوتالشعر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s622",
+      "section": "622",
+      "title": "Cosmeticproducts - Method of testing hair oils",
+      "content": "Cosmeticproducts - Method of testing hair oils",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s623",
+      "section": "623",
+      "title": "مستحضراتالتجميل - طرقاختبار زيوتالشعر",
+      "content": "مستحضراتالتجميل - طرقاختبار زيوتالشعر",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s624",
+      "section": "624",
+      "title": "UAE.SGSO ISO 20345/2011",
+      "content": "UAE.SGSO ISO 20345/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s625",
+      "section": "625",
+      "title": "مستحضراتالتجميل -الكحل(الأثمد)",
+      "content": "مستحضراتالتجميل -الكحل(الأثمد)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s626",
+      "section": "626",
+      "title": "Testmethods for liquid chlorine - Determination of water content (Gravimetricmet",
+      "content": "Testmethods for liquid chlorine - Determination of water content (Gravimetricmethod)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s627",
+      "section": "627",
+      "title": "طرقاختبارالكلورالسائل: تعييننسبة الماء(طريقةالوزن)",
+      "content": "طرقاختبارالكلورالسائل: تعييننسبة الماء(طريقةالوزن)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s628",
+      "section": "628",
+      "title": "قطاعالميكانيكاوالمركباتوالإطارات",
+      "content": "قطاعالميكانيكاوالمركباتوالإطارات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s629",
+      "section": "629",
+      "title": "عنوانالمشروعبالانجليزي",
+      "content": "عنوانالمشروعبالانجليزي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s630",
+      "section": "630",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s631",
+      "section": "631",
+      "title": "UAE.SGSO ISO 4000-1/2011",
+      "content": "UAE.SGSO ISO 4000-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s632",
+      "section": "632",
+      "title": "Passengercar tyres and rims -- part 1: tyres (metric series)",
+      "content": "Passengercar tyres and rims -- part 1: tyres (metric series)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s633",
+      "section": "633",
+      "title": "إطاراتوحافات سيارةالركاب - الجزءالأول:الإطارات(سلسلةمترية)",
+      "content": "إطاراتوحافات سيارةالركاب - الجزءالأول:الإطارات(سلسلةمترية)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s634",
+      "section": "634",
+      "title": "UAE.SGSO EN 1501-1/2011",
+      "content": "UAE.SGSO EN 1501-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s635",
+      "section": "635",
+      "title": "Refusecollection vehicles and their associated lifting devices - General require",
+      "content": "Refusecollection vehicles and their associated lifting devices - General requirementsand safety requirements - Part 1: Rear-end loaded refuse collectionvehicles",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s636",
+      "section": "636",
+      "title": "مركباتجمع النفاياتوأجهزة الرفعالمرتبطة بها -المتطلباتالعامةومتطلباتالسلامة -الجز",
+      "content": "مركباتجمع النفاياتوأجهزة الرفعالمرتبطة بها -المتطلباتالعامةومتطلباتالسلامة -الجزء الأول:مركبات جمعالنفاياتبالتحميلالخلفي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s637",
+      "section": "637",
+      "title": "UAE.SGSO EN 1501-2/2011",
+      "content": "UAE.SGSO EN 1501-2/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s638",
+      "section": "638",
+      "title": "Refusecollection vehicles and associated lifting devices - General requirements ",
+      "content": "Refusecollection vehicles and associated lifting devices - General requirements andsafety requirements - Part 2: Side loaded refuse collectionvehicles",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s639",
+      "section": "639",
+      "title": "مركباتجمع النفاياتوأجهزة الرفعالمرتبطة بها -المتطلباتالعامةومتطلباتالسلامة -الجز",
+      "content": "مركباتجمع النفاياتوأجهزة الرفعالمرتبطة بها -المتطلباتالعامةومتطلباتالسلامة -الجزء الثاني:مركبات جمعالنفاياتبالتحميلالجانبي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s640",
+      "section": "640",
+      "title": "UAE.SGSO ISO 5751-1/2011",
+      "content": "UAE.SGSO ISO 5751-1/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s641",
+      "section": "641",
+      "title": "Motorcycletyres and rims (metric series) -- Part 1: Design guides",
+      "content": "Motorcycletyres and rims (metric series) -- Part 1: Design guides",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s642",
+      "section": "642",
+      "title": "إطاراتوأطواقالدراجاتالنارية(السلسلةالمترية)الجزء الأول:أدلةالتصميم",
+      "content": "إطاراتوأطواقالدراجاتالنارية(السلسلةالمترية)الجزء الأول:أدلةالتصميم",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s643",
+      "section": "643",
+      "title": "UAE.SGSO ISO 7117/2011",
+      "content": "UAE.SGSO ISO 7117/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s644",
+      "section": "644",
+      "title": "Motorcycles-- Measurement method for determining maximum speed",
+      "content": "Motorcycles-- Measurement method for determining maximum speed",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s645",
+      "section": "645",
+      "title": "الدراجاتالنارية - قياسالسرعةالقصوى",
+      "content": "الدراجاتالنارية - قياسالسرعةالقصوى",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s646",
+      "section": "646",
+      "title": "UAE.SGSO ISO 4126- 7:2011",
+      "content": "UAE.SGSO ISO 4126- 7:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s647",
+      "section": "647",
+      "title": "Safetydevices for protection against excessive pressure - Part 7: Commondata",
+      "content": "Safetydevices for protection against excessive pressure - Part 7: Commondata",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s648",
+      "section": "648",
+      "title": "أجهزةالحمايةوالسلامة منالضغوطالمرتفعة -الجزء السابع:معلوماتمشتركة",
+      "content": "أجهزةالحمايةوالسلامة منالضغوطالمرتفعة -الجزء السابع:معلوماتمشتركة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s649",
+      "section": "649",
+      "title": "UAE.SGSO ISO 16844- 1:2011",
+      "content": "UAE.SGSO ISO 16844- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s650",
+      "section": "650",
+      "title": "RoadVehicles - Tachograph Systems -",
+      "content": "RoadVehicles - Tachograph Systems -",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s651",
+      "section": "651",
+      "title": "مركباتالطرق - نظمأجهزة تسجيلبياناتالرحلة(التاكوجراف) -الجزء الأول:توصيلاتالكابلا",
+      "content": "مركباتالطرق - نظمأجهزة تسجيلبياناتالرحلة(التاكوجراف) -الجزء الأول:توصيلاتالكابلاتالكهربائية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s652",
+      "section": "652",
+      "title": "تصويبمطبعي فني أولCor1",
+      "content": "تصويبمطبعي فني أولCor1",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s653",
+      "section": "653",
+      "title": "UAE.SGSO ISO 16844- 3:2011",
+      "content": "UAE.SGSO ISO 16844- 3:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s654",
+      "section": "654",
+      "title": "RoadVehicles -Tachograph Systems -",
+      "content": "RoadVehicles -Tachograph Systems -",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s655",
+      "section": "655",
+      "title": "مركباتالطرق - نظمأجهزة تسجيلبياناتالرحلة(التاكوجراف) -الجزء الثالث:الربط بحساسال",
+      "content": "مركباتالطرق - نظمأجهزة تسجيلبياناتالرحلة(التاكوجراف) -الجزء الثالث:الربط بحساسالحركة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s656",
+      "section": "656",
+      "title": "تصويبمطبعي فني أولCor1",
+      "content": "تصويبمطبعي فني أولCor1",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s657",
+      "section": "657",
+      "title": "قطاعالمواصفاتالكهربائيةوالإلكترونية",
+      "content": "قطاعالمواصفاتالكهربائيةوالإلكترونية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s658",
+      "section": "658",
+      "title": "عددمشاريعالمواصفات:21مشروع",
+      "content": "عددمشاريعالمواصفات:21مشروع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s659",
+      "section": "659",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s660",
+      "section": "660",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s661",
+      "section": "661",
+      "title": "UAE.SGSO IEC 60745-2- 14:2011",
+      "content": "UAE.SGSO IEC 60745-2- 14:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s662",
+      "section": "662",
+      "title": "Hand- held motor operated electric tools - Safety -2 - 14 :particular requiremen",
+      "content": "Hand- held motor operated electric tools - Safety -2 - 14 :particular requirementsfor planers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s663",
+      "section": "663",
+      "title": "المعداتالكهربائيةالمحمولةوالتي تعملبالمحركات -السلامة - جزء14-2:متطلبات خاصةلأجه",
+      "content": "المعداتالكهربائيةالمحمولةوالتي تعملبالمحركات -السلامة - جزء14-2:متطلبات خاصةلأجهزة قشطالأسطح(المسحاحالالي)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s664",
+      "section": "664",
+      "title": "UAE.SGSO IEC 61347.2- 9:2011",
+      "content": "UAE.SGSO IEC 61347.2- 9:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s665",
+      "section": "665",
+      "title": "Lampcontrolgear- Part 2-9: Particular requirements for ballasts for discharge la",
+      "content": "Lampcontrolgear- Part 2-9: Particular requirements for ballasts for discharge lamps(excluding fluorescent lamps)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s666",
+      "section": "666",
+      "title": "مجموعاتالتحكمللمصابيح -الجزء9-2:المتطلباتالخاصةلكابحاتالمصابيحالتفريغية\n(لاتشملم",
+      "content": "مجموعاتالتحكمللمصابيح -الجزء9-2:المتطلباتالخاصةلكابحاتالمصابيحالتفريغية\n(لاتشملمصابيحالفلوريسنت)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s667",
+      "section": "667",
+      "title": "UAE.SGSO IEC 60335-2- 73:2011",
+      "content": "UAE.SGSO IEC 60335-2- 73:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s668",
+      "section": "668",
+      "title": "Householdand similar electrical appliances - Safety - Part 2-73: Particular requ",
+      "content": "Householdand similar electrical appliances - Safety - Part 2-73: Particular requirementsfor fixed immersion heaters",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s669",
+      "section": "669",
+      "title": "الأجهزةالكهربائيةالمنزلية وماشابهها -السلامة -الجزء73-2:المتطلباتالخاصةبالمسخنات",
+      "content": "الأجهزةالكهربائيةالمنزلية وماشابهها -السلامة -الجزء73-2:المتطلباتالخاصةبالمسخناتالمغمورةالثابتة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s670",
+      "section": "670",
+      "title": "UAE.SGSO IEC 61558-2- 8:2011",
+      "content": "UAE.SGSO IEC 61558-2- 8:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s671",
+      "section": "671",
+      "title": "Safetyof transformers, reactors, power supply units and combinations thereof - P",
+      "content": "Safetyof transformers, reactors, power supply units and combinations thereof - Part2-8: Particular requirements and tests for transformers and power supply unitsfor bells and chimes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s672",
+      "section": "672",
+      "title": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - جزء8-2:المتطلباتالخاصةلمحول",
+      "content": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - جزء8-2:المتطلباتالخاصةلمحولاتالأجراسوجهاز قرعالأجراس.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s673",
+      "section": "673",
+      "title": "UAE.SGSO IEC 60335-2- 29:2011",
+      "content": "UAE.SGSO IEC 60335-2- 29:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s674",
+      "section": "674",
+      "title": "Householdand similar electrical appliances - Safety Part 2-29 : Particular requi",
+      "content": "Householdand similar electrical appliances - Safety Part 2-29 : Particular requirementsfor battery chargers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s675",
+      "section": "675",
+      "title": "الأجهزةالكهربائيةالمنزليةوالمشابههلها - السلامة -الجزء الثاني -القسم29:المتطلبات",
+      "content": "الأجهزةالكهربائيةالمنزليةوالمشابههلها - السلامة -الجزء الثاني -القسم29:المتطلباتالخاصةلشواحنالبطاريات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s676",
+      "section": "676",
+      "title": "UAE.SGSO IEC 60335-2- 26:2011",
+      "content": "UAE.SGSO IEC 60335-2- 26:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s677",
+      "section": "677",
+      "title": "Householdand similar electrical appliances - Safety - Part 2-26: Particular requ",
+      "content": "Householdand similar electrical appliances - Safety - Part 2-26: Particular requirementsfor clocks",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s678",
+      "section": "678",
+      "title": "متطلباتالسلامةللاجهزةالكهربائيةالمستخدمة فيالاغراضالمنزليةومايشابهها- الجزء الثا",
+      "content": "متطلباتالسلامةللاجهزةالكهربائيةالمستخدمة فيالاغراضالمنزليةومايشابهها- الجزء الثانيمتطلبات خاصة -القسم رقم(26)الساعات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s679",
+      "section": "679",
+      "title": "UAE.SGSO IEC 61000-4- 15:2011",
+      "content": "UAE.SGSO IEC 61000-4- 15:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s680",
+      "section": "680",
+      "title": "Electromagneticcompatibility (EMC) - Part 4-15: Testing and measurement techniqu",
+      "content": "Electromagneticcompatibility (EMC) - Part 4-15: Testing and measurement techniques -Flickermeter - Functional and design specifications",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s681",
+      "section": "681",
+      "title": "التوافقالكهرومغناطيسي(EMC):الجزء(4):تقنياتالاختباروالقياس - قسم15:مقياسالتذبذب -",
+      "content": "التوافقالكهرومغناطيسي(EMC):الجزء(4):تقنياتالاختباروالقياس - قسم15:مقياسالتذبذب -الوظيفةومواصفاتالتصميم.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s682",
+      "section": "682",
+      "title": "UAE.SGSO IEC 61439- 1:2011",
+      "content": "UAE.SGSO IEC 61439- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s683",
+      "section": "683",
+      "title": "Low-voltageswitchgear and controlgear assemblies - Part (1) : General rules",
+      "content": "Low-voltageswitchgear and controlgear assemblies - Part (1) : General rules",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s684",
+      "section": "684",
+      "title": "مجموعاتمعدات القطعوالوصلوالتحكم ذاتالجهدالمنخفض -الجزء(1):القوانينالعامة",
+      "content": "مجموعاتمعدات القطعوالوصلوالتحكم ذاتالجهدالمنخفض -الجزء(1):القوانينالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s685",
+      "section": "685",
+      "title": "UAE.SGSO IEC 60811-4- 2:2011",
+      "content": "UAE.SGSO IEC 60811-4- 2:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s686",
+      "section": "686",
+      "title": "Insulatingand sheathing materials of electric and optical cables - Common test m",
+      "content": "Insulatingand sheathing materials of electric and optical cables - Common test methods -Part 4-2: Methods specific to polyethylene and polypropylene compounds - Tensilestrength and elongation at break after conditioning at elevated temperature -Wrapping test after conditioning at elevated temperature - Wrapping test afterthermal ageing in air - Measurement of mass increase - Long- term stability test- Test method for copper- catalyzed oxidative degradation",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s687",
+      "section": "687",
+      "title": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(4)طرق خاصةبمركبات",
+      "content": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(4)طرق خاصةبمركبات عديدالايثيلينوعديدالبروبيلينالقسم رقم(2):الاستطالةعند القطع بعدالتهيئةالمسبقة -اختبار اللفبعد التقادمالحراري فيالهواء - قياسالزيادة فيالكتلة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s688",
+      "section": "688",
+      "title": "UAE.SGSO IEC 60570:2011",
+      "content": "UAE.SGSO IEC 60570:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s689",
+      "section": "689",
+      "title": "ElectricalSupply track systems for luminaires",
+      "content": "ElectricalSupply track systems for luminaires",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s690",
+      "section": "690",
+      "title": "نظممساراتالتغذيةالكهربائيةللفوانيس",
+      "content": "نظممساراتالتغذيةالكهربائيةللفوانيس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s691",
+      "section": "691",
+      "title": "UAE.SGSO IEC 60811-4- 1:2011",
+      "content": "UAE.SGSO IEC 60811-4- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s692",
+      "section": "692",
+      "title": "Insulatingand sheathing materials of electric and optical cables - Common test m",
+      "content": "Insulatingand sheathing materials of electric and optical cables - Common test methods -Part 4-1: Methods specific to polyethylene and polypropylene compounds -Resistance to environmental stress cracking - Measurement of the melt Flow index- Carbon black and/or mineral filler content measurement in polyethylene bydirect combustion - Measurement of carbon black content by thermogravimetricanalysis (TGA) - Assessment of carbon black dispersion in polyethylene using amicroscope",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s693",
+      "section": "693",
+      "title": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(4)طرق خاصةبمركبات",
+      "content": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(4)طرق خاصةبمركبات عديدالايثيلينوعديدالبروبيلينالقسم رقم(1):مقاومة طرقخاصة بمركباتعديدالايثيلينوعديدالبروبيلينالقسمرقم(1)مقاومةالتشققالناتج عناجهاد بيئي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s694",
+      "section": "694",
+      "title": "UAE.SGSO IEC 60060- 1:2011",
+      "content": "UAE.SGSO IEC 60060- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s695",
+      "section": "695",
+      "title": "High-voltagetest techniques - Part 1: General definitions and test requirements",
+      "content": "High-voltagetest techniques - Part 1: General definitions and test requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s696",
+      "section": "696",
+      "title": "تقنياتاختبار الجهدالعالي - الجزء1:التعاريفوالمتطلباتالعامةاختبار",
+      "content": "تقنياتاختبار الجهدالعالي - الجزء1:التعاريفوالمتطلباتالعامةاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s697",
+      "section": "697",
+      "title": "UAE.SGSO IEC 60811-5- 1:2011",
+      "content": "UAE.SGSO IEC 60811-5- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s698",
+      "section": "698",
+      "title": "Commontest methods for insulating and sheathing materials of electrical cables -",
+      "content": "Commontest methods for insulating and sheathing materials of electrical cables - Part5: Methods specific to filling compounds - Section 1: Drop point- Separation ofoil - Lower temperature brittleness - Total acid number - Absence of corrosivecomponents - Permittivity at 23 °C - D.C. resistivity at 23 °C and 100°C",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s699",
+      "section": "699",
+      "title": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(5)طرق خاصةبمركبات",
+      "content": "طرقالاختبارالعامة لموادعزل وتغليفالكابلاتالكهربائية -الجزء رقم(5)طرق خاصةبمركباتالملء القسمرقم(1):منقط التسييل(التنقيط) - فصلالزيت -الهشاشة عنددرجة حرارةمنخفضة - العددالحمضي الكلي -الخلو منالمركباتالحاتة(المسببةللتآكل)السماحيةعند23سو100س",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s700",
+      "section": "700",
+      "title": "UAE.SGSO IEC 60923:2011",
+      "content": "UAE.SGSO IEC 60923:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s701",
+      "section": "701",
+      "title": "Auxiliariesfor lamps - Ballasts for discharge lamps (excluding tubular fluoresce",
+      "content": "Auxiliariesfor lamps - Ballasts for discharge lamps (excluding tubular fluorescent lamps) -Performance requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s702",
+      "section": "702",
+      "title": "متطلباتاضافيةلمجموعةمفاتيحالتشغيلوالتحكمالمغلقة ذاتالجهد من1كف حتى72.5ك.فالمستخد",
+      "content": "متطلباتاضافيةلمجموعةمفاتيحالتشغيلوالتحكمالمغلقة ذاتالجهد من1كف حتى72.5ك.فالمستخدمة فيالظروفالمناخيةالقياسية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s703",
+      "section": "703",
+      "title": "UAE.SGSO IEC 61558-2- 5:2011",
+      "content": "UAE.SGSO IEC 61558-2- 5:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s704",
+      "section": "704",
+      "title": "Safetyof transformers, reactors. power supply units and combinations thereof - P",
+      "content": "Safetyof transformers, reactors. power supply units and combinations thereof - Part2-5: Particular requirements and test for transformer for shavers, power supplyunits for shavers and shaver supply units",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s705",
+      "section": "705",
+      "title": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - الجزء5-2:المتطلباتالخاصةلمح",
+      "content": "السلامةلمحولاتالقدرة،وحداتالتغذيةبالطاقة وماشابهها - الجزء5-2:المتطلباتالخاصةلمحولاتالحلاقةووحدات تغذيةماكيناتالحلاقة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s706",
+      "section": "706",
+      "title": "UAE.SGSO IEC 60335-2- 59:2011",
+      "content": "UAE.SGSO IEC 60335-2- 59:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s707",
+      "section": "707",
+      "title": "Householdand similar electrical appliances - Safety - Part 2-59: Particular requ",
+      "content": "Householdand similar electrical appliances - Safety - Part 2-59: Particular requirementsfor insect killers",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s708",
+      "section": "708",
+      "title": "الأجهزةالكهربائيةالمنزلية -السلامة -الجزء59-2:المتطلباتالخاصةبمصائدالحشرات",
+      "content": "الأجهزةالكهربائيةالمنزلية -السلامة -الجزء59-2:المتطلباتالخاصةبمصائدالحشرات",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s709",
+      "section": "709",
+      "title": "UAE.SGSO IEC 61010- 1:2011",
+      "content": "UAE.SGSO IEC 61010- 1:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s710",
+      "section": "710",
+      "title": "Safetyrequirements for electrical equipment for measurement, control, and labora",
+      "content": "Safetyrequirements for electrical equipment for measurement, control, and laboratoryuse - Part 1:General requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s711",
+      "section": "711",
+      "title": "متطلباتالسلامةللمعداتالكهربائيةالخاصةبالقياسوالتحكموالاستخدامالمعملي -الجزء1:الم",
+      "content": "متطلباتالسلامةللمعداتالكهربائيةالخاصةبالقياسوالتحكموالاستخدامالمعملي -الجزء1:المتطلباتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s712",
+      "section": "712",
+      "title": "UAE.SGSO IEC 61000-4- 20:2011",
+      "content": "UAE.SGSO IEC 61000-4- 20:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s713",
+      "section": "713",
+      "title": "Electromagneticcompatibility(EMC) - Part 4-20: Testing and measurement technique",
+      "content": "Electromagneticcompatibility(EMC) - Part 4-20: Testing and measurement techniques - Emission and immunitytesting in transverse electromagnetic (TEM) waveguides",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s714",
+      "section": "714",
+      "title": "التوافقالكهرومغناطيسي(EMC)- الجزء20-4:تقنياتالاختباروالقياس -اختبارالانبعاثوالمن",
+      "content": "التوافقالكهرومغناطيسي(EMC)- الجزء20-4:تقنياتالاختباروالقياس -اختبارالانبعاثوالمناعة فيالأدلةالموجيةالكهرومغناطيسية(TEM)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s715",
+      "section": "715",
+      "title": "UAE.SGSO IEC 60127- 2:2011",
+      "content": "UAE.SGSO IEC 60127- 2:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s716",
+      "section": "716",
+      "title": "Miniaturefuses - Part 2: Cartridge fuse- links",
+      "content": "Miniaturefuses - Part 2: Cartridge fuse- links",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s717",
+      "section": "717",
+      "title": "القواطعالكهربائيةالمصغرة -الجزء الثاني:وصلاتالمصاهرالخرطوشية",
+      "content": "القواطعالكهربائيةالمصغرة -الجزء الثاني:وصلاتالمصاهرالخرطوشية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s718",
+      "section": "718",
+      "title": "UAE.SGSO IEC 60311:2011",
+      "content": "UAE.SGSO IEC 60311:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s719",
+      "section": "719",
+      "title": "Electricirons for household or similar use - Methods for measuringperformance",
+      "content": "Electricirons for household or similar use - Methods for measuringperformance",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s720",
+      "section": "720",
+      "title": "المكاويالكهربائيةللاستخداماتالمنزلية ومايشابهها - طرققياسالأداء",
+      "content": "المكاويالكهربائيةللاستخداماتالمنزلية ومايشابهها - طرققياسالأداء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s721",
+      "section": "721",
+      "title": "UAE.SGSO IEC 60335-2- 74.2011",
+      "content": "UAE.SGSO IEC 60335-2- 74.2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s722",
+      "section": "722",
+      "title": "Householdand similar electrical appliances - Safety - Part 2-74: Particular requ",
+      "content": "Householdand similar electrical appliances - Safety - Part 2-74: Particular requirementsfor portable immersion heaters",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s723",
+      "section": "723",
+      "title": "الأجهزةالكهربائيةالمنزلية ومايشابهها -السلامة -الجزء74-2:المتطلباتالخاصةبالمسخنا",
+      "content": "الأجهزةالكهربائيةالمنزلية ومايشابهها -السلامة -الجزء74-2:المتطلباتالخاصةبالمسخناتالمغمورةالمحمولة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s724",
+      "section": "724",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s725",
+      "section": "725",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s726",
+      "section": "726",
+      "title": "UAE.SGSO OIML R 107:2011",
+      "content": "UAE.SGSO OIML R 107:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s727",
+      "section": "727",
+      "title": "Discountinuestotalizating automatic weighing totalizing hopper weiehers Part 1&2",
+      "content": "Discountinuestotalizating automatic weighing totalizing hopper weiehers Part 1&2:Metrological and technical requirment test & Test report format",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s728",
+      "section": "728",
+      "title": "أجهزةالوزنالتلقائيةالتجمعية غيرالمستمرة(موازينقادوسيةتجمعية) الجزء1و2- المتطلبات",
+      "content": "أجهزةالوزنالتلقائيةالتجمعية غيرالمستمرة(موازينقادوسيةتجمعية) الجزء1و2- المتطلباتالقياسيةوالفنية -الاختباراتونموذج تقريرالاختبار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s729",
+      "section": "729",
+      "title": "قطاعالمنتجاتالغذائيةالزراعية",
+      "content": "قطاعالمنتجاتالغذائيةالزراعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s730",
+      "section": "730",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s731",
+      "section": "731",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s732",
+      "section": "732",
+      "title": "UAE.S GSO ISO 5519/2011",
+      "content": "UAE.S GSO ISO 5519/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s733",
+      "section": "733",
+      "title": "Fruits,vegetables and derived products - Determination of sorbic acidcontent",
+      "content": "Fruits,vegetables and derived products - Determination of sorbic acidcontent",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s734",
+      "section": "734",
+      "title": "الفاكهةوالخضروالمنتجاتالمشتقة منها -تقدير محتوىحمضالسوربيك",
+      "content": "الفاكهةوالخضروالمنتجاتالمشتقة منها -تقدير محتوىحمضالسوربيك",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s735",
+      "section": "735",
+      "title": "UAE.SGSO ISO 5518/2011",
+      "content": "UAE.SGSO ISO 5518/2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s736",
+      "section": "736",
+      "title": "Fruits,vegetable and derived products-Determinationof benzoic acid content- Spec",
+      "content": "Fruits,vegetable and derived products-Determinationof benzoic acid content- Spectroph- otometric method",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s737",
+      "section": "737",
+      "title": "الفاكهةوالخضروالمنتجاتالمشتقة منها -تقدير محتوىحمض البنزويك -طريقة القياسالطيفيا",
+      "content": "الفاكهةوالخضروالمنتجاتالمشتقة منها -تقدير محتوىحمض البنزويك -طريقة القياسالطيفيالضوئي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s738",
+      "section": "738",
+      "title": "UAE.SGSO CAC RCP 57:2011",
+      "content": "UAE.SGSO CAC RCP 57:2011",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s739",
+      "section": "739",
+      "title": "Codeof hygienic practice for milk and milk products",
+      "content": "Codeof hygienic practice for milk and milk products",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s740",
+      "section": "740",
+      "title": "الدستورالعملي الصحيللحليبومنتجاته",
+      "content": "الدستورالعملي الصحيللحليبومنتجاته",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s741",
+      "section": "741",
+      "title": "قطاعالتشييدوموادالبناء",
+      "content": "قطاعالتشييدوموادالبناء",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s742",
+      "section": "742",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s743",
+      "section": "743",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s744",
+      "section": "744",
+      "title": "determinationof flakiness index",
+      "content": "determinationof flakiness index",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s745",
+      "section": "745",
+      "title": "طريقةتعيين معاملالترقق",
+      "content": "طريقةتعيين معاملالترقق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s746",
+      "section": "746",
+      "title": "Determnationof coarse aggregates resistance to abrasion by Los Angeles machine",
+      "content": "Determnationof coarse aggregates resistance to abrasion by Los Angeles machine",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s747",
+      "section": "747",
+      "title": "تعيينمقاومةالركام الخشنللبري والصدمباستخدامجهاز لوسانجلوس",
+      "content": "تعيينمقاومةالركام الخشنللبري والصدمباستخدامجهاز لوسانجلوس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s748",
+      "section": "748",
+      "title": "Determinationof clay lumps and friable particles in aggregates",
+      "content": "Determinationof clay lumps and friable particles in aggregates",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s749",
+      "section": "749",
+      "title": "تعيينكتل الطينوالمواد سهلةالتفتت فيالركام",
+      "content": "تعيينكتل الطينوالمواد سهلةالتفتت فيالركام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s750",
+      "section": "750",
+      "title": "قطاعمواصفاتصناعة النفطوالغاز",
+      "content": "قطاعمواصفاتصناعة النفطوالغاز",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s751",
+      "section": "751",
+      "title": "عنوانالمشروعباللغةالانجليزية",
+      "content": "عنوانالمشروعباللغةالانجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s752",
+      "section": "752",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s753",
+      "section": "753",
+      "title": "TestMethod to Water Separability of Petroleum Oils and Synthetic Fluids",
+      "content": "TestMethod to Water Separability of Petroleum Oils and Synthetic Fluids",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s754",
+      "section": "754",
+      "title": "طريقةاختبار فصلالمياه عنالزيوتالبتروليةوالسوائلالصناعية",
+      "content": "طريقةاختبار فصلالمياه عنالزيوتالبتروليةوالسوائلالصناعية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s755",
+      "section": "755",
+      "title": "Methodof testing crude oil and petroleum products-standard test method for cloud",
+      "content": "Methodof testing crude oil and petroleum products-standard test method for cloud pointof petroleum oils.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s756",
+      "section": "756",
+      "title": "طرقاختبار النفطالخاموالمنتجاتالبترولية:تعيين درجةالتفيشللزيوتالبترولية",
+      "content": "طرقاختبار النفطالخاموالمنتجاتالبترولية:تعيين درجةالتفيشللزيوتالبترولية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s757",
+      "section": "757",
+      "title": "GulfGuide of Standard Specifications for Diesel (Gas Oil)",
+      "content": "GulfGuide of Standard Specifications for Diesel (Gas Oil)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s758",
+      "section": "758",
+      "title": "الدليلالخليجيلمواصفاتوخصائصالديزل (زيتالغاز)",
+      "content": "الدليلالخليجيلمواصفاتوخصائصالديزل (زيتالغاز)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s759",
+      "section": "759",
+      "title": "تحديث[4]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"البوبيلين\"والاصح أنتكون\"البروب",
+      "content": "تحديث[4]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"البوبيلين\"والاصح أنتكون\"البروبيلين\"،فاقتضىالتنويه.[5]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"compatiility\"والاصح أنتكون\"compatibility\"،فاقتضىالتنويه.[6]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الكهرمغناطيسية\" والاصح أنتكون\"الكهرومغناطيسية\"، فاقتضىالتنويه.[7]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"Detrmination\"والاصح أنتكون\"Determination\"،فاقتضىالتنويه.[4]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"البوبيلين\"والاصح أنتكون\"البروبيلين\"،فاقتضىالتنويه.[5]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"compatiility\"والاصح أنتكون\"compatibility\"،فاقتضىالتنويه.[6]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الكهرمغناطيسية\" والاصح أنتكون\"الكهرومغناطيسية\"، فاقتضىالتنويه.[7]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"Detrmination\"والاصح أنتكون\"Determination\"،فاقتضىالتنويه.[4]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"البوبيلين\"والاصح أنتكون\"البروبيلين\"،فاقتضىالتنويه.[5]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"compatiility\"والاصح أنتكون\"compatibility\"،فاقتضىالتنويه.[6]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الكهرمغناطيسية\" والاصح أنتكون\"الكهرومغناطيسية\"، فاقتضىالتنويه.[7]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"Detrmination\"والاصح أنتكون\"Determination\"،فاقتضىالتنويه.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s760",
+      "section": "760",
+      "title": "[1]لميرد التاريخالهجري لهذاالقرار فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.",
+      "content": "[1]لميرد التاريخالهجري لهذاالقرار فيالنص المنشورفي الجريدةالرسمية،فاقتضىالتنويه.[2]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الاختتبار\"والاصح أنتكون\"الاختبار\"،فاقتضىالتنويه.[3]وردت في النصالمنشور فيالجريدةالرسميةعبارة \"قايلةللاشتعال\"والاصح أنتكون \"قابلةللاشتعال\"،فاقتضىالتنويه.[4]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"البوبيلين\"والاصح أنتكون\"البروبيلين\"،فاقتضىالتنويه.[5]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"compatiility\"والاصح أنتكون\"compatibility\"،فاقتضىالتنويه.[6]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"الكهرمغناطيسية\" والاصح أنتكون\"الكهرومغناطيسية\"، فاقتضىالتنويه.[7]وردت في النصالمنشور فيالجريدةالرسمية كلمة\"Detrmination\"والاصح أنتكون\"Determination\"،فاقتضىالتنويه.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

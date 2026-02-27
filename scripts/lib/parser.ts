@@ -1,20 +1,19 @@
 /**
- * HTML parser for UAE legislation from three sources.
+ * HTML parser for UAE legislation from elaws.moj.gov.ae and free zone sources.
  *
- * Federal laws (moj.gov.ae):
- *   - Arabic and English versions available
- *   - Articles marked with "المادة" (Arabic) or "Article" (English)
- *   - Document ID format: fdl-{number}-{year} (Federal Decree-Law),
- *     fl-{number}-{year} (Federal Law), cd-{number}-{year} (Cabinet Decision)
+ * elaws.moj.gov.ae federal laws:
+ *   - Arabic text with HTML entities (&#1605; etc.)
+ *   - Articles marked with المادة (Article) after entity decoding
+ *   - Anchors: <a name="AnchorN"> for structural navigation
+ *   - CSS classes encode Arabic section names (x__XXXX_ patterns)
+ *   - Document structure: decree header, preamble, chapters/parts, articles
  *
  * DIFC laws (difclaws.com):
  *   - English only, common law format
  *   - Articles/sections numbered conventionally
- *   - Document ID format: difc-law-{number}-{year}
  *
  * ADGM regulations (adgm.com):
  *   - English only, regulation/rule numbering
- *   - Document ID format: adgm-{type}-{year} (e.g., adgm-dpr-2021)
  */
 
 export interface ParsedDocument {
@@ -49,26 +48,42 @@ export interface ParsedDefinition {
   source_provision?: string;
 }
 
+// ============================================================
+// HTML entity decoding and text cleanup
+// ============================================================
+
+/** Named HTML entities */
+const NAMED_ENTITIES: Record<string, string> = {
+  '&nbsp;': ' ', '&#xA0;': ' ', '&#160;': ' ',
+  '&amp;': '&', '&lt;': '<', '&gt;': '>',
+  '&quot;': '"', '&#39;': "'",
+  '&#8212;': '\u2014', '&#8217;': '\u2019',
+  '&#8220;': '\u201C', '&#8221;': '\u201D',
+};
+
 /**
- * Decode HTML entities and strip tags, collapsing whitespace.
+ * Decode all HTML entities (named and numeric) to Unicode characters.
+ */
+function decodeEntities(html: string): string {
+  // Decode named entities
+  let result = html;
+  for (const [entity, char] of Object.entries(NAMED_ENTITIES)) {
+    result = result.replaceAll(entity, char);
+  }
+  // Decode numeric entities: &#NNNN; and &#xHHHH;
+  result = result.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(parseInt(code, 10)));
+  result = result.replace(/&#x([0-9a-fA-F]+);/g, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+  return result;
+}
+
+/**
+ * Strip HTML tags, decode entities, and normalize whitespace.
  * Preserves Arabic characters and diacritics.
  */
 function stripHtml(html: string): string {
-  return html
+  return decodeEntities(html)
     .replace(/<br\s*\/?>/gi, '\n')
     .replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ')
-    .replace(/&#xA0;/g, ' ')
-    .replace(/&#160;/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&#8212;/g, '\u2014')
-    .replace(/&#8217;/g, '\u2019')
-    .replace(/&#8220;/g, '\u201C')
-    .replace(/&#8221;/g, '\u201D')
     .replace(/\u200B/g, '')
     .replace(/[ \t]+/g, ' ')
     .replace(/\n\s*\n/g, '\n')
@@ -77,7 +92,7 @@ function stripHtml(html: string): string {
 }
 
 // ============================================================
-// Federal Law Parser
+// elaws.moj.gov.ae Federal Law Parser
 // ============================================================
 
 export interface FederalLawEntry {
@@ -85,7 +100,7 @@ export interface FederalLawEntry {
   title: string;
   titleEn: string;
   shortName: string;
-  type: 'fdl' | 'fl' | 'cd';
+  type: 'fdl' | 'fl' | 'cd' | 'decree' | 'cabinet' | 'ministerial' | 'other';
   number: number;
   year: number;
   status: 'in_force' | 'amended' | 'repealed' | 'not_yet_in_force';
@@ -95,43 +110,75 @@ export interface FederalLawEntry {
 }
 
 /**
- * Parse provisions from federal law HTML content.
- * Federal laws use "المادة" (Article in Arabic) and "Article" in English.
+ * Classify an Arabic law type string into an internal type code.
  */
-export function parseFederalLawHtml(
+export function classifyLawType(arabicType: string): FederalLawEntry['type'] {
+  const t = arabicType.trim();
+  if (/مرسوم بقانون اتحادي/.test(t)) return 'fdl';   // Federal Decree-Law
+  if (/قانون اتحادي/.test(t)) return 'fl';            // Federal Law
+  if (/مرسوم اتحادي/.test(t)) return 'decree';        // Federal Decree
+  if (/قرار مجلس الوزراء/.test(t)) return 'cabinet';   // Cabinet Decision
+  if (/قرار وزاري/.test(t)) return 'ministerial';      // Ministerial Decision
+  if (/قرار/.test(t)) return 'cd';                     // Decision (generic)
+  return 'other';
+}
+
+/**
+ * Generate a simple English translation of the law type + number + year.
+ */
+export function generateTitleEn(arabicType: string, number: number, year: number): string {
+  const t = arabicType.trim();
+  if (/مرسوم بقانون اتحادي/.test(t)) return `Federal Decree-Law No. ${number} of ${year}`;
+  if (/قانون اتحادي/.test(t)) return `Federal Law No. ${number} of ${year}`;
+  if (/مرسوم اتحادي/.test(t)) return `Federal Decree No. ${number} of ${year}`;
+  if (/قرار مجلس الوزراء/.test(t)) return `Cabinet Decision No. ${number} of ${year}`;
+  if (/قرار وزاري/.test(t)) return `Ministerial Decision No. ${number} of ${year}`;
+  if (/تعميم/.test(t)) return `Circular No. ${number} of ${year}`;
+  if (/لائحة/.test(t)) return `Regulation No. ${number} of ${year}`;
+  if (/نظام/.test(t)) return `System/Bylaw No. ${number} of ${year}`;
+  if (/دستور/.test(t)) return `Constitution of the UAE`;
+  return `Decision No. ${number} of ${year}`;
+}
+
+/**
+ * Parse provisions from elaws.moj.gov.ae HTML content.
+ * The HTML uses CSS class names for structural elements and Arabic text.
+ * Articles are marked with المادة (after entity decoding).
+ */
+export function parseElawsHtml(
   html: string,
   law: FederalLawEntry,
 ): ParsedDocument {
   const provisions: ParsedProvision[] = [];
   const definitions: ParsedDefinition[] = [];
-  let currentChapter = '';
+
+  // First, decode all entities in the full HTML for regex matching
+  const decoded = decodeEntities(html);
 
   // Detect language from content
-  const isArabic = /المادة/.test(html);
+  const isArabic = /المادة/.test(decoded) || /\p{Script=Arabic}/u.test(decoded);
   const language = isArabic ? 'ar' : 'en';
 
-  // Extract chapters/parts: common patterns in UAE federal law HTML
-  const chapterPattern = isArabic
-    ? /(?:الباب|الفصل)\s+([\u0600-\u06FF\s]+)/g
-    : /(?:Chapter|Part)\s+(\d+[A-Za-z]*)\s*[-–:]\s*(.+?)(?=<|$)/gi;
+  let currentChapter = '';
 
-  // Extract articles
-  const articlePattern = isArabic
-    ? /المادة\s*\(?\s*(\d+)\s*\)?\s*([\s\S]*?)(?=المادة\s*\(?\s*\d+|$)/g
-    : /Article\s*\(?\s*(\d+)\s*\)?\s*([\s\S]*?)(?=Article\s*\(?\s*\d+|$)/g;
+  // Extract chapter/part markers from decoded text
+  // Common patterns: الباب (Part), الفصل (Chapter)
+  const chapterPattern = /(?:الباب|الفصل)\s+([\u0600-\u06FF\s\d]+?)(?=<|المادة|\n)/g;
+
+  // Extract articles: المادة followed by article number in Arabic or Latin digits
+  // The elaws format has articles in <div> blocks with Anchor references
+  const articlePattern = /المادة\s*\(?\s*(\d+)\s*\)?\s*([\s\S]*?)(?=المادة\s*\(?\s*\d+|<\/body>|$)/g;
 
   let articleMatch: RegExpExecArray | null;
-  while ((articleMatch = articlePattern.exec(html)) !== null) {
+  while ((articleMatch = articlePattern.exec(decoded)) !== null) {
     const articleNum = articleMatch[1];
     const rawContent = articleMatch[2];
 
     // Update current chapter from content before this article
-    const beforeArticle = html.substring(0, articleMatch.index);
+    const beforeArticle = decoded.substring(0, articleMatch.index);
     let lastChapter: RegExpExecArray | null = null;
     let chapMatch: RegExpExecArray | null;
-    const chapterScan = isArabic
-      ? /(?:الباب|الفصل)\s+([\u0600-\u06FF\s]+)/g
-      : /(?:Chapter|Part)\s+(\d+[A-Za-z]*)\s*[-–:]\s*(.+?)(?=<|$)/gi;
+    const chapterScan = /(?:الباب|الفصل)\s+([\u0600-\u06FF\s\d]+?)(?=<|المادة|\n)/g;
     while ((chapMatch = chapterScan.exec(beforeArticle)) !== null) {
       lastChapter = chapMatch;
     }
@@ -139,11 +186,9 @@ export function parseFederalLawHtml(
       currentChapter = stripHtml(lastChapter[0]).trim();
     }
 
-    // Extract title: first line or bold text within the article content
-    const titleMatch = rawContent.match(isArabic
-      ? /<[^>]*>([^<]*)<\/[^>]*>/
-      : /<(?:strong|b|h\d)[^>]*>([^<]+)<\/(?:strong|b|h\d)>/i
-    );
+    // Extract title: content between المادة N) and the first paragraph break or div
+    // Often the first bold text or first line after the article reference
+    const titleMatch = rawContent.match(/<[^>]*>([^<]{3,80})<\/[^>]*>/);
     const title = titleMatch ? stripHtml(titleMatch[1]).trim() : '';
 
     const content = stripHtml(rawContent);
@@ -159,20 +204,20 @@ export function parseFederalLawHtml(
       });
     }
 
-    // Extract definitions from articles typically labeled "Definitions" or "تعريفات"
-    if (isArabic ? /تعريفات|تعاريف/.test(rawContent) : /\bdefinitions?\b/i.test(rawContent)) {
-      const defPattern = isArabic
-        ? /["\u201C]([^"\u201D]+)["\u201D]\s*[:：]\s*([^.]+\.)/g
-        : /["\u201C]([^"\u201D]+)["\u201D]\s*(?:means?|includes?|has the meaning)\s+([\s\S]*?)(?=["\u201C]|$)/gi;
+    // Extract definitions from articles labeled تعريفات (Definitions) or containing definition patterns
+    if (/تعريفات|تعاريف|التعريفات/.test(rawContent) || /\bdefinitions?\b/i.test(rawContent)) {
+      // Arabic definition pattern: "term": definition ending with period
+      const defPattern = /["\u201C]([^"\u201D]{2,60})["\u201D]\s*[:：]\s*([^.]{5,}\.)/g;
 
       let defMatch: RegExpExecArray | null;
-      while ((defMatch = defPattern.exec(rawContent)) !== null) {
-        const term = stripHtml(defMatch[1]).trim();
-        const definition = stripHtml(defMatch[2]).trim();
+      const defContent = stripHtml(rawContent);
+      while ((defMatch = defPattern.exec(defContent)) !== null) {
+        const term = defMatch[1].trim();
+        const definition = defMatch[2].trim();
         if (term && definition.length > 3) {
           definitions.push({
             term,
-            definition: `\u201C${term}\u201D ${definition}`.substring(0, 4000),
+            definition: `\u201C${term}\u201D: ${definition}`.substring(0, 4000),
             source_provision: `art${articleNum}`,
           });
         }
@@ -180,7 +225,54 @@ export function parseFederalLawHtml(
     }
   }
 
-  // Deduplicate provisions by provision_ref
+  // If no articles found with المادة, try English Article pattern
+  if (provisions.length === 0) {
+    const enArticlePattern = /Article\s*\(?\s*(\d+)\s*\)?\s*([\s\S]*?)(?=Article\s*\(?\s*\d+|<\/body>|$)/gi;
+    let enMatch: RegExpExecArray | null;
+    while ((enMatch = enArticlePattern.exec(decoded)) !== null) {
+      const articleNum = enMatch[1];
+      const rawContent = enMatch[2];
+
+      const titleMatch = rawContent.match(/<(?:strong|b|h\d)[^>]*>([^<]+)<\/(?:strong|b|h\d)>/i);
+      const title = titleMatch ? stripHtml(titleMatch[1]).trim() : '';
+
+      const content = stripHtml(rawContent);
+
+      if (content.length > 5) {
+        provisions.push({
+          provision_ref: `art${articleNum}`,
+          section: articleNum,
+          title,
+          content: content.substring(0, 12000),
+          language: 'en',
+        });
+      }
+    }
+  }
+
+  // If still no provisions, try to extract any structural content via Anchor divs
+  if (provisions.length === 0) {
+    // Fall back: extract content by div blocks with Anchors
+    const anchorPattern = /<a\s+name="Anchor(\d+)"[^>]*><\/a>\s*([\s\S]*?)(?=<a\s+name="Anchor|<\/body>|$)/gi;
+    let anchorMatch: RegExpExecArray | null;
+    let secNum = 0;
+    while ((anchorMatch = anchorPattern.exec(decoded)) !== null) {
+      const rawContent = anchorMatch[2];
+      const content = stripHtml(rawContent);
+      if (content.length > 20) {
+        secNum++;
+        provisions.push({
+          provision_ref: `s${secNum}`,
+          section: String(secNum),
+          title: content.substring(0, 80),
+          content: content.substring(0, 12000),
+          language,
+        });
+      }
+    }
+  }
+
+  // Deduplicate provisions by provision_ref (keep longest content)
   const byRef = new Map<string, ParsedProvision>();
   for (const prov of provisions) {
     const existing = byRef.get(prov.provision_ref);
@@ -198,13 +290,6 @@ export function parseFederalLawHtml(
     }
   }
 
-  // Extract description from long title or preamble
-  const descMatch = html.match(isArabic
-    ? /<[^>]*class="[^"]*(?:long-title|preamble)[^"]*"[^>]*>([\s\S]*?)<\/[^>]+>/i
-    : /<[^>]*class="[^"]*(?:long-title|preamble|subtitle)[^"]*"[^>]*>([\s\S]*?)<\/[^>]+>/i
-  );
-  const description = descMatch ? stripHtml(descMatch[1]) : undefined;
-
   return {
     id: law.id,
     type: 'statute',
@@ -215,12 +300,27 @@ export function parseFederalLawHtml(
     issued_date: law.issuedDate,
     in_force_date: law.inForceDate,
     url: law.url,
-    description,
     legal_zone: 'federal',
     language,
     provisions: Array.from(byRef.values()),
     definitions: Array.from(byTerm.values()),
   };
+}
+
+// ============================================================
+// Legacy Federal Law Parser (kept for compatibility)
+// ============================================================
+
+/**
+ * Parse provisions from federal law HTML content.
+ * This is the legacy parser for moj.gov.ae (non-elaws) content.
+ */
+export function parseFederalLawHtml(
+  html: string,
+  law: FederalLawEntry,
+): ParsedDocument {
+  // Delegate to the new elaws parser which handles both formats
+  return parseElawsHtml(html, law);
 }
 
 // ============================================================
@@ -251,7 +351,6 @@ export function parseDifcLawHtml(
   const definitions: ParsedDefinition[] = [];
   let currentChapter = '';
 
-  // Extract articles/sections: DIFC uses "Article N" format
   const articlePattern = /(?:Article|Section)\s*(\d+[A-Za-z]*)\s*([\s\S]*?)(?=(?:Article|Section)\s*\d+[A-Za-z]*|$)/gi;
 
   let articleMatch: RegExpExecArray | null;
@@ -259,9 +358,8 @@ export function parseDifcLawHtml(
     const articleNum = articleMatch[1];
     const rawContent = articleMatch[2];
 
-    // Update chapter tracking
     const beforeArticle = html.substring(0, articleMatch.index);
-    const chapPattern = /(?:Part|Chapter)\s+(\d+[A-Za-z]*)\s*[-–:]\s*(.+?)(?=<|$)/gi;
+    const chapPattern = /(?:Part|Chapter)\s+(\d+[A-Za-z]*)\s*[-\u2013:]\s*(.+?)(?=<|$)/gi;
     let lastChap: RegExpExecArray | null = null;
     let cm: RegExpExecArray | null;
     while ((cm = chapPattern.exec(beforeArticle)) !== null) {
@@ -287,7 +385,6 @@ export function parseDifcLawHtml(
       });
     }
 
-    // Extract definitions
     if (/\bdefinitions?\b/i.test(rawContent)) {
       const defPattern = /["\u201C]([^"\u201D]+)["\u201D]\s*(?:means?|includes?|has the meaning)\s+([\s\S]*?)(?=["\u201C]|$)/gi;
       let defMatch: RegExpExecArray | null;
@@ -305,7 +402,6 @@ export function parseDifcLawHtml(
     }
   }
 
-  // Deduplicate
   const byRef = new Map<string, ParsedProvision>();
   for (const prov of provisions) {
     const existing = byRef.get(prov.provision_ref);
@@ -367,7 +463,6 @@ export function parseAdgmRegulationHtml(
   const definitions: ParsedDefinition[] = [];
   let currentChapter = '';
 
-  // Extract sections/rules: ADGM uses "Section N" or "Rule N" format
   const sectionPattern = /(?:Section|Rule|Regulation)\s*(\d+[A-Za-z]*)\s*([\s\S]*?)(?=(?:Section|Rule|Regulation)\s*\d+[A-Za-z]*|$)/gi;
 
   let sectionMatch: RegExpExecArray | null;
@@ -375,9 +470,8 @@ export function parseAdgmRegulationHtml(
     const sectionNum = sectionMatch[1];
     const rawContent = sectionMatch[2];
 
-    // Update chapter tracking
     const beforeSection = html.substring(0, sectionMatch.index);
-    const chapPattern = /(?:Part|Chapter|Division)\s+(\d+[A-Za-z]*)\s*[-–:]\s*(.+?)(?=<|$)/gi;
+    const chapPattern = /(?:Part|Chapter|Division)\s+(\d+[A-Za-z]*)\s*[-\u2013:]\s*(.+?)(?=<|$)/gi;
     let lastChap: RegExpExecArray | null = null;
     let cm: RegExpExecArray | null;
     while ((cm = chapPattern.exec(beforeSection)) !== null) {
@@ -403,7 +497,6 @@ export function parseAdgmRegulationHtml(
       });
     }
 
-    // Extract definitions
     if (/\bdefinitions?\b/i.test(rawContent)) {
       const defPattern = /["\u201C]([^"\u201D]+)["\u201D]\s*(?:means?|includes?|has the meaning)\s+([\s\S]*?)(?=["\u201C]|$)/gi;
       let defMatch: RegExpExecArray | null;
@@ -421,7 +514,6 @@ export function parseAdgmRegulationHtml(
     }
   }
 
-  // Deduplicate
   const byRef = new Map<string, ParsedProvision>();
   for (const prov of provisions) {
     const existing = byRef.get(prov.provision_ref);
@@ -456,180 +548,10 @@ export function parseAdgmRegulationHtml(
 }
 
 // ============================================================
-// Pre-configured lists of key UAE laws to ingest
+// Pre-configured lists (legacy — kept for backward compatibility)
+// These are now populated dynamically by the ingest script.
 // ============================================================
 
-export const KEY_FEDERAL_LAWS: FederalLawEntry[] = [
-  {
-    id: 'fdl-45-2021',
-    title: 'المرسوم بقانون اتحادي رقم 45 لسنة 2021 بشأن حماية البيانات الشخصية',
-    titleEn: 'Federal Decree-Law No. 45 of 2021 on Personal Data Protection',
-    shortName: 'PDPL',
-    type: 'fdl',
-    number: 45,
-    year: 2021,
-    status: 'in_force',
-    issuedDate: '2021-09-20',
-    inForceDate: '2022-01-02',
-    url: 'https://moj.gov.ae/en/legislation/federal-decree-law-45-2021',
-  },
-  {
-    id: 'fdl-34-2021',
-    title: 'المرسوم بقانون اتحادي رقم 34 لسنة 2021 في شأن مكافحة الشائعات والجرائم الإلكترونية',
-    titleEn: 'Federal Decree-Law No. 34 of 2021 on Combatting Rumours and Cybercrimes',
-    shortName: 'Cybercrimes Law',
-    type: 'fdl',
-    number: 34,
-    year: 2021,
-    status: 'in_force',
-    issuedDate: '2021-09-20',
-    inForceDate: '2022-01-02',
-    url: 'https://moj.gov.ae/en/legislation/federal-decree-law-34-2021',
-  },
-  {
-    id: 'fdl-46-2021',
-    title: 'المرسوم بقانون اتحادي رقم 46 لسنة 2021 بشأن المعاملات الإلكترونية وخدمات الثقة',
-    titleEn: 'Federal Decree-Law No. 46 of 2021 on Electronic Transactions and Trust Services',
-    shortName: 'ETA',
-    type: 'fdl',
-    number: 46,
-    year: 2021,
-    status: 'in_force',
-    issuedDate: '2021-09-20',
-    inForceDate: '2022-01-02',
-    url: 'https://moj.gov.ae/en/legislation/federal-decree-law-46-2021',
-  },
-  {
-    id: 'fl-2-2015',
-    title: 'القانون الاتحادي رقم 2 لسنة 2015 بشأن الشركات التجارية',
-    titleEn: 'Federal Law No. 2 of 2015 on Commercial Companies',
-    shortName: 'Companies Law',
-    type: 'fl',
-    number: 2,
-    year: 2015,
-    status: 'in_force',
-    issuedDate: '2015-03-01',
-    inForceDate: '2015-07-01',
-    url: 'https://moj.gov.ae/en/legislation/federal-law-2-2015',
-  },
-  {
-    id: 'constitution-1971',
-    title: 'دستور دولة الإمارات العربية المتحدة',
-    titleEn: 'Constitution of the United Arab Emirates',
-    shortName: 'Constitution',
-    type: 'fl',
-    number: 0,
-    year: 1971,
-    status: 'in_force',
-    issuedDate: '1971-12-02',
-    inForceDate: '1971-12-02',
-    url: 'https://moj.gov.ae/en/legislation/uae-constitution',
-  },
-  {
-    id: 'fl-3-2003',
-    title: 'القانون الاتحادي رقم 3 لسنة 2003 بشأن تنظيم قطاع الاتصالات',
-    titleEn: 'Federal Law No. 3 of 2003 on Telecommunications Regulation',
-    shortName: 'Telecom Law',
-    type: 'fl',
-    number: 3,
-    year: 2003,
-    status: 'in_force',
-    issuedDate: '2003-01-01',
-    inForceDate: '2003-01-01',
-    url: 'https://moj.gov.ae/en/legislation/federal-law-3-2003',
-  },
-];
-
-export const KEY_DIFC_LAWS: DifcLawEntry[] = [
-  {
-    id: 'difc-law-5-2020',
-    title: 'DIFC Data Protection Law, DIFC Law No. 5 of 2020',
-    shortName: 'DIFC DPL',
-    lawNumber: 5,
-    year: 2020,
-    status: 'in_force',
-    issuedDate: '2020-07-01',
-    inForceDate: '2020-07-01',
-    url: 'https://www.difclaws.com/laws-and-regulations/data-protection',
-  },
-  {
-    id: 'difc-law-3-2006',
-    title: 'DIFC Companies Law, DIFC Law No. 3 of 2006 (as amended)',
-    shortName: 'DIFC Companies Law',
-    lawNumber: 3,
-    year: 2006,
-    status: 'in_force',
-    issuedDate: '2006-09-25',
-    inForceDate: '2006-09-25',
-    url: 'https://www.difclaws.com/laws-and-regulations/companies',
-  },
-  {
-    id: 'difc-law-4-2004',
-    title: 'DIFC Employment Law, DIFC Law No. 4 of 2004 (as amended)',
-    shortName: 'DIFC Employment Law',
-    lawNumber: 4,
-    year: 2004,
-    status: 'in_force',
-    issuedDate: '2004-09-28',
-    inForceDate: '2004-09-28',
-    url: 'https://www.difclaws.com/laws-and-regulations/employment',
-  },
-  {
-    id: 'difc-law-1-2004',
-    title: 'DIFC Arbitration Law, DIFC Law No. 1 of 2004 (as amended)',
-    shortName: 'DIFC Arbitration Law',
-    lawNumber: 1,
-    year: 2004,
-    status: 'in_force',
-    issuedDate: '2004-09-28',
-    inForceDate: '2004-09-28',
-    url: 'https://www.difclaws.com/laws-and-regulations/arbitration',
-  },
-];
-
-export const KEY_ADGM_REGULATIONS: AdgmRegulationEntry[] = [
-  {
-    id: 'adgm-dpr-2021',
-    title: 'ADGM Data Protection Regulations 2021',
-    shortName: 'ADGM DPR',
-    regulationType: 'regulations',
-    year: 2021,
-    status: 'in_force',
-    issuedDate: '2021-02-14',
-    inForceDate: '2021-02-14',
-    url: 'https://adgm.com/legal-framework/data-protection',
-  },
-  {
-    id: 'adgm-cr-2020',
-    title: 'ADGM Companies Regulations 2020',
-    shortName: 'ADGM Companies Regs',
-    regulationType: 'regulations',
-    year: 2020,
-    status: 'in_force',
-    issuedDate: '2020-01-01',
-    inForceDate: '2020-01-01',
-    url: 'https://adgm.com/legal-framework/companies',
-  },
-  {
-    id: 'adgm-er-2019',
-    title: 'ADGM Employment Regulations 2019',
-    shortName: 'ADGM Employment Regs',
-    regulationType: 'regulations',
-    year: 2019,
-    status: 'in_force',
-    issuedDate: '2019-01-01',
-    inForceDate: '2019-01-01',
-    url: 'https://adgm.com/legal-framework/employment',
-  },
-  {
-    id: 'adgm-fsmr-2015',
-    title: 'ADGM Financial Services and Markets Regulations 2015',
-    shortName: 'ADGM FSMR',
-    regulationType: 'regulations',
-    year: 2015,
-    status: 'in_force',
-    issuedDate: '2015-10-21',
-    inForceDate: '2015-10-21',
-    url: 'https://adgm.com/legal-framework/financial-services',
-  },
-];
+export const KEY_FEDERAL_LAWS: FederalLawEntry[] = [];
+export const KEY_DIFC_LAWS: DifcLawEntry[] = [];
+export const KEY_ADGM_REGULATIONS: AdgmRegulationEntry[] = [];

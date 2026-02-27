@@ -1,0 +1,86 @@
+{
+  "id": "other-4-2020",
+  "type": "statute",
+  "title": "تعميم رقم 4/2020: نظام بشأن المخصصات المحاسبية ومتطلبات رأس المال- ترتيبات انتقالية",
+  "title_en": "Circular No. 4 of 2020",
+  "short_name": "تعميم 4/2020",
+  "status": "in_force",
+  "issued_date": "2020-04-01",
+  "in_force_date": "2020-04-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_55692",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art1",
+      "section": "1",
+      "title": "",
+      "content": "- Definitionsa)Bank : Any juridical person licensed inaccordance with the provisions of the Decretal Federal Law No. (14) of 2018Regarding the Central Bank & Organization of Financial Institutions andActivities, to primarily carry out the activity of taking deposits, and anyother Licensed Financial Activities.b)Finance Company : As defined in the\"Finance Companies Regulation” (Circular 112/2018).c)Capital : CET1 for banks as defined in\"Regulation re Capital adequacy Circular\" (52/2017) and Aggregate Capital Fundsas defined in",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art2",
+      "section": "2",
+      "title": "",
+      "content": "- Scope of Application6.This Regulation applies to all Banks, including branches of foreign banks, andFinance Companies operating in the UAE.7.The 'prudential filter’ only applies to IFRS 9 provisions and not to theCBUAE provisioning requirements contained in \"Regulations for Classification ofLoans and Determining their Provisions\" (Circular 28/2010).8.ECL provisions subject to phase-in arrangement are IFRS 9 provisions in Stages 1and 2 only.9.This Regulation amends the earlier provisions in relation to transitionalarrangements contained in the CBUAE’s \"Guidance Note to Banks and FinanceCompanies on the Implementation of IFRS 9 (Financial Instruments) in the UAE\",issued in March 2018.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art3",
+      "section": "3",
+      "title": "",
+      "content": "- Calculation of transitional adjustment amount10.All Banks and Finance Companies must apply the transitional arrangements inaccordance with this Regulation and add back to their Capital, a portion of theECL provisions required under IFRS 9, in accordance with the followingcalculation:TheIFRS 9 stage 1 and stage 2 provisions at the respective reporting date minus theIFRS 9 stage 1 and stage 2 provisions as at 31 December 2019.11.The amount to be added back to the Capital on each reporting period shall bemultiplied by a designated factor for each year as stated below.•100% during the period from 1 January 2020 to 31 December 2020;•100% during the period from 1 January 2021 to 31 December 2021;•75% during the period from 1 January 2022 to 31 December 2022;•50% during the period from 1 January 2023 to 31 December 2023;•25% during the period from 1 January 2024 to 31 December 2024.12.The amount of the capital relief that shall be added back to Capital calculatedas Partial add-back of ECL impact to Capital = (I -t) * K;where:I= the amount calculated in accordance with paragraph 10t= increase of Capital that is due to tax deductibility of the amounts inparagraph 10, if applicableK= the applicable factor in accordance with paragraph 11Partialadd-back is only applicable for positive values calculated herein.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art4",
+      "section": "4",
+      "title": "",
+      "content": "- Consequential adjustments due to transitional arrangement13.All Banks and Finance Companies are required to recalculate the regulatorycapital requirements which are directly affected by ECL, by making the followingadjustments to regulatory capital:a)The amount of deferred tax assets that shall be deducted by Banks from Capitalin accordance with regulatory adjustment and threshold adjustment or riskweighted as per Section 3.10 of the Tier Capital Supply Standard (contained inthe \"Standards for Capital Adequacy of Banks in the UAE\" issued under the CBUAENotice No. 1733/2020).b)The specific provision credit risk adjustments by which the exposure value isreduced under the Standardized Approach for credit risk should be reduced by afactor, which has the effect of increasing the exposure value. This would ensurethat Banks and Finance Companies would not benefit from both an increase inCapital due to transitional arrangements as well as a reduced exposurevalue.c)The amount of Tier 2 capital for Banks calculated as per Section 2.5 of the TierCapital Supply Standard (contained in the “Standards for Capital Adequacyof Banks in the UAE” issued under the CBUAE Notice No. 1733/2020).d)Any other exposure or capital element which is directly affected by the ECLprovision to ensure they do not receive an inappropriate capital relief.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art5",
+      "section": "5",
+      "title": "",
+      "content": "- Reference to the Capital Metrics14.The adjusted figure obtained for Capital is to be used to calculate othermeasures of regulatory capital as well as related measures (e.g. regulatorycapital ratios, leverage ratio and large exposure limits).",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "",
+      "content": "- Transparency and Disclosure requirement.15.Banks and Finance Companies are required to publicly disclose that thetransitional arrangement is applied. Where there is a requirement to discloseCapital and other Capital related ratios (e.g. regulatory capital ratios,leverage ratio), comparative ratios to show the position had the transitionalarrangements not been applied must also be disclosed. Banks should disclose thisinformation as part of the Pillar 3 report and Finance Companies as part of theAnnual report.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art7",
+      "section": "7",
+      "title": "",
+      "content": "- Interpretation of this Regulation16.The Regulatory Development Division of the CBUAE shall be the sole reference forinterpretation of the provisions of this Regulation, and its interpretationsthereof shall be considered final.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art8",
+      "section": "8",
+      "title": "",
+      "content": "- Enforcement and Sanctions17.Violation of any provision of this Regulation may be subject to supervisoryaction and sanctions as deemed appropriate by the CBUAE.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "",
+      "content": "Application and PublicationCircularNo : 04/2020Date:7 April 2020To:All Banks and Finance CompaniesSubject:Regulation Regarding Accounting Provisions and Capital Requirements -Transitional ArrangementsIntroduction1.This Regulation Is issued pursuant to the powers vested in the Central Bank ofthe UAE (the \"CBUAE\") under the Decretal Federal Law No. 14 of 2018, Regardingthe Central Bank & Organization of Financial Institutions andActivities.2.The CBUAE recognizes that the International Financial Reporting Standard IFRS 9has introduced fundamental changes in provisioning practices in qualitative andquantitative ways. The usage of economic models and economic forecasts can leadto higher volatility in the expected loss for the calculation of IFRS 9accounting provisions. The change from incurred loss model to expected lossmodel has been advocated by the global regulatory community, but the regulatorsare also mindful of any unintended consequences. Arising from the Covid-19developments, the CBUAE has decided to require a phasing-in of increases in IFRS9 expected credit loss (ECL) provisions over a transition period.3.This Regulation provides for a 'prudential filter’, through transitionalarrangements, to smooth the impact of ECL accounting on Capital, based on a5-year transitional period to manage the regulatory Impact. The transitionalphase is implemented with immediate effect, with the initial application of thetransitional arrangements commencing retroactively on 1 January 2020.4.The portion of ECL provisions that can be included in Capital will decreaseincrementally over time down to zero to ensure the full implementation of IFRS 9by 1 January 2025.5.The CBUAE has opted to adopt a “dynamic\" approach for the transitionarrangements. It is aimed to address the ongoing evolution of ECL provisions(e.g. rise in ECL due to unexpectedly worsening macroeconomic outlook) duringthe transition period.",
+      "language": "en"
+    },
+    {
+      "provision_ref": "art11",
+      "section": "11",
+      "title": "",
+      "content": "in “Finance Companies Regulation\" (Circular112/2018).",
+      "language": "en"
+    }
+  ],
+  "definitions": []
+}

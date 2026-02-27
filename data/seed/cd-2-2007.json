@@ -1,0 +1,23 @@
+{
+  "id": "cd-2-2007",
+  "type": "statute",
+  "title": "قرار رقم 2 لسنة 2007: بشأن اعتماد رسوم تخصيص واستخدام موارد الأرقام",
+  "title_en": "Decision No. 2 of 2007",
+  "short_name": "قرار 2/2007",
+  "status": "in_force",
+  "issued_date": "2007-03-01",
+  "in_force_date": "2007-03-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_56219",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art6",
+      "section": "6",
+      "title": "واصبح علىالوجهالتالي:",
+      "content": "بموجب المادةالاولى منالقرار رقم 4/2007تاريخ 7/11/2007م.واصبح علىالوجهالتالي:NumberingResources utilized by a Licensee before the issurance of Policy for \"Fees forthe Allocation and Use of Number Resources\" version 1.0 issued on24th January 2006 will incur a feeas if the resources were decided by the TRA as set in Article 4 of thispolicy.Article7Where anoperator makes a charge to a customer for the number, either as an explicitcharge or as part of a subscription package, and the fee is judged by theTelecommunications Regulatory Authority to be excessive, the Authority willspecify the price that can be charged.Article8The TRAwill adjust the fees charged to a Licensee to reflect any numbers that have beenported to another Licensee or ported from another Licensee. To ascertain theappropriate adjustment, Licensees must respond to any request from the TRA forinformation pertaining to Ported Numbers.Article9The TRAwill refuse to make further allocations of numbering resource and may withdrawan allocation of numbering resource from a Licensee or others allocatednumbering resources when the Annual Fee is unpaid one calendar month after itbecomes payable, The TRA may also impose financial penalties on latepayments.Article10Licenseesand others allocated numbering resource shall supply to the TRA all informationrequested by the TRA to enable the TRA to undertake a review of thispolicy.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}
