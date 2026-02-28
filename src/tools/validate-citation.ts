@@ -10,7 +10,7 @@
  * - ID-based: "fdl-45-2021, art. 2"
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 

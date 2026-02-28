@@ -3,7 +3,7 @@
  * provision within a UAE statute, DIFC law, or ADGM regulation.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { resolveDocumentId } from '../utils/statute-id.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 

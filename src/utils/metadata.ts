@@ -2,7 +2,7 @@
  * Response metadata utilities for UAE Law MCP.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 
 export interface ResponseMetadata {
   data_source: string;

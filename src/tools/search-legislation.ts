@@ -2,7 +2,7 @@
  * search_legislation — Full-text search across UAE, DIFC, and ADGM legislation provisions.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, sanitizeFtsInput } from '../utils/fts-query.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 

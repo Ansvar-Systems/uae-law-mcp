@@ -3,7 +3,7 @@
  * across UAE federal, DIFC, and ADGM legislation.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { buildFtsQueryVariants, sanitizeFtsInput } from '../utils/fts-query.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 

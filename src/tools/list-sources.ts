@@ -2,7 +2,7 @@
  * list_sources — Return provenance metadata for all data sources.
  */
 
-import type Database from 'node-sqlite3-wasm';
+import type Database from '@ansvar/mcp-sqlite';
 import { readDbMetadata } from '../capabilities.js';
 import { generateResponseMetadata, type ToolResponse } from '../utils/metadata.js';
 
