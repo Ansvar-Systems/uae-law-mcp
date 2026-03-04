@@ -25,58 +25,41 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
   const caps = detectCapabilities(db);
   const meta = readDbMetadata(db);
 
+  const euRefs = safeCount(db, 'SELECT COUNT(*) as count FROM eu_references');
+
+  const stats: Record<string, number> = {
+    documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
+    provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
+    definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
+  };
+
+  if (euRefs > 0) {
+    stats.eu_documents = safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents');
+    stats.eu_references = euRefs;
+  }
+
   return {
-    server: SERVER_NAME,
+    name: 'UAE Law MCP',
     version: context.version,
-    repository: REPOSITORY_URL,
-    jurisdiction: 'United Arab Emirates (AE)',
-    legal_system_note:
-      'The UAE has a THREE-LAYER legal system: (1) Federal law applies across all emirates, ' +
-      '(2) DIFC (Dubai International Financial Centre) is an independent common-law jurisdiction within Dubai, ' +
-      '(3) ADGM (Abu Dhabi Global Market) is an independent common-law jurisdiction within Abu Dhabi. ' +
-      'Federal law uses Arabic as the authoritative language; DIFC and ADGM laws are drafted natively in English.',
-    database: {
-      fingerprint: context.fingerprint,
-      built_at: context.dbBuilt,
-      tier: meta.tier,
-      schema_version: meta.schema_version,
-      capabilities: [...caps],
-    },
-    statistics: {
-      documents: safeCount(db, 'SELECT COUNT(*) as count FROM legal_documents'),
-      provisions: safeCount(db, 'SELECT COUNT(*) as count FROM legal_provisions'),
-      definitions: safeCount(db, 'SELECT COUNT(*) as count FROM definitions'),
-      eu_documents: safeCount(db, 'SELECT COUNT(*) as count FROM eu_documents'),
-      eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
-    },
+    jurisdiction: 'AE',
+    description: 'UAE Law MCP — legislation via Model Context Protocol',
+    stats,
     data_sources: [
       {
         name: 'UAE Ministry of Justice',
-        authority: 'Ministry of Justice, United Arab Emirates',
         url: 'https://moj.gov.ae',
-        license: 'Government Open Data',
-        jurisdiction: 'AE (Federal)',
-        languages: ['ar', 'en'],
-        legal_zone: 'federal',
-      },
-      {
-        name: 'DIFC Laws and Regulations',
-        authority: 'Dubai International Financial Centre (DIFC)',
-        url: 'https://difclaws.com',
-        license: 'Government Open Data',
-        jurisdiction: 'AE-DU (DIFC)',
-        languages: ['en'],
-        legal_zone: 'difc',
-      },
-      {
-        name: 'ADGM Legal Framework',
-        authority: 'Abu Dhabi Global Market (ADGM)',
-        url: 'https://adgm.com/legal-framework',
-        license: 'Government Open Data',
-        jurisdiction: 'AE-AZ (ADGM)',
-        languages: ['en'],
-        legal_zone: 'adgm',
+        authority: 'Ministry of Justice',
       },
     ],
+    freshness: {
+      database_built: context.dbBuilt,
+    },
+    disclaimer:
+      'This is a research tool, not legal advice. Verify critical citations against official sources.',
+    network: {
+      name: 'Ansvar MCP Network',
+      open_law: 'https://ansvar.eu/open-law',
+      directory: 'https://ansvar.ai/mcp',
+    },
   };
 }
