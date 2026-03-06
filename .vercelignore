@@ -1,0 +1,7 @@
+node_modules
+.git
+*.md
+tests
+data/seed
+scripts/*
+!scripts/download-db.sh
