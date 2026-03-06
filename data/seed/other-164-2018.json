@@ -1,0 +1,24 @@
+{
+  "id": "other-164-2018",
+  "type": "statute",
+  "title": "تعميم رقم 164/2018: نظام مخاطر السوق",
+  "title_en": "Circular No. 164 of 2018",
+  "short_name": "تعميم 164/2018",
+  "status": "in_force",
+  "issued_date": "2018-08-01",
+  "in_force_date": "2018-08-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_55667",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art11",
+      "chapter": "الفصلالملائم",
+      "section": "11",
+      "title": "التعميم رقم 17/2021تاريخ 21/11/2021م",
+      "content": "منه، كمايراجعالتعميم رقم 17/2021تاريخ 21/11/2021منظام بشأنإعادة إصداربعض الأنظمة،فاقتضىالتنويه.[2]The Central Bank will apply the principle of proportionality in the enforcementof the Regulation and Standards, whereby smaller Banks may demonstrate to theCentral Bank that the objectives are met without necessarily addressing all ofthe specifics cited in the Standards.[3]A “beta-equivalent” position would be calculated from a market modelof equity price returns (such as the Capital Asset Pricing Model) by regressingthe return on the individual stock or sector index on the risk-free rate ofreturn and the return on the market index.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

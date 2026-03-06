@@ -1,0 +1,23 @@
+{
+  "id": "ministerial-305-0",
+  "type": "statute",
+  "title": "قرار وزاري رقم 305 لسنة 2002: في شأن إعادة تشكيل مجلس ادارة معهد الامارات الدبلوماسي",
+  "title_en": "Ministerial Decision No. 305 of 0",
+  "short_name": "قرار وزاري 305/0",
+  "status": "in_force",
+  "issued_date": "0-01-01",
+  "in_force_date": "0-01-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_55868",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art9",
+      "section": "9",
+      "title": "القرارالوزاري رقم 296تاريخ 5/6/2001م.",
+      "content": "من القرارالوزاري رقم 296تاريخ 5/6/2001م. فيشأن النظامالداخليلمعهدالاماراتالدبلوماسي.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

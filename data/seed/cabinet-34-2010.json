@@ -1,0 +1,394 @@
+{
+  "id": "cabinet-34-2010",
+  "type": "statute",
+  "title": "قرار مجلس الوزراء رقم 34 لسنة 2010: باعتماد وإلغاء مواصفات قياسية إلزامية لدولة الامارات العربية المتحدة",
+  "title_en": "Cabinet Decision No. 34 of 2010",
+  "short_name": "قرار مجلس الوزراء 34/2010",
+  "status": "in_force",
+  "issued_date": "2010-12-01",
+  "in_force_date": "2010-12-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_54446",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قرارمجلسالوزراءرقم34 لسنة 2010",
+      "content": "قرارمجلسالوزراءرقم34 لسنة 2010",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ14/12/2010م. لسنة",
+      "content": "صادربتاريخ14/12/2010م. لسنة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "الموافقفيه 8محرم1432هـ.",
+      "content": "الموافقفيه 8محرم1432هـ.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "باعتمادوإلغاءمواصفاتقياسيةإلزاميةلدولةالاماراتالعربيةالمتحدة",
+      "content": "باعتمادوإلغاءمواصفاتقياسيةإلزاميةلدولةالاماراتالعربيةالمتحدة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "-بعد الإطلاععلىالدستور،",
+      "content": "-بعد الإطلاععلىالدستور،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "-وعلى القانونالاتحادي رقم(1)لسنة1972،فيشأن إختصاصاتالوزاراتوصلاحياتالوزراءوالقوا",
+      "content": "-وعلى القانونالاتحادي رقم(1)لسنة1972،فيشأن إختصاصاتالوزاراتوصلاحياتالوزراءوالقوانينالمعدلةله،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "-وعلى القانونالاتحادي رقم(28)لسنة2001،بإنشاء هيئةالاماراتللمواصفاتوالمقاييس،وتعد",
+      "content": "-وعلى القانونالاتحادي رقم(28)لسنة2001،بإنشاء هيئةالاماراتللمواصفاتوالمقاييس،وتعديلاته،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "-وعلى قرارمجلس الوزراءرقم(215/10و/19)لسنة2010مبإقرار لوائحفنية (مواصفاتقياسيةإما",
+      "content": "-وعلى قرارمجلس الوزراءرقم(215/10و/19)لسنة2010مبإقرار لوائحفنية (مواصفاتقياسيةإماراتيةإلزامية)،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "-وبناءً على ماعرضه رئيسمجلسادارةهيئةالاماراتالمواصفاتوالمقاييس،وموافقة مجلسالوزر",
+      "content": "-وبناءً على ماعرضه رئيسمجلسادارةهيئةالاماراتالمواصفاتوالمقاييس،وموافقة مجلسالوزراء،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "تعتمداللوائحالفنيةوتعديلاتهاالمبينةعناوينهاوأرقامها فيالقوائمأرقام(1،2،3،4)،والم",
+      "content": "تعتمداللوائحالفنيةوتعديلاتهاالمبينةعناوينهاوأرقامها فيالقوائمأرقام(1،2،3،4)،والمرفقةبهذا القرار،كمواصفاتقياسيةإلزاميةلدولةالاماراتالعربيةالمتحدة، علىأن يبدأالإلتزامبتطبيق تلكالمواصفاتبعد ستة أشهرمن تاريخ نشرهذا القرار فيالجريدةالرسمية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "تلغىالمواصفاتالمعتمدةسابقاً،والمبينةعناوينهاوأرقامها فيالقائمة رقم(5)المرفقة بهذ",
+      "content": "تلغىالمواصفاتالمعتمدةسابقاً،والمبينةعناوينهاوأرقامها فيالقائمة رقم(5)المرفقة بهذاالقرار، علىأن يبدأ العملبإلغاء تلكالمواصفات مناليوم التاليلتاريخ نشرهذا القرار فيالجريدةالرسمية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "علىالجهاتالمعنيةتنفيذ هذاالقرار،وينشر فيالجريدةالرسمية.",
+      "content": "علىالجهاتالمعنيةتنفيذ هذاالقرار،وينشر فيالجريدةالرسمية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "صدرعنا:\nبتاريخ: 08محرم1432هـ.\nالموافق:14ديسمبر2010م.",
+      "content": "صدرعنا:\nبتاريخ: 08محرم1432هـ.\nالموافق:14ديسمبر2010م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "نشرهذا القرار فيعدد الجريدةالرسمية رقم516ص 36.",
+      "content": "نشرهذا القرار فيعدد الجريدةالرسمية رقم516ص 36.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "قائمةرقم(1)اللوائحالفنيةالجديدةالمرفقةبقرار مجلسالوزراء رقم(34)لسنة2010ملتطبيقها",
+      "content": "قائمةرقم(1)اللوائحالفنيةالجديدةالمرفقةبقرار مجلسالوزراء رقم(34)لسنة2010ملتطبيقهاإلزامياً",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "عنواناللائحةباللغةالإنجليزية",
+      "content": "عنواناللائحةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "عنواناللائحةباللغةالعربية",
+      "content": "عنواناللائحةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "REGIONALSTANDARD FOR CANNED HUMUS WITH TEHENA",
+      "content": "REGIONALSTANDARD FOR CANNED HUMUS WITH TEHENA",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "CODEXSTANDARD FOR PRESERVED TOMATOES",
+      "content": "CODEXSTANDARD FOR PRESERVED TOMATOES",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Meatproducts - Pastrami",
+      "content": "Meatproducts - Pastrami",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Maximumlevels of Melamine in Foods and Feeds",
+      "content": "Maximumlevels of Melamine in Foods and Feeds",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "الحدودالقصوىللميلامين فيالأغذية",
+      "content": "الحدودالقصوىللميلامين فيالأغذية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "FROZENFISH FILLET BLOCKS",
+      "content": "FROZENFISH FILLET BLOCKS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "قوالبلحوم الأسماكالمجمدة",
+      "content": "قوالبلحوم الأسماكالمجمدة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Tuscancigars and cigarettes",
+      "content": "Tuscancigars and cigarettes",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "السيجاروالسيجارالتوسكاني",
+      "content": "السيجاروالسيجارالتوسكاني",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Amixture of tobacco pipe",
+      "content": "Amixture of tobacco pipe",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Tobaccoand its products - Sijaritus",
+      "content": "Tobaccoand its products - Sijaritus",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "التبغومنتجاته–السيجاريتوس",
+      "content": "التبغومنتجاته–السيجاريتوس",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "BOUILLONSAND CONSOMMES",
+      "content": "BOUILLONSAND CONSOMMES",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "HALALFOOD – Part (2): Guidelines for HALAL Food Certification Bodies and TheirAc",
+      "content": "HALALFOOD – Part (2): Guidelines for HALAL Food Certification Bodies and TheirAccreditation Requirements",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "الأغذيةالحلال الجزءالثاني:(إشتراطاتجهات إصدارشهاداتالأغذيةالحلال وشروطإعتمادها)",
+      "content": "الأغذيةالحلال الجزءالثاني:(إشتراطاتجهات إصدارشهاداتالأغذيةالحلال وشروطإعتمادها)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "13A plugs, Sockets-outlets, Adaptors and connections units Part 5: Specification",
+      "content": "13A plugs, Sockets-outlets, Adaptors and connections units Part 5: Specificationfor fused conversion plugs",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "القابساتوالمقابسوالمهايناتووحداتالتوصيل ذاتالتيار 13أمبير الجزءالخامس:مواصفاتقوا",
+      "content": "القابساتوالمقابسوالمهايناتووحداتالتوصيل ذاتالتيار 13أمبير الجزءالخامس:مواصفاتقوابسالتحويل",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "قائمةرقم(2)اللوائحالفنيةالمعدلة(المحدثة)المرفقةبقرار مجلسالوزراء رقم(34)لسنة2010",
+      "content": "قائمةرقم(2)اللوائحالفنيةالمعدلة(المحدثة)المرفقةبقرار مجلسالوزراء رقم(34)لسنة2010ملتطبيقهاإلزامياً",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "عنوانالمشروعباللغةالعربية",
+      "content": "عنوانالمشروعباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "FLAVOUREDARTIFICIAL DRINK POWDERS",
+      "content": "FLAVOUREDARTIFICIAL DRINK POWDERS",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "مساحيقالمشروباتالإصطناعيةالمنكهة",
+      "content": "مساحيقالمشروباتالإصطناعيةالمنكهة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "قائمةرقم(3)المواصفاتالقياسيةالاماراتيةالتي تم تحويلصفة الاصدارلها إلى لوائحفنية ",
+      "content": "قائمةرقم(3)المواصفاتالقياسيةالاماراتيةالتي تم تحويلصفة الاصدارلها إلى لوائحفنية الزاميةالتطبيقبموجب قرارمجلس الوزراءرقم(34)لسنة2010إلزامياً",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "عنواناللائحةالفنيةباللغةالعربية",
+      "content": "عنواناللائحةالفنيةباللغةالعربية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "عنواناللائحةالفنيةباللغةالإنجليزية",
+      "content": "عنواناللائحةالفنيةباللغةالإنجليزية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "مستودعاتتجميد وتبريدالموادالغذائية–الجزء الثاني:المتطلباتالعامة",
+      "content": "مستودعاتتجميد وتبريدالموادالغذائية–الجزء الثاني:المتطلباتالعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "STORESFOR FROZEN AND CHILLED FOODSTUFF PART II: GENERAL REQUIREMENTS.",
+      "content": "STORESFOR FROZEN AND CHILLED FOODSTUFF PART II: GENERAL REQUIREMENTS.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "المياهالعطرية (ماءالورد–ماء الزهر)",
+      "content": "المياهالعطرية (ماءالورد–ماء الزهر)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "EDIBELESSENTIAL WATER: ROSE WATER – FLOWER WATER.",
+      "content": "EDIBELESSENTIAL WATER: ROSE WATER – FLOWER WATER.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "CANNEDMIXED VEGETABLES.",
+      "content": "CANNEDMIXED VEGETABLES.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "قائمةرقم(4)التعديلاتعلى لوائحفنيةإماراتيةإلزاميةصادرة سابقاًوالتي أقرهامجلس الوز",
+      "content": "قائمةرقم(4)التعديلاتعلى لوائحفنيةإماراتيةإلزاميةصادرة سابقاًوالتي أقرهامجلس الوزراءرقم(34)لسنة 2010",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "رقماللائحةالفنيةالاماراتية",
+      "content": "رقماللائحةالفنيةالاماراتية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "التعديلعلى اللائحةالفنية",
+      "content": "التعديلعلى اللائحةالفنية",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "حذفالبنودالفرعيةالتاليةوالتي لايستفيد منهاالمستهلك منالبند9:\n9/7النسبةالمئويةللم",
+      "content": "حذفالبنودالفرعيةالتاليةوالتي لايستفيد منهاالمستهلك منالبند9:\n9/7النسبةالمئويةللموادالغريبة.\n9/8النسبةالمئويةللحبوب ذواتالعيوب.\n9/11تاريخالصلاحية (شهر-سنة)\nزإعادة صياغةالبندينالتاليين علىالنحوالمذكور:\n9/9طريقة الطهو(إختياري).\n9/14أن يكتب فيالبطاقة (منتجمعدل وراثيا)إن كان كذلك",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "المياهالمعدنيةالطبيعيةالمعبأة",
+      "content": "المياهالمعدنيةالطبيعيةالمعبأة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "تعديلنسبةالمنتجنيز منp.p.m0.5(ملجم / لتر) الىp.p.m0.4(ملجم /لتر)\nتعديلنسبةالنيتر",
+      "content": "تعديلنسبةالمنتجنيز منp.p.m0.5(ملجم / لتر) الىp.p.m0.4(ملجم /لتر)\nتعديلنسبةالنيتريت منp.p.m0.02(ملجم / لتر) الىp.p.m0.01(ملجم / لتر)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "عبواتالموادالغذائية–إشتراطاتعامة",
+      "content": "عبواتالموادالغذائية–إشتراطاتعامة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "لمواكبةالتطورالصناعيليكون علىالنحوالتالي:\n\"ألايكون لها شكلينطوي علىالزيف أوالتضل",
+      "content": "لمواكبةالتطورالصناعيليكون علىالنحوالتالي:\n\"ألايكون لها شكلينطوي علىالزيف أوالتضليل أوالخداع أو بأيشكل قد يؤديالى انطباعخاطىء لدىالمستهلك\".",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

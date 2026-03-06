@@ -1,0 +1,37 @@
+{
+  "id": "other--1996",
+  "type": "statute",
+  "title": "لائحة لسنة 1996: لائحة بالكتب والأفلام المحظور تداولها واستيرادهالسنة 1996م.",
+  "title_en": "Regulation No. NaN of 1996",
+  "short_name": "لائحة /1996",
+  "status": "in_force",
+  "issued_date": "1996-01-01",
+  "in_force_date": "1996-01-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_55831",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "صادرةبتاريخ00/00/1996",
+      "content": "صادرةبتاريخ00/00/1996",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "لائحةبالكتبوالأفلامالمحظورتداولهاواستيرادهالسنة1996م.",
+      "content": "لائحةبالكتبوالأفلامالمحظورتداولهاواستيرادهالسنة1996م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "بمنعدخول وتداولفيلم الفيديو:\"Street Warriors I andII\"",
+      "content": "بمنعدخول وتداولفيلم الفيديو:\"Street Warriors I andII\"",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

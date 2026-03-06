@@ -1,7 +1,7 @@
 node_modules/
 dist/
 *.db
-!data/database.db
+# !data/database.db  # excluded: >100MB, exceeds GitHub limit
 !data/.gitkeep
 .env
 .env.*
@@ -9,3 +9,5 @@ dist/
 coverage/
 .vercel/
 .DS_Store
+.claude/
+.serena/

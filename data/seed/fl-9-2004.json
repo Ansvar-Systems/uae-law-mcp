@@ -1,0 +1,30 @@
+{
+  "id": "fl-9-2004",
+  "type": "statute",
+  "title": "قانون اتحادي رقم 9 لسنة 2004: في شأن التطوع في الدفاع المدني",
+  "title_en": "Federal Law No. 9 of 2004",
+  "short_name": "قانون اتحادي 9/2004",
+  "status": "in_force",
+  "issued_date": "2004-04-01",
+  "in_force_date": "2004-04-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_53844",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "art37",
+      "section": "37",
+      "title": "[2]",
+      "content": "منالقانونالاتحادي رقم3/1979 تاريخ 19/3/1979م.[2]راجع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "art33",
+      "section": "33",
+      "title": "بشأن لجنةالبت في طلباتالتعويض.",
+      "content": "من القانونالاتحادي رقم 3تاريخ 19/3/1979م.بشأن لجنةالبت في طلباتالتعويض.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

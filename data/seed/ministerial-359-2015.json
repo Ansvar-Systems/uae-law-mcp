@@ -1,0 +1,758 @@
+{
+  "id": "ministerial-359-2015",
+  "type": "statute",
+  "title": "قرار وزاري رقم 359 لسنة 2015: في شأن الاشتراطات الفنية لأجهزة رصد جودة الهواء المحيط واختيار موقع تركيبها",
+  "title_en": "Ministerial Decision No. 359 of 2015",
+  "short_name": "قرار وزاري 359/2015",
+  "status": "in_force",
+  "issued_date": "2015-05-01",
+  "in_force_date": "2015-05-01",
+  "url": "https://elaws.moj.gov.ae/laws/ref/S-AL1_2_52753",
+  "legal_zone": "federal",
+  "language": "ar",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "قراروزاري رقم359 لسنة 2015",
+      "content": "قراروزاري رقم359 لسنة 2015",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "صادربتاريخ20/05/2015م. لسنة",
+      "content": "صادربتاريخ20/05/2015م. لسنة",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "الموافقفيه 2 شعبان1436هـ.",
+      "content": "الموافقفيه 2 شعبان1436هـ.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "فيشأنالاشتراطاتالفنيةلأجهزة رصدجودة الهواءالمحيطواختيار موقعتركيبها",
+      "content": "فيشأنالاشتراطاتالفنيةلأجهزة رصدجودة الهواءالمحيطواختيار موقعتركيبها",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "بعدالإطلاع علىالقانونالاتحادي رقم1لسنة 1972م في شأناختصاصاتالوزاراتوصلاحياتالوزر",
+      "content": "بعدالإطلاع علىالقانونالاتحادي رقم1لسنة 1972م في شأناختصاصاتالوزاراتوصلاحياتالوزراءوتعديلاته،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "وعلىالقانونالإتحادي رقم24 لسنة 1999م في شأنحماية البيئةوتنميتهاوتعديلاته،",
+      "content": "وعلىالقانونالإتحادي رقم24 لسنة 1999م في شأنحماية البيئةوتنميتهاوتعديلاته،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "وعلىقرار مجلسالوزراء رقم 37لسنة 2001م في شأنالأنظمةللائحةالتنفيذيةللقانونالاتحاد",
+      "content": "وعلىقرار مجلسالوزراء رقم 37لسنة 2001م في شأنالأنظمةللائحةالتنفيذيةللقانونالاتحادي رقم24 لسنة 1999م في شأنحماية البيئةوتنميتها،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "وعلىقرار مجلسالوزراء رقم 20لسنة 2008م في شأنتنظيم أنشطةالكساراتوالمحاجرونقلمنتجا",
+      "content": "وعلىقرار مجلسالوزراء رقم 20لسنة 2008م في شأنتنظيم أنشطةالكساراتوالمحاجرونقلمنتجاتها،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "وعلىقرار مجلسالوزراء رقم 27لسنة 2013م في شأنالهيكلالتنظيميللوزارة،",
+      "content": "وعلىقرار مجلسالوزراء رقم 27لسنة 2013م في شأنالهيكلالتنظيميللوزارة،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "وعلىالقرارالوزاري رقم 110لسنة 2010م في شأنالخطوطالإرشاديةالمنظمةوالخاصةبتخطيطوتش",
+      "content": "وعلىالقرارالوزاري رقم 110لسنة 2010م في شأنالخطوطالإرشاديةالمنظمةوالخاصةبتخطيطوتشغيلوتنفيذ أعمالالمنشآتالعاملة فيمجالالكساراتوالمقالع،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "وعلىالقرارالوزاري رقم 567لسنة 2014م في شأناللائحةالتنظيميةالخاصةبتخطيطوتشغيلوتنف",
+      "content": "وعلىالقرارالوزاري رقم 567لسنة 2014م في شأناللائحةالتنظيميةالخاصةبتخطيطوتشغيلوتنفيذ أعمالالمنشآتالعاملة فيمجالالكساراتوالمقالع،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "وبناءعلى مقتضياتالمصلحةالعامة،",
+      "content": "وبناءعلى مقتضياتالمصلحةالعامة،",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "علىالكساراتوالمقالعالالتزامباستخدامأجهزة رصدنوعية الهواءالمحيطبالموقعوفقاًللإشتر",
+      "content": "علىالكساراتوالمقالعالالتزامباستخدامأجهزة رصدنوعية الهواءالمحيطبالموقعوفقاًللإشتراطاتالواردة فيالملحق رقم (1)المرفق بهذاالقرار.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "علىالكساراتوالمقالعالالتزامبتركيب أجهزةرصد نوعيةالهواءالمحيط وفقاًللإشتراطاتالوا",
+      "content": "علىالكساراتوالمقالعالالتزامبتركيب أجهزةرصد نوعيةالهواءالمحيط وفقاًللإشتراطاتالواردة فيالملحق رقم (2)المرفق بهذاالقرار.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "يُنفذهذا القرارويعمل بهاعتباراً منتاريخ صدوره،ويلغى كل مايخالفه أويتعارض معه منق",
+      "content": "يُنفذهذا القرارويعمل بهاعتباراً منتاريخ صدوره،ويلغى كل مايخالفه أويتعارض معه منقراراتسابقة، وينشرفي الجريدةالرسمية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "صدرفي: 2 شعبان1436هـ.\nالموافق:20 مايو2015م.",
+      "content": "صدرفي: 2 شعبان1436هـ.\nالموافق:20 مايو2015م.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "نشرهذا القرارالوزاريفيعدد الجريدةالرسمية رقم579ص 69.",
+      "content": "نشرهذا القرارالوزاريفيعدد الجريدةالرسمية رقم579ص 69.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "الملحق(1):الاشتراطاتالفنيةلأجهزة رصدنوعية الهواءالمحيط فيالكساراتوالمقالع",
+      "content": "الملحق(1):الاشتراطاتالفنيةلأجهزة رصدنوعية الهواءالمحيط فيالكساراتوالمقالع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "مواصفاتأجهزة رصدنوعية الهواءالمحيط",
+      "content": "مواصفاتأجهزة رصدنوعية الهواءالمحيط",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "أ-الرصدالمستمرللموادالجسيمية ذاتالقطر أقل من 10ميكرون(PM10)والموادالجسيمية ذاتال",
+      "content": "أ-الرصدالمستمرللموادالجسيمية ذاتالقطر أقل من 10ميكرون(PM10)والموادالجسيمية ذاتالقطر أقل من2.5ميكرون(PM2.5)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "ب-طرق القياسالمعتمدة:",
+      "content": "ب-طرق القياسالمعتمدة:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "1-تلاشي أشعةبيتا–مصدر بيتا C14",
+      "content": "1-تلاشي أشعةبيتا–مصدر بيتا C14",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "2-ميزانميكرونى هزازذو تدريج",
+      "content": "2-ميزانميكرونى هزازذو تدريج",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الملحقJ–الطريقةالمرجعية،PM10في الغلافال",
+      "content": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الملحقJ–الطريقةالمرجعية،PM10في الغلافالجوي.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 50الملحقL–الطريقةالمرجعية،PM2.5في",
+      "content": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 50الملحقL–الطريقةالمرجعية،PM2.5في الغلافالجوي.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 58الملحقD–خصائص تصميمشبكة الربطبي",
+      "content": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 58الملحقD–خصائص تصميمشبكة الربطبين محطات رصدجودة الهواءالمحيط.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 50الملحقE–التحققومعاييراختيار موا",
+      "content": "-هيئة حمايةالبيئةالأمريكية،العنوان40(CFR)الجزء 50الملحقE–التحققومعاييراختيار مواقعمحطات رصدجودة الهواءالمحيط.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "-مواصفة قياسالهواءالمحيط12341:2014لمعايرةPM10وPM2.5",
+      "content": "-مواصفة قياسالهواءالمحيط12341:2014لمعايرةPM10وPM2.5",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "-مواصفة قياسالهواءالمحيط لطرقالتعرف علىكتلة تراكيزPM10أو PM2.5",
+      "content": "-مواصفة قياسالهواءالمحيط لطرقالتعرف علىكتلة تراكيزPM10أو PM2.5",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "ملاحظة:تقبل طرقالقياسالأخرى في حالتوافقت معمعايير وكالةحماية البيئةالأمريكية،بشر",
+      "content": "ملاحظة:تقبل طرقالقياسالأخرى في حالتوافقت معمعايير وكالةحماية البيئةالأمريكية،بشرط توفيرالوثائقالخاصة بطرقالقياس:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "يجبعلى أصحابالكساراتوالمقالعمعايرة جهازرصد نوعيةالهواءالمحيط وفقخطة زمنيةمعتمدة،",
+      "content": "يجبعلى أصحابالكساراتوالمقالعمعايرة جهازرصد نوعيةالهواءالمحيط وفقخطة زمنيةمعتمدة،لضمان أعلىدرجات الدقةفي القياس. كمايتوجب عليهمإجراءاتالمعايراتالتالية:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "1-المعايرة فيالموقع عندتركيب الجهازوبدورية ربعسنوية بطرقمعتمدة لدىهيئة حمايةالبي",
+      "content": "1-المعايرة فيالموقع عندتركيب الجهازوبدورية ربعسنوية بطرقمعتمدة لدىهيئة حمايةالبيئةالأمريكية أوالاتحادالأوروبي.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "2-معايرة نطاقالتركيز:0-1000ميكروجرام/متر مكعب كحدأدنى.",
+      "content": "2-معايرة نطاقالتركيز:0-1000ميكروجرام/متر مكعب كحدأدنى.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s34",
+      "section": "34",
+      "title": "3-معايرة حدودالكشف:≥ 10ميكروجرام/متر مكعبلدورة 24ساعة.",
+      "content": "3-معايرة حدودالكشف:≥ 10ميكروجرام/متر مكعبلدورة 24ساعة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s35",
+      "section": "35",
+      "title": "4-معايرة دورةالقياس:≥ 15دقيقة–24 ساعة (اختيارالمستخدم).",
+      "content": "4-معايرة دورةالقياس:≥ 15دقيقة–24 ساعة (اختيارالمستخدم).",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s36",
+      "section": "36",
+      "title": "5-معايرة معدلتدفق الهواء:≥ 1.5مترمكعب/ ساعة معمعدل تنظيمالدقة:%2-/+.",
+      "content": "5-معايرة معدلتدفق الهواء:≥ 1.5مترمكعب/ ساعة معمعدل تنظيمالدقة:%2-/+.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s37",
+      "section": "37",
+      "title": "6-معايرةالذاكرة معالاحتفاظببيانات 7 أيامكحد أدنى فيالجهاز (بمعدل1/4 ساعة).",
+      "content": "6-معايرةالذاكرة معالاحتفاظببيانات 7 أيامكحد أدنى فيالجهاز (بمعدل1/4 ساعة).",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s38",
+      "section": "38",
+      "title": "ث-تركيبومعايرة جهازالحرارةوالرطوبةالنسبيةواتجاهالرياح وسرعةالرياح فيمكان جهازالر",
+      "content": "ث-تركيبومعايرة جهازالحرارةوالرطوبةالنسبيةواتجاهالرياح وسرعةالرياح فيمكان جهازالرصدالملوثات.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s39",
+      "section": "39",
+      "title": "التحقق/التدقيق علىالبيانات:",
+      "content": "التحقق/التدقيق علىالبيانات:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s40",
+      "section": "40",
+      "title": "يتوجبعلى أصحابالكساراتوالمقالعالتدقيقوالتحقق منالنقاطالتالية:",
+      "content": "يتوجبعلى أصحابالكساراتوالمقالعالتدقيقوالتحقق منالنقاطالتالية:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s41",
+      "section": "41",
+      "title": "1-التحقق منجهاز رصددرجاتالحرارةوالضغط الجويبدورية ربعسنوية بإتباعالمعاييرالعالمي",
+      "content": "1-التحقق منجهاز رصددرجاتالحرارةوالضغط الجويبدورية ربعسنوية بإتباعالمعاييرالعالمية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s42",
+      "section": "42",
+      "title": "2-تقييمأداء الأجهزةمع طرق القياسالمعتمدة لدىالولاياتالمتحدةالأمريكيةوالمذكورةأعل",
+      "content": "2-تقييمأداء الأجهزةمع طرق القياسالمعتمدة لدىالولاياتالمتحدةالأمريكيةوالمذكورةأعلاه فيالبند (ب) فيبداية الرصدومرة كل ربعسنة (4 مرات فيالسنة).",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s43",
+      "section": "43",
+      "title": "3-يقوم الموردبالتدقيقالتقنيللنظام لكلموقع في بدايةالرصد عن طريقالمقاول.",
+      "content": "3-يقوم الموردبالتدقيقالتقنيللنظام لكلموقع في بدايةالرصد عن طريقالمقاول.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s44",
+      "section": "44",
+      "title": "4-مراجعةالبيانات منحيث دقتها،صحتها،وجدولها.",
+      "content": "4-مراجعةالبيانات منحيث دقتها،صحتها،وجدولها.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s45",
+      "section": "45",
+      "title": "الملحق(2):الاشتراطاتالفنيةلتركيب أجهزةرصد نوعيةالهواءالمحيطالمستخدمة فيالكساراتو",
+      "content": "الملحق(2):الاشتراطاتالفنيةلتركيب أجهزةرصد نوعيةالهواءالمحيطالمستخدمة فيالكساراتوالمقالع",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s46",
+      "section": "46",
+      "title": "إرشاداتاختيار موقعأجهزةالرصد:",
+      "content": "إرشاداتاختيار موقعأجهزةالرصد:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s47",
+      "section": "47",
+      "title": "عندإختيار موقعتركيب المحطةيجب على أصحابالمنشأةمراعاةالتالي:",
+      "content": "عندإختيار موقعتركيب المحطةيجب على أصحابالمنشأةمراعاةالتالي:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s48",
+      "section": "48",
+      "title": "-الوضع الأفقيوالعمودي",
+      "content": "-الوضع الأفقيوالعمودي",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s49",
+      "section": "49",
+      "title": "-بعد المسافةعن مصادرالانبعاث",
+      "content": "-بعد المسافةعن مصادرالانبعاث",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s50",
+      "section": "50",
+      "title": "-بعد المسافةعن العوائق",
+      "content": "-بعد المسافةعن العوائق",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s51",
+      "section": "51",
+      "title": "-بعد المسافةعن الاشجار",
+      "content": "-بعد المسافةعن الاشجار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s52",
+      "section": "52",
+      "title": "-بعد المسافةعن الشارعالعام",
+      "content": "-بعد المسافةعن الشارعالعام",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s53",
+      "section": "53",
+      "title": "-الحد الأقصىلمراقبة طولالمسار",
+      "content": "-الحد الأقصىلمراقبة طولالمسار",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s54",
+      "section": "54",
+      "title": "1-إذا كانتالمناطقالسكنيةالمجاورةأبعد منكيلومتر واحديتم تركيبمحطة الرصد فيمنطقةمف",
+      "content": "1-إذا كانتالمناطقالسكنيةالمجاورةأبعد منكيلومتر واحديتم تركيبمحطة الرصد فيمنطقةمفتوحة،بعيدة عن موقعالكسارة /المقلعالرئيسيةوالطرق،وتعتبر منطقةمكاتبالكسارة/المقلع فيأغلب الحالاتموقع مناسبلتركيب محطةالرصد.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s55",
+      "section": "55",
+      "title": "2-إذا كانتالمناطقالسكنيةالمجاورةللمقطع تقععلى بعدكيلومتر واحدأو أقل يتمتركيب محط",
+      "content": "2-إذا كانتالمناطقالسكنيةالمجاورةللمقطع تقععلى بعدكيلومتر واحدأو أقل يتمتركيب محطةالرصد في موقعالكسارة/المقلع فياتجاهالمنطقةالسكنية.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s56",
+      "section": "56",
+      "title": "3-في حال وجودعدة مناطقسكنية مجاورةللكسارة/المقلع وتقعفي حدودكيلومتر واحدأو أقل ي",
+      "content": "3-في حال وجودعدة مناطقسكنية مجاورةللكسارة/المقلع وتقعفي حدودكيلومتر واحدأو أقل يتمتركيب محطةالرصد فياتجاه الرياحالسائدة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s57",
+      "section": "57",
+      "title": "4-يجب تركيبمحطة الرصدبمسافة لا تقلعن 10 متر منالأشجار أووحدة التبادلالحراري(ماكي",
+      "content": "4-يجب تركيبمحطة الرصدبمسافة لا تقلعن 10 متر منالأشجار أووحدة التبادلالحراري(ماكينةالمكيفات)والمراوح.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s58",
+      "section": "58",
+      "title": "5-يتم تركيبمحطة الرصدعلى مسافةمناسبة بجانبالمبنى لتجنبالتياراتالهوائيةالخاصةبالم",
+      "content": "5-يتم تركيبمحطة الرصدعلى مسافةمناسبة بجانبالمبنى لتجنبالتياراتالهوائيةالخاصةبالمبنى.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s59",
+      "section": "59",
+      "title": "6-من الضروري أنتكون فتحة أخذالعينات مطلةعلى السماءومفتوحةبزاوية 120درجة.",
+      "content": "6-من الضروري أنتكون فتحة أخذالعينات مطلةعلى السماءومفتوحةبزاوية 120درجة.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s60",
+      "section": "60",
+      "title": "7-أن تكون فتحةأخذ العيناتبين 2-7 متر فوقمستوى سطحالأرض.",
+      "content": "7-أن تكون فتحةأخذ العيناتبين 2-7 متر فوقمستوى سطحالأرض.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s61",
+      "section": "61",
+      "title": "8-يجب وصل محطةالرصد بشبكةكهرباءوإنترنتمستقرة لضمانالرصدالمستمروتبادلالبيانات.",
+      "content": "8-يجب وصل محطةالرصد بشبكةكهرباءوإنترنتمستقرة لضمانالرصدالمستمروتبادلالبيانات.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s62",
+      "section": "62",
+      "title": "9-يتم تركيبمحطة الرصد فيمكان آمنلتجنب التلفوالتخريب.",
+      "content": "9-يتم تركيبمحطة الرصد فيمكان آمنلتجنب التلفوالتخريب.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s63",
+      "section": "63",
+      "title": "10-يتم ترك فاصلبحد أدنى 2 مترلجهاز الرصدمن أي حائط أوحاجز على سطحالمبنى.",
+      "content": "10-يتم ترك فاصلبحد أدنى 2 مترلجهاز الرصدمن أي حائط أوحاجز على سطحالمبنى.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s64",
+      "section": "64",
+      "title": "Supplement(1): Technical Requirements of Air Quality Monitoring station in the C",
+      "content": "Supplement(1): Technical Requirements of Air Quality Monitoring station in the Crushingand Quarrying Industry",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s65",
+      "section": "65",
+      "title": "AmbientAir Quality Instrument Specifications Summary:",
+      "content": "AmbientAir Quality Instrument Specifications Summary:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s66",
+      "section": "66",
+      "title": "a) PM10and PM2.5 Continuous monitoring capability",
+      "content": "a) PM10and PM2.5 Continuous monitoring capability",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s67",
+      "section": "67",
+      "title": "a- Betaattenuation – Beta source: C14 (",
+      "content": "a- Betaattenuation – Beta source: C14 (",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s68",
+      "section": "68",
+      "title": "b-Tapered Element Oscillating Microbalance (TEOM) – Differential",
+      "content": "b-Tapered Element Oscillating Microbalance (TEOM) – Differential",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s69",
+      "section": "69",
+      "title": "c-Nephelometers (Light Scattering Technology)",
+      "content": "c-Nephelometers (Light Scattering Technology)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s70",
+      "section": "70",
+      "title": "Standardcross-reference:",
+      "content": "Standardcross-reference:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s71",
+      "section": "71",
+      "title": "- USEPA’s Title 40(CFR) Appendix J – Reference Method, PM10 in theAtmosphere",
+      "content": "- USEPA’s Title 40(CFR) Appendix J – Reference Method, PM10 in theAtmosphere",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s72",
+      "section": "72",
+      "title": "-EPA’s Title 40 CFR Part 50 Appendix L – Reference Method, PM2.5 inthe Atmospher",
+      "content": "-EPA’s Title 40 CFR Part 50 Appendix L – Reference Method, PM2.5 inthe Atmosphere",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s73",
+      "section": "73",
+      "title": "-EPA’s Title 40 CFR Part 58 Appendix D – Network Design Criteria forAAQM",
+      "content": "-EPA’s Title 40 CFR Part 58 Appendix D – Network Design Criteria forAAQM",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s74",
+      "section": "74",
+      "title": "-EPA’s Title 40 CFR Part 58 Appendix E – Probe & Monitoring PathSiting Criteria ",
+      "content": "-EPA’s Title 40 CFR Part 58 Appendix E – Probe & Monitoring PathSiting Criteria for AAQM",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s75",
+      "section": "75",
+      "title": "- EN12341:2014 for PM10",
+      "content": "- EN12341:2014 for PM10",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s76",
+      "section": "76",
+      "title": "- EN14907:2014 for PM2.5",
+      "content": "- EN14907:2014 for PM2.5",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s77",
+      "section": "77",
+      "title": "AllMethods used need to comply with the above International Standard",
+      "content": "AllMethods used need to comply with the above International Standard",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s78",
+      "section": "78",
+      "title": "c)Calibrated on site during installation, and Quarterly (Every 3 Months) against",
+      "content": "c)Calibrated on site during installation, and Quarterly (Every 3 Months) againstUS EPA or EU approved cross reference method as listed above for both Mass andFlow Rate.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s79",
+      "section": "79",
+      "title": "d)Concentration ranges: 0-1000 μg/m3 minimum (programmable)",
+      "content": "d)Concentration ranges: 0-1000 μg/m3 minimum (programmable)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s80",
+      "section": "80",
+      "title": "d)Detection limit: ≤ 10 μg/m3 for a 24hr cycle.",
+      "content": "d)Detection limit: ≤ 10 μg/m3 for a 24hr cycle.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s81",
+      "section": "81",
+      "title": "e)Measurement cycles: ≤ 15 min-24hr (user selectable).",
+      "content": "e)Measurement cycles: ≤ 15 min-24hr (user selectable).",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s82",
+      "section": "82",
+      "title": "f) Airflow rate: ≤ 1.5 m3/hr with a rate regulation accuracy: ± 2%",
+      "content": "f) Airflow rate: ≤ 1.5 m3/hr with a rate regulation accuracy: ± 2%",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s83",
+      "section": "83",
+      "title": "g)Non-Volatile memory with data storage of minimum 7 days within the device (1/4",
+      "content": "g)Non-Volatile memory with data storage of minimum 7 days within the device (1/4hour average values)",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s84",
+      "section": "84",
+      "title": "h)Temperature, Relative Humidity, Wind Direction and Wind Speed at location ofmo",
+      "content": "h)Temperature, Relative Humidity, Wind Direction and Wind Speed at location ofmonitoring instrument to be provided together with PM concentrationreadings.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s85",
+      "section": "85",
+      "title": "NecessaryQA/QC Activities:",
+      "content": "NecessaryQA/QC Activities:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s86",
+      "section": "86",
+      "title": "1-Quarterly flow rate checks with NIST-traceable standards,",
+      "content": "1-Quarterly flow rate checks with NIST-traceable standards,",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s87",
+      "section": "87",
+      "title": "2-Performance Evaluation (collocation) of the Federal Equivalence Methods (FEM)s",
+      "content": "2-Performance Evaluation (collocation) of the Federal Equivalence Methods (FEM)samplers and monitors listed above under Acceptance Methods against afilter-based FRM at Installation and once every quarter.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s88",
+      "section": "88",
+      "title": "3-Technical Systems Audit (TSA) to be performed by the Contractor of each sitepr",
+      "content": "3-Technical Systems Audit (TSA) to be performed by the Contractor of each siteprior to beginning monitoring.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s89",
+      "section": "89",
+      "title": "4- Datareview, tabulation, validation, and reporting.",
+      "content": "4- Datareview, tabulation, validation, and reporting.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s90",
+      "section": "90",
+      "title": "Supplement(2): Technical Requirements for the Placement and Installation of the ",
+      "content": "Supplement(2): Technical Requirements for the Placement and Installation of the AirQuality Monitoring Station",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s91",
+      "section": "91",
+      "title": "Whenchoosing the installation site, owners must take into account thefollowing:",
+      "content": "Whenchoosing the installation site, owners must take into account thefollowing:",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s92",
+      "section": "92",
+      "title": "-Horizontal and Vertical Placement",
+      "content": "-Horizontal and Vertical Placement",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s93",
+      "section": "93",
+      "title": "- Spacingfrom Emission Sources",
+      "content": "- Spacingfrom Emission Sources",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s94",
+      "section": "94",
+      "title": "- Spacingfrom Obstructions",
+      "content": "- Spacingfrom Obstructions",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s95",
+      "section": "95",
+      "title": "- Spacingfrom Roadways",
+      "content": "- Spacingfrom Roadways",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s96",
+      "section": "96",
+      "title": "- MaximumMonitoring Path Length",
+      "content": "- MaximumMonitoring Path Length",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s97",
+      "section": "97",
+      "title": "1- Placein an open area, away from the main crushing plant operations and roads ",
+      "content": "1- Placein an open area, away from the main crushing plant operations and roads –In many cases the quarry office area is suitable if residential areas around thelease lines are further than 1 km.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s98",
+      "section": "98",
+      "title": "2- Ifresidential areas exist within 1km of the lease area, then the monitoringst",
+      "content": "2- Ifresidential areas exist within 1km of the lease area, then the monitoringstation should be placed within the quarry lease area in the direction of theresidential area.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s99",
+      "section": "99",
+      "title": "3- Ifseveral residential areas exist around the lease area within 1km, then them",
+      "content": "3- Ifseveral residential areas exist around the lease area within 1km, then themonitoring station to be located downwind of the predominant winddirection.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s100",
+      "section": "100",
+      "title": "4- Mustbe at least 10m away from trees, Heat exchange units (A/C Compressors), e",
+      "content": "4- Mustbe at least 10m away from trees, Heat exchange units (A/C Compressors), exhaustfans etc.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s101",
+      "section": "101",
+      "title": "5- Not tobe located in the lee of structures to avoid their wind currents.",
+      "content": "5- Not tobe located in the lee of structures to avoid their wind currents.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s102",
+      "section": "102",
+      "title": "6- Openceiling above inlet necessary with clear open sky at 120 Deg. Angle above",
+      "content": "6- Openceiling above inlet necessary with clear open sky at 120 Deg. Angle above theinlet.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s103",
+      "section": "103",
+      "title": "7- Heightof inlet or sampling head to be within the 2m to 7m range above groundl",
+      "content": "7- Heightof inlet or sampling head to be within the 2m to 7m range above groundlevel.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s104",
+      "section": "104",
+      "title": "8-Availability of stable power & communication network for continuousmonitoring ",
+      "content": "8-Availability of stable power & communication network for continuousmonitoring and data transmission.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s105",
+      "section": "105",
+      "title": "9- Secureplace to prevent damage and vandalism.",
+      "content": "9- Secureplace to prevent damage and vandalism.",
+      "language": "ar"
+    },
+    {
+      "provision_ref": "s106",
+      "section": "106",
+      "title": "10-Minimum of 2 meters of separation from walls,parapets and structures is requi",
+      "content": "10-Minimum of 2 meters of separation from walls,parapets and structures is requiredfor rooftop site placement.",
+      "language": "ar"
+    }
+  ],
+  "definitions": []
+}

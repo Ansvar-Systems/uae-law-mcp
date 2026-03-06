@@ -1,10 +1,13 @@
 /**
  * Rate-limited HTTP client for UAE legal sources.
  *
- * Three sources:
- * 1. UAE Ministry of Justice (moj.gov.ae) — Federal legislation (Arabic + English)
- * 2. DIFC Laws (difclaws.com) — DIFC free zone legislation (English only)
- * 3. ADGM Legal Framework (adgm.com/legal-framework) — ADGM free zone (English only)
+ * Primary source: elaws.moj.gov.ae (Ministry of Justice e-Laws portal)
+ *   - Search API: POST /api/Laws/Search — paginated law discovery
+ *   - Direct HTML: /{Link} — full law text with articles
+ *
+ * Secondary sources (free zones, kept for compatibility):
+ *   - DIFC Laws (difclaws.com) — DIFC free zone legislation (English only)
+ *   - ADGM Legal Framework (adgm.com/legal-framework) — ADGM free zone (English only)
  *
  * - 500ms minimum delay between requests (be respectful to government servers)
  * - Browser-like User-Agent
@@ -15,7 +18,7 @@
 const USER_AGENT = 'UAELawMCP/1.0 (+https://github.com/Ansvar-Systems/uae-law-mcp)';
 const MIN_DELAY_MS = 500;
 
-const MOJ_BASE = 'https://moj.gov.ae';
+const ELAWS_BASE = 'https://elaws.moj.gov.ae';
 const DIFC_BASE = 'https://www.difclaws.com';
 const ADGM_BASE = 'https://adgm.com';
 
@@ -80,8 +83,129 @@ export async function fetchWithRateLimit(
   throw new Error(`Failed to fetch ${url} after ${maxRetries} retries`);
 }
 
+/**
+ * Post JSON to a URL with rate limiting.
+ */
+export async function postJson<T = unknown>(
+  url: string,
+  body: unknown,
+  maxRetries = 3,
+): Promise<{ status: number; data: T }> {
+  await rateLimit();
+
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: {
+        'User-Agent': USER_AGENT,
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'Accept-Language': 'en-US,en;q=0.9,ar;q=0.8',
+      },
+      body: JSON.stringify(body),
+    });
+
+    if (response.status === 429 || response.status >= 500) {
+      if (attempt < maxRetries) {
+        const backoff = Math.pow(2, attempt + 1) * 1000;
+        console.log(`  HTTP ${response.status} for ${url}, retrying in ${backoff}ms...`);
+        await new Promise(resolve => setTimeout(resolve, backoff));
+        continue;
+      }
+    }
+
+    const data = await response.json() as T;
+    return { status: response.status, data };
+  }
+
+  throw new Error(`Failed to POST ${url} after ${maxRetries} retries`);
+}
+
 // ============================================================
-// Federal legislation (moj.gov.ae)
+// elaws.moj.gov.ae API — Primary source for UAE federal laws
+// ============================================================
+
+/** A single search result from the elaws Search API */
+export interface ElawsSearchResult {
+  Id: number;
+  Fragment: string;
+  Link: string;
+  FinalTitle: string;
+  LawTitleLink: string | null;
+  LawNumber: string;
+  SubtitleNumber: string | null;
+  Level: number;
+  LawType: string;
+  LawDay: number | null;
+  LawMonth: number | null;
+  HasPdf: boolean;
+  LawYear: number;
+  LawDate: string;
+  DisplayName: string;
+  Introduction: string;
+  Reference: string;
+}
+
+/** Search API response */
+export interface ElawsSearchResponse {
+  results: ElawsSearchResult[];
+  totalCount: number;
+}
+
+/** Search request model */
+export interface ElawsSearchRequest {
+  Keyword: string | null;
+  Page: number;
+  CountPerPage: number;
+  Key: string;
+  LawTypes?: string[] | null;
+  LawYears?: string[] | null;
+  MainClassifications?: string[] | null;
+  SecondaryClassifications?: string[] | null;
+}
+
+/** Law type count */
+export interface ElawsLawTypeCount {
+  Key: string;
+  Value: number;
+}
+
+/**
+ * Search for laws in the elaws.moj.gov.ae portal.
+ * Default database key: 'AL1' (UAE federal legislation).
+ */
+export async function searchElaws(request: ElawsSearchRequest): Promise<ElawsSearchResponse> {
+  const url = `${ELAWS_BASE}/api/Laws/Search`;
+  const { data } = await postJson<ElawsSearchResponse>(url, request);
+  return data;
+}
+
+/**
+ * Get law type counts from the elaws portal.
+ */
+export async function getElawsLawTypeCounts(key = 'AL1'): Promise<ElawsLawTypeCount[]> {
+  const url = `${ELAWS_BASE}/api/Laws/GetLawTypeCounts`;
+  const { data } = await postJson<ElawsLawTypeCount[]>(url, { Key: key });
+  return data;
+}
+
+/**
+ * Fetch the full HTML content of a law from elaws.moj.gov.ae.
+ * The link path should come from a search result's Link field (without the #Anchor suffix).
+ */
+export async function fetchElawsContent(linkPath: string): Promise<FetchResult> {
+  // The Link field uses backslashes; convert to forward slashes and URL-encode
+  const normalizedPath = linkPath.replace(/\\/g, '/');
+  const encodedPath = normalizedPath
+    .split('/')
+    .map(segment => encodeURIComponent(segment))
+    .join('/');
+  const fullUrl = `${ELAWS_BASE}/${encodedPath}`;
+  return fetchWithRateLimit(fullUrl);
+}
+
+// ============================================================
+// Legacy: Federal legislation (moj.gov.ae — old URLs, no longer working)
 // ============================================================
 
 export interface FederalIndexEntry {
@@ -93,20 +217,13 @@ export interface FederalIndexEntry {
   number: number;
 }
 
-/**
- * Fetch the federal legislation index from the Ministry of Justice portal.
- * The MOJ website lists legislation in a browseable catalogue.
- */
 export async function fetchFederalIndex(): Promise<FetchResult> {
-  const url = `${MOJ_BASE}/en/legislation`;
+  const url = `${ELAWS_BASE}/laws/search`;
   return fetchWithRateLimit(url);
 }
 
-/**
- * Fetch the full content of a specific federal law page.
- */
 export async function fetchFederalContent(lawUrl: string): Promise<FetchResult> {
-  const fullUrl = lawUrl.startsWith('http') ? lawUrl : `${MOJ_BASE}${lawUrl}`;
+  const fullUrl = lawUrl.startsWith('http') ? lawUrl : `${ELAWS_BASE}${lawUrl}`;
   return fetchWithRateLimit(fullUrl);
 }
 
@@ -121,17 +238,11 @@ export interface DifcIndexEntry {
   year: number;
 }
 
-/**
- * Fetch the DIFC laws index page.
- */
 export async function fetchDIFCIndex(): Promise<FetchResult> {
   const url = `${DIFC_BASE}/laws-and-regulations`;
   return fetchWithRateLimit(url);
 }
 
-/**
- * Fetch the full content of a specific DIFC law page.
- */
 export async function fetchDIFCContent(lawUrl: string): Promise<FetchResult> {
   const fullUrl = lawUrl.startsWith('http') ? lawUrl : `${DIFC_BASE}${lawUrl}`;
   return fetchWithRateLimit(fullUrl);
@@ -148,17 +259,11 @@ export interface AdgmIndexEntry {
   year: number;
 }
 
-/**
- * Fetch the ADGM legal framework index page.
- */
 export async function fetchADGMIndex(): Promise<FetchResult> {
   const url = `${ADGM_BASE}/legal-framework`;
   return fetchWithRateLimit(url);
 }
 
-/**
- * Fetch the full content of a specific ADGM regulation page.
- */
 export async function fetchADGMContent(regulationUrl: string): Promise<FetchResult> {
   const fullUrl = regulationUrl.startsWith('http') ? regulationUrl : `${ADGM_BASE}${regulationUrl}`;
   return fetchWithRateLimit(fullUrl);
