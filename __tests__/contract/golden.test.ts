@@ -142,7 +142,27 @@ const isNightly = process.env['CONTRACT_MODE'] === 'nightly';
 
 const dbPath =
   process.env['UAE_LAW_DB_PATH'] ?? join(__dirname, '..', '..', 'data', 'database.db');
-const hasDatabase = existsSync(dbPath);
+
+/**
+ * Check whether the database file exists AND contains the required tables.
+ * The WASM SQLite driver may create an empty database file even in readonly
+ * mode, so a simple existsSync check is not sufficient.
+ */
+function checkDatabase(): boolean {
+  if (!existsSync(dbPath)) return false;
+  try {
+    const probe = new Database(dbPath, { readonly: true });
+    const row = probe.prepare(
+      "SELECT count(*) as n FROM sqlite_master WHERE type='table' AND name='legal_documents'"
+    ).get() as { n: number } | undefined;
+    probe.close();
+    return (row?.n ?? 0) > 0;
+  } catch {
+    return false;
+  }
+}
+
+const hasDatabase = checkDatabase();
 
 let mcpClient: Client;
 let db: InstanceType<typeof Database>;
