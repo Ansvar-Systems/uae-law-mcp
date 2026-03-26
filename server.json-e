@@ -38,7 +38,7 @@
       "version": "1.1.2",
       "transport": {
         "type": "streamable-http",
-        "url": "https://mcp.ansvar.eu/law-uae-law-mcp/mcp"
+        "url": "https://uae-law-mcp.vercel.app/mcp"
       }
     }
   ]
