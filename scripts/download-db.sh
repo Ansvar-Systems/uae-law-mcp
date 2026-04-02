@@ -1,5 +1,5 @@
-#!/bin/bash
-set -e
+#!/bin/sh
+set -eu
 VERSION=$(node -p "require('./package.json').version")
 REPO="Ansvar-Systems/uae-law-mcp"
 TAG="v${VERSION}"
