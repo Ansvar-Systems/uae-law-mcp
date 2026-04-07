@@ -39,12 +39,12 @@ This MCP server makes UAE law **searchable, cross-referenceable, and AI-readable
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-uae-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-ae/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add uae-law --transport http https://mcp.ansvar.eu/law-uae-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add uae-law --transport http https://mcp.ansvar.eu/law-ae/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -55,7 +55,7 @@ This MCP server makes UAE law **searchable, cross-referenceable, and AI-readable
   "mcpServers": {
     "uae-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-uae-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-ae/mcp"
     }
   }
 }
@@ -68,7 +68,7 @@ This MCP server makes UAE law **searchable, cross-referenceable, and AI-readable
   "github.copilot.chat.mcp.servers": {
     "uae-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-uae-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-ae/mcp"
     }
   }
 }
